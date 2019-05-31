@@ -1,0 +1,2 @@
+p.iepara { /*Conditional CSS- For IE (inc IE7), create 1em spacing between menu and paragraph that follows*/ padding-top: 1em; }
+.menu_subtitle { height: 22px; }

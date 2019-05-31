@@ -1,0 +1,1 @@
+				<li class="[@counter]"><img width="100" height="103" src="images/help-icons/[@english].jpg" alt="[@english]" /><br />[@english]<br />[@translation]</li>

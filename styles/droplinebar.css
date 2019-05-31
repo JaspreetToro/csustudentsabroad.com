@@ -1,0 +1,27 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+* { margin: 0; padding: 0; border: 0; }
+.droplinebar { overflow: hidden; height:52px; background: #FFBE52; }
+.droplinebar > ul { margin: 0; padding: 0; float: left; width: 100%; font: bold 13px Arial; background: #ffbe52; }
+.droplinebar > ul > li { display: inline; }
+.droplinebar > ul > li > a { float: left; color: #1A2B3F; font: 400 14px "Oswald", "Century Gothic", Avant Garde, Arial, Helvetica, Sans-Serif; text-transform:uppercase; text-decoration: none; text-align:center; text-shadow: 0 1px 0 #A14502; width: 103px; padding: 6px 2px 12px 2px; margin: 0; cursor:pointer; border-right: 1px solid #666; height: 32px; }
+.droplinebar > ul > li.main_last > a { border-right: none !important; padding-left: 6px; }
+.droplinebar > ul > li#nav-bar-select > a { /*background: #ffdea7;*/
+  /*background: #ffc970;*/
+  background:url(../images/menu-arrow.gif) no-repeat; }
+s .droplinebar > ul > li > a:visited { color: white; }
+.droplinebar > ul > li > a:hover { color: #1A2B3F; cursor:pointer; background:#ffc970 url(../images/menu-arrow.gif) no-repeat; }
+/* Mega menus */
+.droplinebar > ul > li > div { position: absolute; left: 0; top: 0; z-index: 100; width: 652px; background: #ffdea7; display: none; padding-bottom: 10px; border-bottom-left-radius: 6px; border-bottom-right-radius: 6px; }
+/* Extra div for padding */
+.droplinebar > ul > li > div > div { padding: 5px; }
+/* The actual menu */
+div.menu ul { list-style-type: none }
+div.menu ul li a, div.menu ul li a:link { font: 400 12px "Oswald", Arial, Helvetica, sans-serif; line-height:21px; text-align:left; text-shadow: 1px 1px 1px #CCC; color: #1A2B3F; text-decoration:none; }
+div.menu ul li a:hover { color: #1A2B3F; text-decoration:underline; }
+div.menu h3 { width: 100%; border-bottom: 1px dotted black; }
+.menu_3cols, .menu_2cols, .menu_1cols { float: left; padding: 0px; margin: 5px; text-align: left; }
+.menu_3cols { width: 200px; }
+.menu_2cols { width: 306px; }
+.menu_1cols { width: 622px; }
+.menu_1cols h3 { text-transform:uppercase; font: bold 14px "Oswald", "Century Gothic", Avant Garde, Arial, Helvetica, Sans-Serif; }
+.menu_3cols h3 { text-transform:uppercase; font: bold 14px "Oswald", "Century Gothic", Avant Garde, Arial, Helvetica, Sans-Serif; }

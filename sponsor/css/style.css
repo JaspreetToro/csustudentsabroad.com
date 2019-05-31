@@ -1,0 +1,20 @@
+body {
+	background: url(http://studentsabroad.com/images/bg_pattern_light.png) repeat;
+	width: 100%;
+}
+#main_container {
+	width:100%;
+}
+#sponsor_container {
+	margin-left:auto;
+	margin-right:auto;
+	width:961px;
+	background-color:#FFF;
+}
+.sponsors {
+	padding-top: 25px;
+}
+.sponsors img {
+	height: auto;
+	max-width: 961px;
+}

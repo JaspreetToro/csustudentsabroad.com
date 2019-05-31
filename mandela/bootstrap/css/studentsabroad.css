@@ -1,0 +1,140 @@
+body {
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 1.42857;
+	color: rgb(51, 51, 51);
+
+	background: #73a6ce url("../img/bg_pattern_light.png") repeat;
+}
+/*** non-responsive start ***/
+.container { max-width: none !important; width: 1030px; }
+.container .navbar-header,
+.container .navbar-collapse {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+/* Always float the navbar header */
+.navbar-header {
+  float: left;
+}
+
+/* Undo the collapsing navbar */
+.navbar-collapse {
+  display: block !important;
+  height: auto !important;
+  padding-bottom: 0;
+  overflow: visible !important;
+  box-shadow: none;
+}
+
+.navbar-toggle {
+  display: none;
+}
+.navbar-collapse {
+  border-top: 0;
+}
+
+.navbar-brand {
+  margin-left: -15px;
+}
+
+/* Always apply the floated nav */
+.navbar-nav {
+  float: left;
+  margin: 0;
+}
+.navbar-nav > li {
+  float: left;
+}
+.navbar-nav > li > a {
+  /* padding: 15px; */
+}
+
+/* Redeclare since we override the float above */
+.navbar-nav.navbar-right {
+  float: right;
+}
+
+/* Undo custom dropdowns */
+.navbar .navbar-nav .open .dropdown-menu {
+  position: absolute;
+  float: left;
+  background-color: #fff;
+  border: 1px solid #cccccc;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-width: 0 1px 1px;
+  border-radius: 0 0 4px 4px;
+  -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+          box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+}
+/*** non-responsive end ***/
+
+h1, h2, h3, h4, h5, h6 { font-family: 'Bree Serif', Arial, Helvetica, serif; font-weight: 400;}
+
+nav { font-family: 'Open Sans Condensed', sans-serif; }
+
+div.sa-main-nav { background-color: #182c42; }
+div.header-bg { background-color: #182c42; }
+div.header-container { background-color: #082842; width: 100%; height: 84px; }
+div.header-container h1, h2 { padding: 0; margin: 0; }
+
+span.white { color: #FFFFFF; }
+span.gold { color: #FFAE21; }
+
+div.logo { padding-left: 15px; }
+div.logo .domain { font-family: 'Open Sans Condensed', Arial, Helvetica, sans-serif; font-weight: 700; font-size: 52px; letter-spacing: -2px; }
+div.logo .domain a { text-decoration: none; }
+div.cge-logo { padding-top: 15px; padding-right: 15px; }
+div.cge-logo .organization { font-size:0em; }
+div.cge-logo .organization a { text-decoration: none; background: url("../img/cge-logo.jpg") no-repeat; display:block; width: 220px; height: 44px; }
+
+div.main-nav { clear: both; background-color: #082842; }
+
+.sa-navbar-collapse { position: relative;}
+
+.sa-main-nav .navbar-nav > li {
+	background-color: #5292bd;
+	margin-right: 1px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;  
+}
+.sa-main-nav .navbar-nav > li > a:hover, .sa-main-nav .navbar-nav > li > a:focus {
+	background-color: #6ba6ce;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;    
+}
+.sa-main-nav .navbar-nav > li > a {
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.sa-main-nav .navbar-nav > .active > a, .sa-main-nav .navbar-nav > .active > a:hover {
+    background-color: #6ba6ce;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.sa-main-nav .sa-navbar-left { }
+.sa-main-nav .sa-navbar-left .nav-title { font-size: 17px; font-weight: 700; }
+.sa-main-nav .sa-navbar-left .nav-subtitle { font-size: 13px; font-weight: 300; }
+.sa-main-nav .sa-navbar-left br { padding: 0; margin: 0; }
+
+.sa-main-nav .sa-navbar-right { position: absolute; bottom: 0; right: 30px; } /* replace when responsive */
+.sa-main-nav .sa-navbar-right .nav-title { font-size: 17px; font-weight: 700; }
+.sa-main-nav .sa-navbar-right > li { }
+.sa-main-nav .sa-navbar-right > li > a:hover, .sa-main-nav .navbar-nav > li > a:focus {
+	background-color: #6ba6ce;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;    
+}
+.sa-main-nav .sa-navbar-right > .active > a, .sa-main-nav .sa-navbar-right > .active > a:hover {
+    background-color: #6ba6ce;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+div.sa-main-content {  }
+div.content-bg { background-color: #6ba6ce; height: 100%; }	

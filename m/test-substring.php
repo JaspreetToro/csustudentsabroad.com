@@ -1,0 +1,15 @@
+<p id="demoindexof">indexOf1: <span id="demo1"></span></p>
+<p id="demoindexof">indexOf2: <span id="demo2"></span></p>
+<p id="demosubstring">subString: <span id="demo3"></span></p>
+<script type="text/javascript" langauge="javascript">
+var str='<div id="programlistcontainer"><div id="container"><div id="main-content"><div class="one-col-row"><div class="c1"><div class="program-block"><div class="list-block"><!--FEATUREDPROGRAM LIST ROWSTART--><div class="featured-programs"><div class="overview"><div class="left"><a href="javascript:void(0)" onclick="getProgrambrochure({FEATUREDPROGRAM_ID})"><!--{FEATUREDPROGRAM_NAME}--></a><br /> <!--{FEATUREDPROGRAM_CITY}-->, <!--{FEATUREDPROGRAM_COUNTRY}--></div><div class="right"><span>Terms:</span> <!--{FEATUREDPROGRAM_TERM}--><br /><span>Partner(s):</span> <!--{FEATUREDPROGRAM_PARTNER}--></div></div><div class="description"><span>Description:</span> <!--{FEATUREDPROGRAM_DESCRIPTION}--></div></div><!--FEATUREDPROGRAM LIST ROWEND--><!--</div>--><div class="list-info">Currently, the listing is showing Outgoing Programs, sorted by <span>Name</span>.</div><!--<div class="list-buttons"><ul><li class="selected"><a href="#">Outgoing</a></li><li><a href="#">Scholarships</a></li></ul></div>--><div class="legend">(F) Featured Programs  (Inactive) Program Not Active</div><div class="list-all"><table border="0" cellspacing="0" cellpadding="2"><thead class="table-head"><tr><th align="left" class="first">Program Name <a href="javascript:void(0)" onclick="sortbyPrgName()">SortByName</a></th><th align="left" valign="middle">City <a href="javascript:void(0)" onclick="sortbyPrgCity()">SortByCity</a></th><th align="left">Country <a href="javascript:void(0)" onclick="sortbyPrgCountry()">SortByCountry</a></th><th align="left">Region <a href="javascript:void(0)" onclick="sortbyPrgRegion()">SortByRegion</a></th></tr></thead><!--PROGRAM LIST ROWSTART--><tr><td align="left" class="{CLASS_NAME}"><a href="javascript:void(0)" onclick="getProgrambrochure({PROGRAM_ID})" title="<!--{PROGRAM_NAME}-->"><!--{PROGRAM_NAME}--></a> <!--{BIT_FEATURED}--></td><td align="left" class="{CLASS_NAME}"><!--{PROGRAM_CITY}--></td><td align="left" class="{CLASS_NAME}"><!--{PROGRAM_COUNTRY}--></td><td align="left" class="{CLASS_NAME}"><!--{PROGRAM_REGION}--></td></tr><!--PROGRAM LIST ROWEND--></table></div></div><!--</div>--><!--</div>--><!--</div>--></div></div></div></div><div id="footer" align="center"> By Terra Dotta. Technology for educating the world. Copyright Terra Dotta, LLC. All Rights Reserved. </div></div></div>';
+
+var str_index1 = str.indexOf('<!--PROGRAM LIST ROWSTART-->');
+var str_index2 = str.indexOf('<!--PROGRAM LIST ROWEND-->');
+
+var str_substring = str.substring(str_index1+100,str_index2);
+
+document.getElementById("demo1").innerHTML=str_index1;
+document.getElementById("demo2").innerHTML=str_index1;
+document.getElementById("demo3").innerHTML=str_substring;
+</script>

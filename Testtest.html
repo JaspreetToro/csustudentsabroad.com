@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+</head>
+
+<body>
+<div id="results"></div>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+// <![CDATA[
+function _cb_getPrograms(root)
+{
+	var progname = '';
+	var programtypeid = '';
+	var progid = 0;
+	var program = '';
+	var rs = root.PROGRAM;
+		if(rs) {
+			for (var key in rs) {
+				if(key && typeof rs[key]=='object'){
+					var obj = rs[key];
+					for (var prop in obj) {
+						if(prop == 'PROGRAM_NAME')	{
+							progname = obj[prop] ;}
+						if(prop == 'PROGRAM_ID'){
+							progid = obj[prop] ;}
+						if(prop == 'PROGRAM_TYPE_ID'){
+							programtypeid = obj[prop] ;}
+					}
+					if (null != progname && null != programtypeid)
+					{
+						if(programtypeid == '2'){
+								program = program + '<a href="/index.cfm?FuseAction=Programs.ViewProgram&amp;Program_ID=' + progid + '">' + progname + '</a>' + " (Incoming)<br />";
+						}
+						else {
+								program = program + '<a href="/index.cfm?FuseAction=Programs.ViewProgram&amp;Program_ID=' + progid + '">' + progname + '</a>' + "<br />";
+						}
+					}
+				}
+			}
+		}
+		document.getElementById("results").innerHTML = program;
+}
+// ]]>
+//-->
+</script>
+
+<script src="https://global.ccpe.csulb.edu/piapi/index.cfm?callname=getPrograms&ResponseEncoding=JSON" type="text/javascript"></script>
+</body>
+</html>

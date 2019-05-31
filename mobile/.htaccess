@@ -1,0 +1,5 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+#rewritecond %{http_host} ^studentsabroad.net [nc]
+#rewriterule ^(.*)$ http://studentsabroad.net/mobile [L,R=301]

@@ -1,0 +1,1 @@
+<li><a href="[@URL]" target="_blank" alt="[@title]" title="[@title]">[@title]</a> [@description]</li>

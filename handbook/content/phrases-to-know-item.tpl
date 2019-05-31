@@ -1,0 +1,1 @@
+<li><span class="phrase_english">[@english]</span> <br />&nbsp;&nbsp;<span class="phrase_translate">[@translation]</span></li>

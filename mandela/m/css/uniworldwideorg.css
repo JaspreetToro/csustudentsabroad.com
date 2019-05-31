@@ -1,0 +1,1090 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,300);
+
+body {
+    color: #666666;
+    font-size: 13px;
+}
+
+.container {
+    max-width: 1024px;
+}
+
+#global-translate {
+    width: 100%;
+    background-color: #000;
+}
+
+#global-translate .main-translate {
+    background-color: #e7e7e7;
+}
+
+#global-translate .main-translate .translate-container {
+    float: right;
+}
+
+#global-header {
+    width: 100%;
+    background-color: #000;
+}
+
+#global-header .main-header {
+    height: 100px;
+    background-color: #181C18;
+}
+
+a.logo {
+    display: block;
+    background: url("../img/uniworldwide-logo-lg.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 72px;
+    width: 608px;
+}
+
+h3.brand {
+    text-transform: uppercase;
+    font-size: 1.063em;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    padding-top: 5px;
+    margin-top: 0px;
+}
+
+.main-header h1 {
+    text-indent: -9999px;
+    display: none;
+}
+
+#global-nav {
+    background-color: #000;
+}
+
+#global-nav .nav-explore > li {
+    font-family: "Oswald";
+    font-weight: 400;
+    text-shadow: 0 1px 0 #666;
+    font-size: 14px;
+}
+
+#global-nav .main-nav {
+    background-color: #181C18;
+}
+
+#global-nav .navbar-nav > li {
+    background-color: #FFCA08;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-right: 1px;
+    text-align: center;
+}
+
+#global-nav .navbar-nav li.active {
+    background-color: #FFD540;
+}
+
+#global-nav .navbar-nav > li > a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #002D60;
+}
+
+#global-nav .navbar-nav > li > a:hover, #global-nav .navbar-nav > li > a:focus {
+    background-color: #FFD540;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+#global-nav .nav-association > li {
+    background-color: #F3F3F3;
+    font-family: "Oswald";
+    font-weight: 400;
+    text-shadow: 0 1px 0 #666;
+    font-size: 14px;
+}
+
+#global-nav .nav-association > li.active {
+    background-color: #E7E7E7;
+}
+
+#global-nav .nav-association > li > a:hover, #global-nav .nav-association > li > a:focus {
+    background-color: #E7E7E7;
+}
+
+#global-nav .navbar-nav > li.explore-associations {
+    display: none;
+}
+
+#global-content {
+    background: #08519c url("../img/bg_pattern_light.png") repeat;
+    border-top: 3px solid #FFCA08;
+}
+
+#global-content .main-content {
+    background-color: #08519c;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#global-content .main-module {
+    padding-right: 0;
+}
+
+#global-content .banner-module .banner-panel {
+    background-color: #08519c;
+}
+
+.panel-body-content {
+    clear: left;
+    padding-top: 0px;
+}
+
+#quoteCarousel .quote-carousel-indicators {
+    position: absolute;
+    bottom: 1%;
+    left: 1%;
+    z-index: 5;
+    margin: 0;
+    list-style: none;
+    text-align: left;
+}
+
+#quoteCarousel .quote-carousel-inner .yellow {
+    color: #FFCA08;
+}
+
+.quote-caption {
+    left: 0%;
+    right: 0%;
+    text-shadow: none;
+}
+
+.quote-caption blockquote {
+    border-left: none;
+    padding: 0 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 1.250em;
+    font-weight: 500;
+    margin: 0;
+}
+
+.quote-caption a:hover, a:focus {
+    color: #428bca;
+    text-decoration: none;
+}
+
+.quote-caption a {
+    color: #08519c;
+    text-decoration: none;
+}
+
+#global-content .sidebar-module {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#global-content .sidebar-module .panel-heading {
+    padding: 5px 15px;
+}
+
+#global-content .sidebar-module .sidebar-heading h4 {
+    font-size: 1.125em;
+    font-family: "Oswald";
+    font-weight: 400;
+    text-shadow: 0 1px 0 #999;
+    letter-spacing: 1px;
+}
+
+#global-content .sidebar-module h5 {
+    font-size: 0.938em;
+}
+
+#accordioncurrent {
+    margin-bottom: 4px;
+}
+
+#accordionothers {
+    margin-bottom: 4px;
+}
+
+#global-content .panel-subheading {
+    background-color: #F5F5F5;
+    border-bottom: 1px solid #DDDDDD;
+    color: #333333;
+}
+
+#global-content .panel-subheading h5 {
+    padding: 5px 15px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#global-content .panel-subheading1 {
+    background-color: #F5F5F5;
+    border-bottom: 1px solid #DDDDDD;
+    border-top: 1px solid #DDDDDD;
+    color: #333333;
+}
+
+#global-content .panel-subheading1 h5 {
+    padding: 5px 15px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.description .logo {
+    float: left;
+    padding: 5px 0;
+    height: 60px;
+    width: 60px;
+    padding: 3px;
+    border: 1px solid #E7E3E7;
+    margin: 8px 6px 0 0;
+}
+
+.description .logo img {
+    width: 100%;
+    max-height: 100%;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#global-content .sidebar-module > .sidebar-module-heading {
+    background: #eaebe3;
+    background: -moz-linear-gradient(top, #eaebe3 1%, #fefcf7 16%, #fff 42%);
+    background: -webkit-linear-gradient(top, #eaebe3 1%, #fefcf7 16%, #fff 42%);
+    background: -o-linear-gradient(top, #eaebe3 1%, #fefcf7 16%, #fff 42%);
+    background: -ms-linear-gradient(top, #eaebe3 1%, #fefcf7 16%, #fff 42%);
+    background: linear-gradient(to bottom, #eaebe3 1%, #fefcf7 16%, #fff 42%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#eaebe3', endColorstr='#ffffff', GradientType=0);
+}
+/* .collapse { transition: height 0.01s; } */
+.collapsing {
+    -webkit-transition: none;
+    transition: none;
+}
+
+.panel-group h4 {
+    font-size: 12px;
+}
+
+h2.ribbon {
+    font-family: "Oswald";
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-shadow: 0 1px 0 #666;
+    position: relative;
+    color: #002D60;
+    background: #FFCA08;
+    font-size: 1.125em;
+    float: left;
+    clear: both;
+    padding: 10px 10px 8px 20px;
+    margin-top: 10px;
+    margin-left: -10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+h2.ribbon:before {
+    content: " ";
+    background: url(../img/ribbon-yellow.png);
+    display: block;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin-bottom: -10px;
+	/* z-index:-1; */
+}
+
+.statements .statement-label {
+    font-size: 1.063em;
+    font-weight: 700;
+    padding: 5px 0;
+}
+
+.statements .statement-brief {
+    padding: 0;
+}
+
+.statements .statement-more {
+    margin-left: 10px;
+    padding: 5px 0;
+}
+
+.statements .dialogue-more {
+    margin-left: 0;
+    padding: 0 0 5px 0;
+}
+
+.module1-body .photo {
+    float: left;
+    padding: 5px 8px 2px 0;
+}
+
+.module1-body .photo img {
+    border: 1px solid #E7E3E7;
+    padding: 3px;
+}
+
+.resources-photo {
+    text-align: center;
+    padding: 0 0 10px 0;
+    margin: 0;
+}
+
+.resources-photo img {
+    border: 1px solid #E7E3E7;
+    padding: 3px;
+}
+
+.resources-label {
+    font-size: 1em;
+    font-weight: 700;
+}
+
+.resources-brief {
+    padding: 10px 0;
+}
+.resources_brief {
+    padding: 10px 0;
+}
+
+.resources_label {
+    font-weight: 700;
+    font-size: 1.125em;
+}
+
+.resources_program {
+    font-weight: 700;
+    font-size: 1.00em;
+}
+
+div.main_event_container .event_date {
+    border-bottom: 1px solid #E7E3E7;
+    cursor: pointer;
+    padding: 5px 0;
+    margin: 0;
+}
+
+div.main_event_container .event_item {
+    padding: 0 5px;
+    margin: 0;
+}
+
+div.main_event_container .event_item .event_span {
+    cursor: pointer;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    margin: 6px 0px;
+    padding: 10px;
+    border-color: #ddd;
+    color: #333;
+}
+
+
+div.main_event_container .event_item .event_span .icon {
+    display: none;
+    float: left;
+    margin: 0 0 0 5px;
+    padding: 4px 0 0 0;
+}
+
+div.main_event_container .event_item .event_span .range {
+    float: left;
+    padding: 0;
+    width: 15%;
+}
+
+div.main_event_container .event_item .event_span .organization {
+    float: right;
+    width: 82%;
+    padding: 0 0 0 8px;
+}
+
+div.main_event_container .event_item .event_information {
+    padding: 0;
+    margin: 0;
+    clear: left;
+    display: none;
+}
+
+div.main_event_container .event_item .event_information .detail_item {
+    padding: 5px 0 10px 0;
+    margin: 0;
+}
+
+div.main_event_container .event_item .event_information .event_day {
+    display: none;
+}
+
+div.main_event_container .event_item .event_information .event_detail {
+    padding: 0 0 0 22px;
+    margin: 0;
+}
+
+div.main_event_container .event_item .event_information .event_detail .event_organization {
+    padding: 0 0 5px 0;
+    margin: 0;
+}
+
+div.main_event_container .event_item .event_information .event_detail .event_url {
+    padding: 5px 0;
+    margin: 0;
+}
+
+div.main_event_container .event_item .event_information .event_detail .event_url a:link {
+    text-decoration: none;
+    color: #002D60;
+	word-wrap: break-word;
+}
+
+div.main_event_container .event_item .event_information .event_detail .event_url a:hover {
+    text-decoration: underline;
+    color: #002D60;
+}
+
+div.main_event_container .event_item .event_information .event_detail .event_url a:visited {
+    text-decoration: none;
+    color: #002D60;
+}
+
+div.main_event_container .event_item .event_information .event_detail .event_description {
+    padding: 5px 0;
+    margin: 0;
+}
+
+div.main_event_container .event_item .event_information .event_detail .event_description p {
+    padding: 0 0 10px 0;
+    margin: 0;
+}
+
+div.main_event_container .event_item .event_information .event_detail .event_description ul {
+    border: none !important;
+    list-style-type: disc !important;
+    padding: 0 0 15px 15px !important;
+}
+
+div.main_event_container .event_item .event_information .event_detail .event_description ul li {
+    border-bottom: none !important;
+    list-style-type: disc!important;
+}
+
+.article h1 {
+    font-size: 1.375em;
+    font-weight: 700;
+    line-height: 1.1;
+    color: #333;
+}
+
+.article h2, .article h3, .article h4, .article h5 {
+    font-size: 1.125em;
+    font-weight: 700;
+    line-height: 1.1;
+    color: #333;
+}
+
+.article .article_author {
+    padding-bottom: 10px;
+    font-size: 0.875em;
+}
+
+#global-footer {
+    width: 100%;
+    background-color: #000;
+    border-top: 3px solid #FFCA08;
+}
+
+#global-footer .main-footer {
+    background-color: #181C18;
+}
+
+#global-footer .main-footer-wrapper h4 {
+    font-family: "Oswald";
+    font-weight: 400;
+    text-shadow: 0 1px 0 #666;
+    font-size: 1.125em;
+}
+
+#global-footer .main-footer-wrapper .panel {
+    background-color: #181C18;
+    border: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+#global-footer .main-footer-wrapper .panel-heading {
+    background-color: #181C18;
+    border: none;
+    color: #FFCA08;
+}
+
+#global-footer .main-footer-wrapper .panel ul {
+    padding: 0;
+    margin: 0;
+}
+
+#global-footer .main-footer-wrapper .panel ul li {
+    list-style-type: none;
+}
+
+#global-footer .main-footer-wrapper .footer-about {
+    color: #CCC;
+}
+
+#global-footer .main-footer-wrapper .footer-collaboration .panel-heading {
+    padding-bottom: 30px;
+}
+
+#global-footer .panel-bottom-footer {
+    background-color: #181C18;
+    border: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    color: #CCC;
+}
+#global-footer .footer-resources .panel-body {
+	padding: 15px 0 0 0;	
+}
+
+#global-footer .footer-resources .panel-heading {
+	padding-bottom: 30px; 	
+}
+.sub_feature_more {
+    clear: left;
+    text-align: left;
+    padding-top: 10px;
+}
+
+.association-body .association-brief {
+    display: none;
+}
+
+.organization-body .association-brief {
+    display: none;
+}
+
+.association-body #accordioncurrent {
+    display: block;
+}
+
+.organization-body #accordionothers {
+    display: block;
+}
+
+.module-association-organization .panel-association {
+    display: none;
+}
+
+.module-association-organization .panel-organization {
+    display: none;
+}
+
+.subheading-organization h5 {
+    position: relative;
+}
+
+.organization-more {
+    position: absolute;
+    right: 3%;
+    top: 20%;
+}
+
+.subheading-association h5 {
+    position: relative;
+}
+
+.association-more {
+    position: absolute;
+    right: 3%;
+    top: 20%;
+}
+
+.help-block {
+    color: #a94442;
+}
+
+#global-header .logo-wrapper {
+    padding-top: 12px;
+}
+
+.success-block {
+	border-radius: 4px;
+}
+.success-block p{
+	padding: 10px;
+}
+@media screen and (max-width:767px) {
+    a.logo {
+        display: block;
+        background: url("../img/uniworldwide-logo.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+        height: 72px;
+        width: 320px;
+        float: left;
+    }
+
+    #home {
+        border-right: 1px solid #FFE277;
+        border-bottom: 1px solid #FFE277;
+    }
+
+    #about {
+        border-bottom: 1px solid #FFE277;
+    }
+
+    #collaborations {
+        border-left: 1px solid #FFE277;
+        border-bottom: 1px solid #FFE277;
+    }
+
+    #resources {
+        border-right: 1px solid #FFE277;
+    }
+
+    #explore-associations-id {
+        border-left: 1px solid #FFE277;
+    }
+
+    .nav-explore > li > a {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .nav-col-sm-4 {
+        display: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    #global-nav {
+        -moz-overflow: hidden;
+        overflow: hidden;
+        overflow: -moz-hidden-unscrollable;
+        position: relative;
+        border: none;
+    }
+
+    .main-nav-row {
+        -moz-overflow: hidden;
+        overflow: hidden;
+        overflow: -moz-hidden-unscrollable;
+        position: relative;
+        border: none;
+    }
+
+    .nav-explore {
+        padding: 0;
+        width: 104.8%;
+        margin: 15px 0 0 1px;
+        -moz-overflow: hidden;
+        overflow: hidden;
+        overflow: -moz-hidden-unscrollable;
+        position: relative;
+        border: none;
+    }
+
+    #global-content {
+        border-top: none;
+    }
+
+    #global-header .main-header {
+        height: 90px;
+    }
+
+    #global-header .logo-wrapper {
+        padding-top: 12px;
+    }
+
+    #global-nav .main-nav {
+        background-color: #08519c;
+    }
+
+    #global-nav .navbar-nav > li {
+        border-top-left-radius: 0px !important;
+        border-top-right-radius: 0px !important;
+        width: 32%;
+        float: left;
+        margin: 0;
+        position: relative;
+        z-index: 2;
+        font-size: 14.5px;
+    }
+
+    #global-nav .navbar-nav > li > a:hover, #global-nav .navbar-nav > li > a:focus {
+        border-top-left-radius: 0px !important;
+        border-top-right-radius: 0px !important;
+        border-bottom-left-radius: 0px !important;
+        border-bottom-right-radius: 0px !important;
+        font-size: 14.5px;
+    }
+
+    #global-nav .nav-explore li.explore-associations {
+        display: block;
+        background-color: #FFCA08;
+        border-top-left-radius: 0px !important;
+        border-top-right-radius: 0px !important;
+        border-bottom-left-radius: 0px !important;
+        border-bottom-right-radius: 0px !important;
+        width: 32%;
+    }
+
+    #global-nav .nav-explore li.explore-associations {
+        background-color: #FFCA08;
+    }
+
+    #global-nav .nav-explore li.active {
+        background-color: #FFD540;
+    }
+
+    #global-nav .nav-explore li.explore-associations > a:hover, #global-nav .nav-explore li.explore-associations > a:focus {
+        background-color: #FFD540;
+    }
+
+    .nav-association {
+        display: none;
+    }
+
+    #global-content .main-module {
+        padding-right: 10px;
+    }
+
+    .resources-photo {
+        display: none;
+    }
+
+    .resources-label {
+        padding-top: 10px;
+    }
+
+    .university-program-brief {
+        padding-bottom: 0;
+    }
+
+    .general-resources-brief {
+        padding-bottom: 0;
+    }
+
+    .main-footer-wrapper .panel-heading {
+        padding: 0 0 0 15px !important;
+        margin: 0;
+    }
+
+    .main-footer-wrapper .panel-body {
+        padding: 0 0 0 15px !important;
+        margin: 0;
+    }
+
+    .association-body .association-brief {
+        display: block;
+    }
+
+    .organization-body .association-brief {
+        display: block;
+    }
+
+    .association-body #accordioncurrent {
+        display: none;
+    }
+
+    .organization-body #accordionothers {
+        display: none;
+    }
+
+    #global-content .main-sidebar {
+        padding-right: 10px;
+    }
+}
+
+@media screen and (max-width:477px) {
+    #global-content {
+        border-top: none;
+    }
+
+    a.logo {
+        display: block;
+        background: url("../img/uniworldwide-logo-md.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+        height: 59px;
+        width: 260px;
+        float: left;
+    }
+
+    #home {
+        border-right: 1px solid #FFE277;
+        border-bottom: 1px solid #FFE277;
+    }
+
+    #about {
+        border-bottom: 1px solid #FFE277;
+    }
+
+    #collaborations {
+        border-right: 1px solid #FFE277;
+        border-bottom: 1px solid #FFE277;
+        border-left: none;
+    }
+
+    #resources {
+        border-bottom: 1px solid #FFE277;
+        border-right: none;
+    }
+
+    #conferences {
+        border-right: 1px solid #FFE277;
+    }
+
+    #explore-associations-id {
+        border-left: none;
+    }
+
+    .nav-col-sm-4 {
+        display: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    #global-nav {
+        -moz-overflow: hidden;
+        overflow: hidden;
+        overflow: -moz-hidden-unscrollable;
+        position: relative;
+        border: none;
+    }
+
+    .main-nav-row {
+        -moz-overflow: hidden;
+        overflow: hidden;
+        overflow: -moz-hidden-unscrollable;
+        position: relative;
+        border: none;
+    }
+
+    .nav-explore {
+        padding: 0;
+        width: 107.4%;
+        margin: 15px 0 0 0;
+        -moz-overflow: hidden;
+        overflow: hidden;
+        overflow: -moz-hidden-unscrollable;
+        position: relative;
+        border: none;
+    }
+
+    .nav-explore li {
+        width: 47% !important;
+    }
+
+    div.main_event_container .event_item .event_span .organization {
+        width: 75%;
+        padding: 0 0 0 8px;
+    }
+
+    .quote-caption blockquote {
+        font-size: 16.5px;
+    }
+
+    .quote-caption a {
+        font-size: 16.5px;
+    }
+
+    .association-body .association-brief {
+        display: block;
+    }
+
+    .organization-body .association-brief {
+        display: block;
+    }
+
+    .association-body #accordioncurrent {
+        display: none;
+    }
+
+    .organization-body #accordionothers {
+        display: none;
+    }
+
+    .carousel-inner>.item>img, .carousel-inner>.item>a>img {
+        display: none;
+        height: auto;
+        line-height: 1;
+        max-width: 100%;
+    }
+
+    .carousel-inner>.carousel-item-1>a {
+        display: block;
+        background-repeat: no-repeat;
+        background-image: url("../img/quotes/478/mandela-2-banner-x478.png");
+        background-size: cover;
+        background-size: 100% 100%;
+        height: 110px;
+    }
+
+    .carousel-inner>.carousel-item-2>a {
+        display: block;
+        background-repeat: no-repeat;
+        background-image: url("../img/quotes/478/mandela-3-banner-x478.png");
+        background-size: cover;
+        background-size: 100% 100%;
+        height: 110px;
+    }
+
+    .carousel-inner>.carousel-item-3>a {
+        display: block;
+        background-repeat: no-repeat;
+        background-image: url("../img/quotes/478/mandela-4-banner-x478.png");
+        background-size: cover;
+        background-size: 100% 100%;
+        height: 110px;
+    }
+
+    .carousel-inner>.carousel-item-4>a {
+        display: block;
+        background-repeat: no-repeat;
+        background-image: url("../img/quotes/478/mandela-6-banner-x478.png");
+        background-size: cover;
+        background-size: 100% 100%;
+        height: 110px;
+    }
+
+    .carousel-inner>.carousel-item-5>a {
+        display: block;
+        background-repeat: no-repeat;
+        background-image: url("../img/quotes/478/mandela-8-banner-x478.png");
+        background-size: cover;
+        background-size: 100% 100%;
+        height: 110px;
+    }
+	.quote-carousel-indicators li, .quote-carousel-indicators li.active  {
+		width: 8px;
+		height: 8px;
+		margin: 1px;
+	}		
+}
+
+@media screen and (max-width:319px) {
+    #global-content {
+        border-top: none;
+    }
+
+    #global-header .logo-wrapper {
+        padding-top: 22px;
+    }
+
+    a.logo {
+        display: block;
+        background: url("../img/uniworldwide-logo-sm.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+        float: left;
+        height: 41px;
+        width: 180px;
+    }
+
+    #global-nav {
+        -moz-overflow: hidden;
+        overflow: hidden;
+        overflow: -moz-hidden-unscrollable;
+        position: relative;
+        border: none;
+    }
+
+    .main-nav-row {
+        -moz-overflow: hidden;
+        overflow: hidden;
+        overflow: -moz-hidden-unscrollable;
+        position: relative;
+        border: none;
+    }
+
+    .nav-explore {
+        padding: 0;
+        margin: 15px 0 0 0;
+        -moz-overflow: hidden;
+        overflow: hidden;
+        overflow: -moz-hidden-unscrollable;
+        position: relative;
+        border: none;
+        width: 108%;
+    }
+
+    .nav-explore li {
+        width: 47% !important;
+    }
+
+    .quote-caption blockquote {
+        font-size: 13.5px;
+    }
+
+    .quote-caption a {
+        font-size: 13.5px;
+    }
+
+    .association-body .association-brief {
+        display: block;
+    }
+
+    .organization-body .association-brief {
+        display: block;
+    }
+
+    .association-body #accordioncurrent {
+        display: none;
+    }
+
+    .organization-body #accordionothers {
+        display: none;
+    }
+
+    #quoteCarousel .quote-carousel-indicators {
+        display: none;
+    }
+
+    .carousel-inner>.item>img, .carousel-inner>.item>a>img {
+        display: none;
+        height: auto;
+        line-height: 1;
+        max-width: 100%;
+    }
+
+    .carousel-inner>.carousel-item-1>a {
+        display: block;
+        background-repeat: no-repeat;
+        background-image: url("../img/quotes/320/mandela-2-banner-x320.png");
+        background-size: cover;
+        background-size: 100% 100%;
+        height: 110px;
+    }
+
+    .carousel-inner>.carousel-item-2>a {
+        display: block;
+        background-repeat: no-repeat;
+        background-image: url("../img/quotes/320/mandela-3-banner-x320.png");
+        background-size: cover;
+        background-size: 100% 100%;
+        height: 110px;
+    }
+
+    .carousel-inner>.carousel-item-3>a {
+        display: block;
+        background-repeat: no-repeat;
+        background-image: url("../img/quotes/320/mandela-4-banner-x320.png");
+        background-size: cover;
+        background-size: 100% 100%;
+        height: 110px;
+    }
+
+    .carousel-inner>.carousel-item-4>a {
+        display: block;
+        background-repeat: no-repeat;
+        background-image: url("../img/quotes/320/mandela-6-banner-x320.png");
+        background-size: cover;
+        background-size: 100% 100%;
+        height: 110px;
+    }
+
+    .carousel-inner>.carousel-item-5>a {
+        display: block;
+        background-repeat: no-repeat;
+        background-image: url("../img/quotes/320/mandela-8-banner-x320.png");
+        background-size: cover;
+        background-size: 100% 100%;
+        height: 110px;
+    }
+}

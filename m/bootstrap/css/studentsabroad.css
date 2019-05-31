@@ -1,0 +1,14 @@
+#global-header {
+	background-color: #182c42;	
+	height: 128px;
+}
+.main-nav a.logo h1 {
+	display: none;
+	text-indent: -9999px;
+}
+.main-nav a.logo {
+	background-image: url(../img/studentsabroad-logo.png);
+	height: 41px;
+	width: 234px;
+	display: block;
+}

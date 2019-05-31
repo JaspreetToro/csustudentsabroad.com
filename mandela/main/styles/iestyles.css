@@ -1,0 +1,4 @@
+#glowingtabs a { background:url(../images/tab_button_left.png) no-repeat left top; }
+#glowingtabs a span { background:url(../images/tab_button_right.png) no-repeat right top; }
+#glowingtabs_orange a { background:url(../images/tab_button_orange_left.jpg) no-repeat left top; }
+#glowingtabs_orange a span { background:url(../images/tab_button_orange_right.jpg) no-repeat right top; }

@@ -1,0 +1,22 @@
+# http://studentsabroad.com
+# 04/22/2013 all robots
+
+User-agent: *
+Disallow: /.hcc.thumbs/
+Disallow: /_db_backups/
+Disallow: /allabroad.us/
+Disallow: /cgi/
+Disallow: /lib/
+Disallow: /sponsorship/
+Disallow: /stats/
+Disallow: /TerraDotta/
+Disallow: /test-studentabroad/
+Disallow: /workspace/
+#temporary
+Disallow: /mobile/
+Disallow: /m/
+Disallow: /mandela/bootstrap/
+Disallow: /mandela/main/
+Disallow: /CIDEUCLA.com/
+Disallow: /cide-ucla/
+Disallow: /cide/

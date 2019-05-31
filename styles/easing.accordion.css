@@ -1,0 +1,145 @@
+.student_handbook_menu ul {
+	margin:0;
+	padding:0;
+}
+.student_handbook_menu ul.student_handbook_container {
+	/* The topmost UL */ 
+	width:284px;
+	margin:0 auto;
+	/*padding:50px;*/
+	padding:0;
+}
+.student_handbook_menu li {
+	list-style:none;
+	text-align:left;
+}
+.student_handbook_menu li.menu {
+	/* The main list elements */
+	padding:2px 0;
+	width:100%;
+}
+.student_handbook_menu li.button a {
+	/* The section titles */
+	display:block;
+	/*font-family:BPreplay,Arial,Helvetica,sans-serif;
+	font-size:21px;*/
+	font: bold 15px "Century Gothic", Avant Garde, Arial, Helvetica, Sans-Serif;
+	/*text-transform:uppercase;*/
+	height:24px;
+	overflow:hidden;
+	padding:6px 20px 0;
+	position:relative;
+	width:244px;
+}
+.student_handbook_menu a.dropdown_button {
+	text-decoration:none;
+	color:#000 !important;
+}
+.student_handbook_menu li.button a:hover {
+	/* Removing the inherited underline from the titles */
+	text-decoration:none;
+}
+.student_handbook_menu li.button a span {
+	/* This span acts as the right part of the section's background */
+	height:44px;
+	position:absolute;
+	right:0;
+	top:0;
+	width:4px;
+	display:block;/*background:#F00;*/
+}
+/* Setting up different styles for each section color */
+
+li.button a.dropdown_button {
+	background:url(../images/dropdown_button.png) repeat-x top left;
+	color:#074384;
+}
+/*li.button a.dropdown_button {
+	background:url(../images/dropdown_button.png) repeat-x top right;
+}*/
+/*li.button a.green{background:url(img/green.png) repeat-x top left; color:#436800;}
+li.button a.green span{ background:url(img/green.png) repeat-x top right;}
+
+li.button a.orange{background:url(img/orange.png) repeat-x top left; color:#882e02;}
+li.button a.orange span{ background:url(img/orange.png) repeat-x top right;}
+
+li.button a.red{background:url(img/red.png) repeat-x top left; color:#641603;}
+li.button a.red span{ background:url(img/red.png) repeat-x top right;}*/
+
+/* The hover effects */
+
+.student_handbook_menu li.button a:hover {
+	background-position:bottom left;
+}
+.student_handbook_menu li.button a#select_active {
+	background-position:bottom left;
+}
+.student_handbook_menu li.button a:hover span {
+	background-position:bottom right;
+}
+/*.student_handbook_menu li.button a.dropdown_button:link{ background-position:bottom left !important;}
+.student_handbook_menu li.button a.dropdown_button:link span{ background-position:bottom right !important;}*/
+
+.student_handbook_menu .dropdown {
+	/* The expandable lists */
+	display:none;
+	padding-top:5px;
+	margin-top:-2px;
+	width:280px;
+	border-left: 2px solid #ffac24;
+	border-right: 2px solid #ffac24;
+	border-bottom: 2px solid #ffac24;
+	-moz-border-radius-bottomright: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	border-radius: 5px;/* GOLD */
+	/*border-left: 2px solid #fcbb50;
+	border-right: 2px solid #fcbb50;
+	border-bottom: 2px solid #fcbb50;
+	
+	-moz-border-radius-bottomright: 5px; 
+	-moz-border-radius-bottomleft: 5px; 
+	-webkit-border-bottom-right-radius: 5px; 
+	-webkit-border-bottom-left-radius: 5px; */
+}
+.student_handbook_menu .dropdown li {
+	/* Each element in the expandable list */
+	background-color:#FFF;
+	border-bottom:1pt dotted #fcbb50;
+	color:#CCCCCC;
+	margin:2px 0 2px 15px;
+	padding:4px 18px;
+	width: 208px;
+}
+.student_handbook_menu .dropdown li.last {
+	/* Each element in the expandable list */
+	border-bottom:none !important;/*background-color:#FFF;
+	
+	color:#CCCCCC;
+	margin:5px 0 5px 15px;
+	padding:4px 18px;
+	width: 208px;*/
+}
+.student_handbook_menu .dropdown li a {
+	/* Each element in the expandable list */
+	text-decoration:none;
+	font: bold 12px Arial, Helvetica, Sans-Serif;
+	color:#000;
+	margin:-15px;
+}
+.student_handbook_menu .dropdown li a:hover {
+	/* Each element in the expandable list */
+	text-decoration:none;
+	color:/*#6da3c9*/#3B5998;
+}
+.student_handbook_menu .submenu_title {
+	/* Each element in the expandable list */
+	color:#333;
+	font: bold 13px Arial, Helvetica, sans-serif;
+	padding: 0 0 0 10px;
+	margin: 0;
+}
+.student_handbook_menu .clear {
+	clear:both;
+}

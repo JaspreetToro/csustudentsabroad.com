@@ -1,0 +1,408 @@
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif:400,700,700italic,400italic|Oswald:400,700,300);
+body {
+    color: #666666;
+    font-size: 1em;
+	 background: #08519c url("../img/bg_pattern_light.png") repeat;
+}
+.container {
+    max-width: 1024px;
+}
+/* global header */
+#global-header {
+    width: 100%;
+    background-color: #182c42;
+}
+#global-header .main-header {
+    background-color: #002842;
+}
+#global-header a.logo {
+    display: block;
+    background: #002842 url("../img/studentsabroad-logo.jpg") no-repeat;
+    height: 72px;
+    width: 485px;
+}
+#global-header a.cge-logo {
+    display: block;
+    background: #002842 url("../img/cge-logo.jpg") no-repeat;
+    height: 44px;
+    width: 220px;	
+}
+#global-header .main-header h1, .main-header div.cge-brand {
+    text-indent: -9999px;
+    display: none;
+}
+#global-header .main-header .cge-logo-wrapper {
+	padding-top:12px;	
+}
+/* global nav */
+#global-nav {
+    width: 100%;
+    background-color: #182c42;
+}
+#global-nav .main-nav{
+    background-color: #002842;
+}
+#global-nav span.nav-label {
+	display: block;
+ 	font-size: 1.438em;
+	font-weight: 400;
+	letter-spacing: .85px;
+	
+}
+#global-nav span.nav-description {
+	display: block;
+	font-size: 1.063em;
+	font-weight: 300;
+	letter-spacing: .65px;	
+}
+#global-nav .navbar-nav-main > li {
+    font-family: "Oswald", Arial, Helvetica, Sans-Serif;    
+    text-shadow: 0 1px 1px #666;  
+}
+#global-nav .navbar-nav-main > li {
+    background-color: #5292bd;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-right: 1px;
+    text-align: center;
+}
+#global-nav .navbar-nav-main li.active {
+    background-color: #6ba6ce;
+}
+#global-nav .navbar-nav-main > li > a {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: #FFF;
+}
+#global-nav .navbar-nav-main > li > a:hover, #global-nav .navbar-nav-main > li > a:focus {
+    background-color: #6ba6ce;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+#global-nav .col-sm-4-sub {
+	margin-top: 20px;
+}
+#global-nav .navbar-nav-sub > li {
+    font-family: "Oswald";
+    text-shadow: 0 1px 1px #666;
+}
+#global-nav .navbar-nav-sub > li {
+    background-color: #5292bd;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-right: 1px;
+    text-align: center;
+}
+#global-nav .navbar-nav-sub li.active {
+    background-color: #6ba6ce;
+}
+#global-nav .navbar-nav-sub > li > a {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: #FFF;
+}
+#global-nav .navbar-nav-sub > li > a:hover, #global-nav .navbar-nav-sub > li > a:focus {
+    background-color: #6ba6ce;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+#global-nav .global-navbar-default {
+	background-color: transparent;
+	border-color: transparent;
+	min-height: 40px;
+	border: none;
+	margin-bottom: 0px;
+}
+#global-nav .main-nav-header .main-nav-brand {
+	display: none;
+}
+
+.main-nav>.main-nav-header, .main-nav>.main-navbar-collapse {
+	margin-left: -15px;
+	margin-right: -15px;
+}
+/* global content */
+#global-content {
+   
+}
+#global-content .main-content {
+	background-color: #6ba6ce;
+	padding-top: 15px;
+	padding-left: 0px;
+}
+
+.col-sm-6-handbooks { padding-right: 8px; margin-bottom: -5px; }
+.col-sm-6-programs { padding-left: 8px; margin-bottom: -5px; }
+.handbooks-panel {  border: 1px solid #6ba6ce; }
+.handbooks-panel-heading {
+background-image: url("../img/icons/student-handbook.png");
+background-size: 46px 46px;
+background-repeat: no-repeat;
+background-attachment: scroll;
+background-position: 98% center;
+background-color: #ffbe52 !important;
+background-repeat:no-repeat; height: 66px; font-family: "Oswald", Arial, Helvetica, Sans-Serif; padding:0;}
+.handbooks-panel-body { 
+background-image: url("../img/world-map.gif");
+background-repeat: no-repeat;
+background-size: 100%;
+height: 200px;
+}
+
+.programs-panel { border: 1px solid #6ba6ce; }
+.programs-panel-heading {
+background-image: url("../img/icons/program-search.png");
+background-size: 46px 46px;
+background-repeat: no-repeat;
+background-attachment: scroll;
+background-position: 98% center;
+background-color: #002842 !important;
+background-repeat:no-repeat;  height: 66px; font-family: "Oswald", Arial, Helvetica, Sans-Serif; padding:0;}
+
+.btn-handbooks {display: none; }
+.btn-programs {display: none; }
+.handbooks-title-top { padding-left: 5px; padding-top: 2px; }
+.handbooks-title-top span{ background-color: #ffbe52; color: #FFF; font-size: 18px; font-weight: 400; text-transform: uppercase; letter-spacing: 1px;}
+.handbooks-title-bottom { margin-left: 5px;
+margin-top: -4px;
+float: left;
+border-top: 2px solid #fff;
+border-bottom: 2px solid #fff; }
+.handbooks-title-bottom h2{ padding: 0; margin: 0; color: #FFF; font-size: 2.7em; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;}
+.programs-title-top { padding-left: 5px; padding-top: 2px; }
+.programs-title-top span{ background-color: #002842; color: #FFF; font-size: 18px; font-weight: 400; text-transform: uppercase; letter-spacing: 1px;}
+.programs-title-bottom { margin-left: 5px;
+margin-top: -4px;
+float: left;
+border-top: 2px solid #fff;
+border-bottom: 2px solid #fff; }
+.programs-title-bottom h2{ padding: 0; margin: 0; color: #FFF; font-size: 2.7em; font-weight: 700; text-transform: uppercase; letter-spacing: 2px;}
+/* global footer */
+
+.col-sm-12-banner { margin-bottom: -5px; }
+.banner-panel { border-color: #6ba6ce; background-color: #6ba6ce; -webkit-box-shadow: 0 1px 1px #6ba6ce; box-shadow: 0 1px 1px #6ba6ce; }
+.banner-panel-body { padding: 0; margin: 0; text-align: center; }
+.banner-panel-body img { border-radius: 4px; height: auto; max-width: 100%; width: 652px;}
+.col-sm-12-carousel { }
+
+.panel-sponsors { margin-bottom: 15px; text-align: center; border: 1px solid #6ba6ce; }
+.panel-default > .panel-heading-sponsors { background-color: #666; }
+.panel-heading-sponsors { padding: 0 15px; }
+.panel-heading-sponsors h3 { color: #FFF; font: 400 18px "Oswald", Arial, Helvetica, sans-serif; text-transform: uppercase; text-shadow: 0 1px 1px #333; padding: 4px 0; margin: 0; text-align: left; letter-spacing: 1px;}
+.panel-body-sponsors { padding: 2.5px 0; margin: 0;  display:inline-block; *display:inline;/* IE7 */ *zoom:1;}
+.panel-body-sponsors #main-sponsors-featured { padding: 2.5px 5px 2.5px 5px; }
+.panel-body-sponsors img { border: 1px solid #CCC; padding: 5px; height: auto; max-width: 100%; width: 320px; }
+
+
+.panel-worldwide-handbook { margin-bottom: 15px; border: 1px solid #6ba6ce; }
+
+.panel-default > .panel-heading-worldwide-handbook { background-color: #ffbe52; }
+ .panel-heading-worldwide-handbook .country-label { display: block; }
+ .panel-heading-worldwide-handbook .handbooks-label { display: block; }
+.panel-heading-worldwide-handbook { padding: 0 15px; }
+.panel-heading-worldwide-handbook h3{ color: #FFF; font: 400 18px "Oswald", Arial, Helvetica, sans-serif; text-transform: uppercase; text-shadow: 0 1px 1px #ffa618; padding: 4px 0; margin: 0; text-align: left; letter-spacing: 1px;}
+.panel-group-worldwide h4.panel-title{ font: 400 14px "Oswald", Arial, Helvetica, sans-serif; padding: 0; margin: 0; }
+.panel-group-worldwide { margin-bottom: 0; }
+.panel-group-worldwide .sidebar-body { padding: 0 !important; margin-bottom: 0;}
+.panel-group-worldwide h5 { font: 400 14px "Oswald", Arial, Helvetica, sans-serif; padding: 0; margin: 0;  }
+.list-group-sidebar { margin-bottom: 0; }
+.panel-group-worldwide .sidebar-body ul { padding: 0; margin: 0; }
+.panel-group-worldwide .sidebar-body ul li { list-style-type: none; padding: 10px 15px; display: block; border-bottom: 1px solid #DDD; }
+.panel-group-worldwide .sidebar-body ul li:last-child { border-bottom: none; }
+.panel-group-worldwide .sidebar-body ul li a { font: 400 14px "Droid Sans", Arial, Helvetica, sans-serif;}
+
+
+.panel-sub-quick-links { margin-bottom: 0; }
+.panel-quick-links { border: 1px solid #6ba6ce; }
+.panel-default > .panel-heading-quick-links { background-color: #666; }
+.panel-heading-quick-links { padding: 0 15px; }
+.panel-heading-quick-links h3{ color: #FFF; font: 400 18px "Oswald", Arial, Helvetica, sans-serif; text-transform: uppercase; text-shadow: 0 1px 1px #333; padding: 4px 0; margin: 0; text-align: left; letter-spacing: 1px;}
+.panel-body-quick-links { }
+.panel-body-sub-quick-links { padding: 0; }
+
+.panel-body-sub-quick-links { padding: 0;}
+.panel-body-sub-quick-links ul { padding: 0; margin: 0; }
+.panel-body-sub-quick-links ul li { list-style-type: none; padding: 10px 15px; display: block; border-bottom: 1px solid #DDD; }
+.panel-body-sub-quick-links ul li:last-child { border-bottom: none; }
+.panel-body-sub-quick-links ul li a { font: 400 14px "Droid Sans", Arial, Helvetica, sans-serif;}
+
+@media screen and (max-width:1199px) {
+ #global-header { display: none; height: 0px; overflow:hidden; }
+ #global-header img { height: 0px; overflow:hidden; }  
+ #global-nav .main-nav-header .main-nav-brand {
+	display: block;
+	font-family: "Oswald", Arial, Helvetica, Sans-Serif;
+	font-weight: 400;
+	font-size: 24px;
+ }
+ .brand-white { color:#FFF; text-transform: uppercase; }
+ .brand-gold { color:#ffbe52; text-transform: uppercase; }
+ .brand-gold-sm { color:#ffbe52; text-transform: lowercase; font-size: 18px; } 
+ #global-nav .col-sm-4-sub { margin-top: 0; }
+ .navbar-nav-sub { margin: -7.5px -15px 7.5px -15px; }
+ #global-nav .navbar-nav-main > li {
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	margin-right: 0;
+	border-bottom: 1px solid #6ba6ce;
+ }
+ #global-nav .navbar-nav-sub > li {
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	margin-right: 0;
+	border-bottom: 1px solid #6ba6ce;
+ }
+ #global-nav .navbar-nav-sub > li:last-child {
+	border-bottom: none;
+ }
+ #global-nav .navbar-nav-sub > li > a {
+	padding-top: 10px;
+	padding-bottom: 10px;
+ }
+ .col-sm-6-handbooks {
+	padding-right: 0px;
+	margin-bottom: 15px;
+ }
+ .col-sm-6-programs {
+	padding-left: 15px;
+	padding-right: 0px;
+	margin-bottom: 15px;	
+ }
+
+ .handbooks-panel { display: none; }
+ .programs-panel { display: none; }
+ 
+ .btn-handbooks-icon {
+	 background-color: #ffbe52 !important;
+ }
+ .btn-handbooks-icon:link {display: block;
+	background-image: url("../img/icons/student-handbook.png");
+	background-size: 46px 46px;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: 2% center;	
+	background-repeat:no-repeat;
+	padding: 10px 0;
+ }
+ .btn-handbooks {	
+	border-color: #DF9800;
+	font-family: "Oswald", Arial, Helvetica, Sans-Serif;
+	font-weight: 400;
+	font-size: 22px;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);	
+	text-transform:uppercase;
+	
+ }
+ .btn-handbooks span {
+	display: block;	 
+	text-align: left;
+	padding-left: 85px;
+ } 
+ .btn-handbooks:hover {
+	border-color: #DF9800; 
+ }
+ .btn-handbooks:visited {
+	border-color: #DF9800; 
+ } 
+ .btn-programs-icon {
+	background-color: #002842 !important; 
+ }
+ .btn-programs-icon:link {display: block;
+	background-image: url("../img/icons/program-search.png");
+	background-size: 46px 46px;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: 2% center;	
+	background-repeat:no-repeat; 
+	padding: 10px 0;
+ }
+ .btn-programs {
+    border-color: #34556b;
+	font-family: "Oswald", Arial, Helvetica, Sans-Serif;
+	font-weight: 400;
+	font-size: 22px;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);	
+	text-transform:uppercase;
+ }
+ .btn-programs span {
+	display: block;	 
+	text-align: left;
+	padding-left: 85px;
+ }
+ .btn-programs:hover {
+	border-color: #34556b;
+ }
+ .btn-programs:visited {
+	border-color: #34556b;
+ } 
+
+ .panel-default>.handbooks-panel-heading { border-color: transparent; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px;}
+ .handbooks-panel-heading { border-color: transparent; border-bottom-right-radius: 3px;
+border-bottom-left-radius: 3px;}
+ .handbooks-panel-body { display: none; }
+ .panel-default>.programs-panel-heading { border-color: transparent; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px;}
+ .programs-panel-heading { border-color: transparent; border-bottom-right-radius: 3px;
+border-bottom-left-radius: 3px;}
+ .programs-panel-body { display: none; }
+ 
+ .col-sm-12-banner { padding-right: 0px; margin-bottom: -5px; }
+ .banner-panel-body img { height: auto; max-width: 100%; border-radius: 4px; width: 622px; }
+ 
+ .col-sm-12-carousel{ padding-right: 0px; margin-bottom: -5px; }
+ 
+ .panel-sponsors { margin-left: 15px; margin-bottom: 15px; }
+ .panel-body-sponsors #main-sponsors-featured { float: left }
+ .panel-body-sponsors { padding: 2.5px 0 0 0; }
+ 
+ .panel-worldwide-handbook { margin-left: 15px; margin-bottom: 15px; }
+
+ 
+ 
+ .panel-quick-links { margin-left: 15px; margin-bottom: 15px; }
+}
+@media screen and (max-width:991px) {
+
+}
+@media screen and (max-width:767px) {
+  .btn-programs span {
+	padding-left: 65px;
+ }
+  .btn-handbooks span {
+	padding-left: 65px;
+ } 
+}
+@media screen and (max-width:707px) {
+  .panel-body-sponsors #main-sponsors-featured { width: 50%; }
+  .panel-body-sponsors img { height: auto; max-width: 100%; width: 100%; }
+}
+@media screen and (max-width:477px) {
+  .panel-body-sponsors #main-sponsors-featured { width: 50%; }
+  .panel-body-sponsors img { }
+}
+@media screen and (max-width:358px) {
+ .btn-programs {  font-size: 18px; }
+ .btn-handbooks { font-size: 18px; }
+}
+@media screen and (max-width:319px) {
+ #global-nav .main-nav-header .main-nav-brand {
+	font-size: 22px;
+ }
+ .handbooks-title-bottom h2 { font-size: 2.6em; }	
+ .programs-title-bottom h2 { font-size: 2.6em; }
+ .btn-programs {  font-size: 17px; }
+ .btn-handbooks { font-size: 17px; }
+  .panel-body-sponsors img { border: 1px solid #E1E1E1; } 
+}
+@media screen and (max-width:297px) {
+ #global-nav .main-nav-header .main-nav-brand {
+	font-size:  16px;
+	position: absolute;
+	top: 0;
+	left: 0;
+ }
+ .handbooks-title-bottom h2 { font-size: 2.1em; }	
+ .programs-title-bottom h2 { font-size: 2.1em; }
+ .btn-programs {  font-size: 14px; }
+ .btn-handbooks { font-size: 14px; } 
+}

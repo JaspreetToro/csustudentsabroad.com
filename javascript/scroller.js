@@ -1,0 +1,10 @@
+sts_bs("jwscroller5b67",[20080214,"","","blank.gif",3,1,0,50,"300px","left",0,1,90,80,1],["none",1,"#454545","#FFFFFF","","repeat"]);
+sts_sca(["center","middle","center","middle"],["images/arrowl_gray.gif","images/arrowl_over.gif","images/arrowl_gray.gif",13,13,"images/arrowr_gray.gif","images/arrowr_over.gif","images/arrowr_gray.gif",13,13]);
+sts_tbd([1],["solid",1,"#454545",5,"round_tl.gif","round_tr.gif","round_br.gif","round_bl.gif","transparent","round_t.gif","repeat","transparent","round_r.gif","repeat","transparent","round_b.gif","repeat","transparent","round_l.gif","repeat"]);
+sts_ai("i0",[0,"London","http://inter.it","_self","images/photo_1.jpg",90,72,"center"],["transparent","11px Verdana,Arial","#1f88bf","none","11px Verdana,Arial","#666666","none"]);
+sts_ai("i1",[0,"Jakarta","http://inter.it","_self","images/photo_2.jpg",90,72,"center"],["transparent","11px Verdana,Arial","#1f88bf","none","11px Verdana,Arial","#333333","none"]);
+sts_ai("i2",[0,"Los Angeles","http://inter.it","_self","images/photo_3.jpg",90,72,"center"],["transparent","11px Verdana,Arial","#1f88bf","none","11px Verdana,Arial","#333333","none"]);
+sts_ai("i3",[0,"Surabaya","http://inter.it","_self","images/photo_1.jpg",90,72,"center"],["transparent","11px Verdana,Arial","#1f88bf","none","11px Verdana,Arial","#333333","none"]);
+sts_ai("i4",[0,"Bangkok","http://inter.it","_self","images/photo_2.jpg",90,72,"center"],["transparent","11px Verdana,Arial","#1f88bf","none","11px Verdana,Arial","#333333","none"]);
+sts_ai("i5",[0,"Hell","http://inter.it","_self","images/photo_3.jpg",90,72,"center"],["transparent","11px Verdana,Arial","#1f88bf","none","11px Verdana,Arial","#333333","none"]);
+sts_es();

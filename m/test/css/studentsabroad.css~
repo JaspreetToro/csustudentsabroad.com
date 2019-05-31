@@ -1,0 +1,163 @@
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif:400,700,700italic,400italic|Oswald:400,700,300);
+body {
+    color: #666666;
+    font-size: 1em;
+}
+.container {
+    max-width: 1024px;
+}
+/* global header */
+#global-header {
+    width: 100%;
+    background-color: #182c42;
+}
+#global-header .main-header {
+    background-color: #002842;
+}
+#global-header a.logo {
+    display: block;
+    background: #002842 url("../img/studentsabroad-logo.jpg") no-repeat;
+    height: 72px;
+    width: 485px;
+}
+#global-header a.cge-logo {
+    display: block;
+    background: #002842 url("../img/cge-logo.jpg") no-repeat;
+    height: 44px;
+    width: 220px;	
+}
+#global-header .main-header h1, .main-header div.cge-brand {
+    text-indent: -9999px;
+    display: none;
+}
+#global-header .main-header .cge-logo-wrapper {
+	padding-top:12px;	
+}
+/* global nav */
+#global-nav {
+    width: 100%;
+    background-color: #182c42;
+}
+#global-nav .main-nav{
+    background-color: #002842;
+}
+#global-nav span.nav-label {
+	display: block;
+ 	font-size: 1.438em;
+	font-weight: 400;
+	letter-spacing: .85px;
+	
+}
+#global-nav span.nav-description {
+	display: block;
+	font-size: 1.063em;
+	font-weight: 300;
+	letter-spacing: .65px;	
+}
+#global-nav .navbar-nav-main > li {
+    font-family: "Oswald", Arial, Helvetica, Sans-Serif;    
+    text-shadow: 0 1px 1px #666;  
+}
+#global-nav .navbar-nav-main > li {
+    background-color: #5292bd;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-right: 1px;
+    text-align: center;
+}
+#global-nav .navbar-nav-main li.active {
+    background-color: #6ba6ce;
+}
+#global-nav .navbar-nav-main > li > a {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: #FFF;
+}
+#global-nav .navbar-nav-main > li > a:hover, #global-nav .navbar-nav-main > li > a:focus {
+    background-color: #6ba6ce;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+#global-nav .col-sm-4-sub {
+	margin-top: 20px;
+}
+#global-nav .navbar-nav-sub > li {
+    font-family: "Oswald";
+    text-shadow: 0 1px 1px #666;
+}
+#global-nav .navbar-nav-sub > li {
+    background-color: #5292bd;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-right: 1px;
+    text-align: center;
+}
+#global-nav .navbar-nav-sub li.active {
+    background-color: #6ba6ce;
+}
+#global-nav .navbar-nav-sub > li > a {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: #FFF;
+}
+#global-nav .navbar-nav-sub > li > a:hover, #global-nav .navbar-nav-sub > li > a:focus {
+    background-color: #6ba6ce;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+#global-nav .global-navbar-default {
+	background-color: transparent;
+	border-color: transparent;
+	min-height: 40px;
+	border: none;
+	margin-bottom: 0px;
+}
+#global-nav .main-nav-header .main-nav-brand {
+	display: none;
+}
+.main-nav>.main-nav-header, .main-nav>.main-navbar-collapse {
+	margin-left: -15px;
+	margin-right: -15px;
+}
+/* global content */
+#global-content {
+    background: #08519c url("../img/bg_pattern_light.png") repeat;
+}
+#global-content .main-content {
+	background-color: #6ba6ce;
+	padding-top: 15px;
+	padding-left: 0px;
+}
+
+.col-sm-6-handbooks { padding-right: 8px;}
+.col-sm-6-programs { padding-left: 8px;}
+
+.handbooks-panel-heading { background: url("../img/student-handbooks-bg.png"); background-size:313px 66px;
+background-repeat:no-repeat; height: 66px; font-family: "Oswald", Arial, Helvetica, Sans-Serif; padding:0;}
+.programs-panel-heading { background: url("../img/program-search-bg.png"); background-size:313px 66px;
+background-repeat:no-repeat;  height: 66px; font-family: "Oswald", Arial, Helvetica, Sans-Serif; padding:0;}
+
+.handbooks-title-top { }
+.handbooks-title-top span{ font-size: 1.5em; font-weight: 400; text-transform: uppercase; }
+.handbooks-title-bottom {  }
+.handbooks-title-bottom h2{ font-size: 2em; font-weight: 400; text-transform: uppercase; }
+
+.programs-title-top { }
+.programs-title-top span{ font-size: 1.5em; font-weight: 400; text-transform: uppercase; }
+.programs-title-bottom { }
+.programs-title-bottom h2{  font-size: 2em; font-weight: 400; text-transform: uppercase; }
+/* global footer */
+
+@media screen and (max-width:991px) {
+
+}
+@media screen and (max-width:767px) {
+
+}
+@media screen and (max-width:477px) {
+
+}
+@media screen and (max-width:319px) {
+
+}
