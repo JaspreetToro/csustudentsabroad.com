@@ -26,7 +26,19 @@ global $banner;
 <div id="content">
     <div id="left_content">
         <div id="left_content_quicksearch_container">
-            
+            <div id="left_content_handbooks_search">
+                <div id="box1_top" title="STUDY ABROAD PROGRAM SEARCH">
+                    <span class="box_title">
+                        STUDY ABROAD PROGRAM SEARCH
+                    </span>
+                    <div id="program_search_title_container">
+                        <div class="program_search_title1">Study Abroad</div>
+                        <div class="program_search_title2">Program Search</div>
+                    </div>
+                </div>
+                <div id="box1_middle"><?php printProgramSearchForm(); ?></div>
+                <div id="box1_bottom"></div>
+            </div>
             <div id="left_content_program_search">
                 <div id="box2_top" title="COUNTRY SPECIFIC STUDENT HANDBOOKS">
                     <span class="box_title">
@@ -76,6 +88,7 @@ global $banner;
     <!-- end of left_content -->
     <div id="middle_content"></div>
     <div id="right_content">
+<<<<<<< HEAD
         <div id="right_content_top_sm">
         	<div id="upper">
         	<div id="left_content_handbooks_search">
@@ -104,6 +117,9 @@ global $banner;
                 </div>
         </div>
         </div>
+=======
+        <div id="right_content_top_sm"></div>
+>>>>>>> parent of adcd112... Moved study abroad program search
         <div id="right_content_middle">
             <div id="sponsors">
                 
