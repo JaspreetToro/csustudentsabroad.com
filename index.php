@@ -82,7 +82,7 @@ global $banner;
         <div id="left_content_middle">
             <div class="left_content_main_bottom"> <?php printFeaturedPrograms()?> </div>
         </div>
-        <div id="left_content_bottom"></div>
+        
         <div style="clear:both;"></div>
     </div>
     <!-- end of left_content -->
