@@ -91,9 +91,7 @@ global $banner;
         
         <div id="right_content_middle">
             <div id="sponsors">
-                <div id="sponsors_title_container">
-                    <div class="sponsors_title"> CSU Study Abroad Programs </div>
-                </div>
+                
                 <div id="sponsors1">
                     <div>
                       
