@@ -92,13 +92,7 @@ global $banner;
         <div id="right_content_middle">
             <div id="sponsors">
                 
-                <div id="sponsors1">
-                    <div>
-                      
-                        <?php
-                        printCSUschools();
-						?> 
-                    </div>
+                
                 </div>
                 <div id="study_abroad_resources">
                     <div id="student_handbook_title_container">
