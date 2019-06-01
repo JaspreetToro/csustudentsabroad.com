@@ -910,14 +910,14 @@ background:#FFF;*/
 	float:left;
 }
 div#left_content_handbooks_search {
-	width:324px; /*height:324px;
+	width:300px; /*height:324px;
 background:#FFF;*/
 	float:right;
 	margin:0px 0px 0px 0px
 }
 div#box1_top {
 	background:url(../images/box1_top_program_search.jpg) no-repeat;
-	width: 324px;
+	width: 300px;
 	height: 68px;
 	-webkit-border-top-left-radius: 4px;
 	-webkit-border-top-right-radius: 4px;
@@ -933,7 +933,7 @@ div#box1_middle {
 }
 div#box1_bottom {
 	background:#FFF url(../images/box1_bottom.gif) no-repeat;
-	width: 324px;
+	width: 300px;
 	height: 10px;
 	border-bottom-right-radius: 5px;
 	-moz-border-radius-bottomright: 5px;
@@ -955,7 +955,7 @@ div#box1_bottom {
 	margin: 0;
 }
 #program_search_form select, option {
-	width: 200px; /*height: 24px;*/
+	width: 170px; /*height: 24px;*/
 	font: 13px Arial, Helvetica, sans-serif;
 }
 #program_search_form select { }
