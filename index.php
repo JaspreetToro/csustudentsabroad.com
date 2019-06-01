@@ -77,6 +77,7 @@ global $banner;
     <div id="middle_content"></div>
     <div id="right_content">
         <div id="right_content_top_sm">
+        	<div id="upper">
         	<div id="left_content_handbooks_search">
                 <div id="box1_top" title="STUDY ABROAD PROGRAM SEARCH">
                     <span class="box_title">
@@ -90,6 +91,18 @@ global $banner;
                 <div id="box1_middle"><?php printProgramSearchForm(); ?></div>
                 <div id="box1_bottom"></div>
             </div>
+        </div>
+        <div id ="lower">
+        	<div id="box2_top" title="COUNTRY SPECIFIC STUDENT HANDBOOKS">
+                    <span class="box_title">
+                        COUNTRY SPECIFIC STUDENT HANDBOOKS
+                    </span>
+                    <div id="country_specific_title_container">
+                        <div class="country_specific_title1">Country Specific</div>
+                        <div class="country_specific_title2">Student Handbooks</div>
+                    </div>
+                </div>
+        </div>
         </div>
         <div id="right_content_middle">
             <div id="sponsors">
