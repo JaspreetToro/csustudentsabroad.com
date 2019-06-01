@@ -88,7 +88,7 @@ global $banner;
     <!-- end of left_content -->
     <div id="middle_content"></div>
     <div id="right_content">
-        <div id="right_content_top_sm"></div>
+        
         <div id="right_content_middle">
             <div id="sponsors">
                 <div id="sponsors_title_container">
