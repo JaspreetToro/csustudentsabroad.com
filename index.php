@@ -27,7 +27,7 @@ global $banner;
     <div id="left_content">
         
         <div id="left_content_top">
-            <div id="left_content_top_upper">Upper Divison
+            <div id="left_content_top_upper">
             </div>
             <div id="left_content_top_lower">
                 <span class="xyz"><img src="caliglobe.gif" style="width: 100%;"></span>

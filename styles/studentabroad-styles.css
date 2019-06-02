@@ -1035,7 +1035,7 @@ div#box2_top {
 	margin: -12px 0 0 0;
 	font-weight: 400;
 	font-size: 22pt;
-	letter-spacing:1px;
+	letter-spacing:0.5px;
 }
 /**/
 #program_search_title_container_sm {
@@ -1132,10 +1132,13 @@ div#left_content_top {
 	-webkit-border-top-left-radius: 5px;
 }
 div#left_content_top_upper{
-	width:100%;
-	height:80px;
+	background-color: #d0142c;
+	width: 100%;
+	height: 68px;
 }
+
 div#left_content_top_lower{
+	padding-top: 15px;
 	vertical-align: top;
 	width:100%;
 	height:250px;
