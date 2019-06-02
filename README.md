@@ -10,4 +10,5 @@
 #   8.  Open the terminal cd to the location C:\Xamppp\htdocs, use the following commands:
 #       git add . 
 #       git commit -m "Initial Commit"
+#       git push origin master
 
