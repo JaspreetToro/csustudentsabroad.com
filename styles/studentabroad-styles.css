@@ -1122,7 +1122,7 @@ div#box2_bottom {
 }
 div#left_content_top {
 	width: 650px;
-	height: 330px;
+	height: 340px;
 	background: #FFFFFF url(../images/tab_white_top.gif) no-repeat;
 	border-top-right-radius: 5px;
 	-moz-border-radius-topright: 5px;
@@ -1130,6 +1130,22 @@ div#left_content_top {
 	border-top-left-radius: 5px;
 	-moz-border-radius-topleft: 5px;
 	-webkit-border-top-left-radius: 5px;
+}
+div#left_content_top_upper{
+	width:100%;
+	height:80px;
+}
+div#left_content_top_lower{
+	vertical-align: top;
+	width:100%;
+	height:250px;
+}
+
+.xyz {
+	vertical-align: top;
+	display: inline-block;
+	height: 40px;
+	width:32%;
 }
 div.left_content_top {
 	width: 652px;

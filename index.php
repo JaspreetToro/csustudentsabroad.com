@@ -27,14 +27,51 @@ global $banner;
     <div id="left_content">
         
         <div id="left_content_top">
-            <div id="left_content_top_uppper">
+            <div id="left_content_top_upper">Upper Divison
             </div>
             <div id="left_content_top_lower">
+                <span class="xyz"><img src="caliglobe.gif" style="width: 100%;"></span>
+                <span class="xyz" style="padding-left: 15px;">
+                    <ul>
+                        <li>chico Campus</li>
+                        <li>chico Campus</li>
+                        <li>chico Campus</li>
+                        <li>chico Campus</li>
+                        <li>chico Campus</li>
+                        <li>chico Campus</li>
+                        <li>chico Campus</li>
+                        <li>chico Campus</li>
+                        <li>chico Campus</li>
+                        <li>chico Campus</li>
+                        <li>chico Campus</li>
+                        <li>chico Campus</li>
+                        <li>chico Campus</li>
+                    </ul>
+                        
+                </span>
+                
+                <span class="xyz">
+                    <ul>
+                        <li>chico Campus</li>
+                        <li>chico Campus</li>
+                        <li>chico Campus</li>
+                        <li>chico Campus</li>
+                        <li>chico Campus</li>
+                        <li>chico Campus</li>
+                        <li>chico Campus</li>
+                        <li>chico Campus</li>
+                        <li>chico Campus</li>
+                        <li>chico Campus</li>
+                        <li>chico Campus</li>
+                        <li>chico Campus</li>
+                        <li>chico Campus</li>
+                    </ul>
+                </span>
             </div>
         </div>
         <div id="left_content_middle">
             <div class="left_content_main_bottom"> <?php printFeaturedPrograms()?> </div>
-        </div>
+        </div> 
         
         <div style="clear:both;"></div>
     </div>
@@ -42,16 +79,16 @@ global $banner;
     <div id="middle_content"></div>
     <div id="right_content">
         <div id="right_content_top_sm">
-        	<div id="left_content_handbooks_search">
-                <div id="box1_top" title="STUDY ABROAD PROGRAM SEARCH">
-                    <span class="box_title">
+        	   <div id="left_content_handbooks_search">
+                    <div id="box1_top" title="STUDY ABROAD PROGRAM SEARCH">
+                        <span class="box_title">
                         STUDY ABROAD PROGRAM SEARCH
-                    </span>
-                    <div id="program_search_title_container">
-                        <div class="program_search_title1">Study Abroad</div>
-                        <div class="program_search_title2">Program Search</div>
+                        </span>
+                        <div id="program_search_title_container">
+                            <div class="program_search_title1">Study Abroad</div>
+                            <div class="program_search_title2">Program Search</div>
+                        </div>
                     </div>
-                </div>
                 <div id="box1_middle"><?php printProgramSearchForm(); ?></div>
                 <div id="box1_bottom"></div>
             </div>
