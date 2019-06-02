@@ -90,7 +90,59 @@ global $banner;
                 <div id="box1_middle"><?php printProgramSearchForm(); ?></div>
                 <div id="box1_bottom"></div>
             </div>
-        </div>
+            <div id="lower">
+                <div id="box2_top" title="COUNTRY SPECIFIC STUDENT HANDBOOKS">
+                    <span class="box_title">
+                        COUNTRY SPECIFIC STUDENT HANDBOOKS
+                    </span>
+                        <div id="country_specific_title_container">
+                            <div class="country_specific_title1">Country Specific</div>
+                            <div class="country_specific_title2">Student Handbooks</div>
+                        </div>
+                    </div>
+                </div>
+                <div id="student_handbooks_form_sm">
+
+                            <form name="pch_searchForm" method="get" action="" onsubmit="return validateCountrySM();" class="pch_form">
+
+                                <div class="pch_select_container">
+
+                                    <div class="pch_country">
+
+                                        <div class="pch_label">
+
+                                            <label for="pch_selProgCntry">Select A Country</label>
+
+                                        </div>
+
+                                        <div class="pch_list">
+
+                                            <select name="country" id="pch_selProgCntry">
+
+                                                <option value="Choose">Choose One</option><option value="General" selected="selected">Worldwide</option><option value="Argentina">Argentina</option><option value="Australia">Australia</option><option value="Austria">Austria</option><option value="Belgium">Belgium</option><option value="Belize">Belize</option><option value="Botswana">Botswana</option><option value="Brazil">Brazil</option><option value="Canada">Canada</option><option value="Chile">Chile</option><option value="China">China</option><option value="Costa Rica">Costa Rica</option><option value="Cuba">Cuba</option><option value="Czech Republic">Czech Republic</option><option value="Denmark">Denmark</option><option value="Dominican Republic">Dominican Republic</option><option value="Ecuador">Ecuador</option><option value="Egypt">Egypt</option><option value="Finland">Finland</option><option value="France">France</option><option value="Germany">Germany</option><option value="Ghana">Ghana</option><option value="Greece">Greece</option><option value="Guatemala">Guatemala</option><option value="Hungary">Hungary</option><option value="India">India</option><option value="Ireland">Ireland</option><option value="Israel">Israel</option><option value="Italy">Italy</option><option value="Japan">Japan</option><option value="Jordan">Jordan</option><option value="Kenya">Kenya</option><option value="Mexico">Mexico</option><option value="Morocco">Morocco</option><option value="Netherlands">Netherlands</option><option value="New Zealand">New Zealand</option><option value="Nicaragua">Nicaragua</option><option value="Norway">Norway</option><option value="Peru">Peru</option><option value="Portugal">Portugal</option><option value="Russia">Russia</option><option value="South Africa">South Africa</option><option value="South Korea">South Korea</option><option value="Spain">Spain</option><option value="Sweden">Sweden</option><option value="Switzerland">Switzerland</option><option value="Thailand">Thailand</option><option value="Turkey">Turkey</option><option value="United Kingdom">United Kingdom</option><option value="United States">United States</option>
+
+                                            </select>
+
+                                        </div>
+
+                                    </div>
+
+                                    <div class="pch_search_button">
+
+                                        <input type="image" name="btnSubmit" src="/images/search_button_gold.gif" alt="Search" title="Search">
+
+                                    </div>
+
+                                    <div class="pch_bottom"></div>
+
+                                </div>
+
+                            </form>
+
+                        </div>
+
+            </div>
+
         <div id="right_content_middle">
             <div id="sponsors">
                 
