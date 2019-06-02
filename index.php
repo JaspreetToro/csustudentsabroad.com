@@ -28,6 +28,10 @@ global $banner;
         
         <div id="left_content_top">
             <div id="left_content_top_upper">
+                <div id="left_content_top_upper1">STUDY ABROAD PROGRAMS
+                </div>
+                <div id="left_content_top_upper2">The California State University
+                </div> 
             </div>
             <div id="left_content_top_lower">
                 <span class="xyz"><img src="caliglobe.gif" style="width: 100%;"></span>
@@ -52,7 +56,7 @@ global $banner;
                 </span>
                 
                 <span class="xyz">
-                    <ul>
+                    <ul style="padding-left: 22px;">
                         <li>San Luis Obispo</li>
                         <li>Stanislaus</li>
                         <li>Channel Islands</li>
