@@ -31,40 +31,41 @@ global $banner;
             </div>
             <div id="left_content_top_lower">
                 <span class="xyz"><img src="caliglobe.gif" style="width: 100%;"></span>
-                <span class="xyz" style="padding-left: 15px;">
+                <span class="xyz" style="padding-left: 18px;">
                     <ul>
-                        <li>chico Campus</li>
-                        <li>chico Campus</li>
-                        <li>chico Campus</li>
-                        <li>chico Campus</li>
-                        <li>chico Campus</li>
-                        <li>chico Campus</li>
-                        <li>chico Campus</li>
-                        <li>chico Campus</li>
-                        <li>chico Campus</li>
-                        <li>chico Campus</li>
-                        <li>chico Campus</li>
-                        <li>chico Campus</li>
-                        <li>chico Campus</li>
+                        <li>The California State University</li>
+                        <li>Chico</li>
+                        <li>East Bay</li>
+                        <li>Humboldt</li>
+                        <li>Maritime Academy</li>
+                        <li>Sacramento</li>
+                        <li>San Francisco</li>
+                        <li>San José</li>
+                        <li>Sonoma</li>
+                        <li>Bakersfield</li>
+                        <li>Fresno</li>
+                        <li>Monterey Bay</li>
+                        <li>San Luis Obispo</li>
+                        
                     </ul>
                         
                 </span>
                 
                 <span class="xyz">
                     <ul>
-                        <li>chico Campus</li>
-                        <li>chico Campus</li>
-                        <li>chico Campus</li>
-                        <li>chico Campus</li>
-                        <li>chico Campus</li>
-                        <li>chico Campus</li>
-                        <li>chico Campus</li>
-                        <li>chico Campus</li>
-                        <li>chico Campus</li>
-                        <li>chico Campus</li>
-                        <li>chico Campus</li>
-                        <li>chico Campus</li>
-                        <li>chico Campus</li>
+                        <li>San Luis Obispo</li>
+                        <li>Stanislaus</li>
+                        <li>Channel Islands</li>
+                        <li>Dominguez Hills</li>
+                        <li>Fullerton</li>
+                        <li>Long Beach</li>
+                        <li>Los Angeles</li>
+                        <li>Northridge</li>
+                        <li>Pomona</li>
+                        <li>San Bernardino</li>
+                        <li>San Diego</li>
+                        <li>San Marcos</li>
+                        
                     </ul>
                 </span>
             </div>
