@@ -25,48 +25,13 @@ global $banner;
 
 <div id="content">
     <div id="left_content">
-        <div id="left_content_quicksearch_container">
-            
-            <div id="left_content_program_search">
-                <div id="box2_top" title="COUNTRY SPECIFIC STUDENT HANDBOOKS">
-                    <span class="box_title">
-                        COUNTRY SPECIFIC STUDENT HANDBOOKS
-                    </span>
-                    <div id="country_specific_title_container">
-                        <div class="country_specific_title1">Country Specific</div>
-                        <div class="country_specific_title2">Student Handbooks</div>
-                    </div>
-                </div>
-                <div id="box2_middle"> <?php printCountryHandbooks() ?> </div>
-                <div id="box2_bottom"></div>
+        
+        <div id="left_content_top">
+            <div id="left_content_top_uppper">
+            </div>
+            <div id="left_content_top_lower">
             </div>
         </div>
-       <!-- <div style="clear:both;"></div>
-        <script type="text/javascript" language="javascript">renderDiv(4);</script>
-         <div class="sponsors_banner_container">
-            <div class="sponsors_banner_top"></div>
-            <div class="sponsors_banner_middle">
-                <div class="sponsors_banner">
-                    <?php
-					/* sponsors banner
-					
-					$box_count = 1;
-					//$count_MAX = 3;
-					$count_MAX = 1;
-					
-					while ($box_count <= $count_MAX){
-						get_banner_sponsor2("General", $box_count);
-						echo $banner[0];
-						$box_count++;
-					}
-					*/?>
-                </div>
-            </div>
-            <div class="sponsors_banner_bottom"></div>
-        </div> -->
-        <div style="clear:both;"></div>
-        <script type="text/javascript" language="javascript">renderDiv(4);</script>
-        <div id="left_content_top"></div>
         <div id="left_content_middle">
             <div class="left_content_main_bottom"> <?php printFeaturedPrograms()?> </div>
         </div>
@@ -90,7 +55,7 @@ global $banner;
                 <div id="box1_middle"><?php printProgramSearchForm(); ?></div>
                 <div id="box1_bottom"></div>
             </div>
-            <div id="lower">
+            <div id="right_content_top_sm_lower">
                 <div id="box2_top" title="COUNTRY SPECIFIC STUDENT HANDBOOKS">
                     <span class="box_title">
                         COUNTRY SPECIFIC STUDENT HANDBOOKS
@@ -119,7 +84,7 @@ global $banner;
 
                                             <select name="country" id="pch_selProgCntry">
 
-                                                <option value="Choose">Choose One</option><option value="General" selected="selected">Worldwide</option><option value="Argentina">Argentina</option><option value="Australia">Australia</option><option value="Austria">Austria</option><option value="Belgium">Belgium</option><option value="Belize">Belize</option><option value="Botswana">Botswana</option><option value="Brazil">Brazil</option><option value="Canada">Canada</option><option value="Chile">Chile</option><option value="China">China</option><option value="Costa Rica">Costa Rica</option><option value="Cuba">Cuba</option><option value="Czech Republic">Czech Republic</option><option value="Denmark">Denmark</option><option value="Dominican Republic">Dominican Republic</option><option value="Ecuador">Ecuador</option><option value="Egypt">Egypt</option><option value="Finland">Finland</option><option value="France">France</option><option value="Germany">Germany</option><option value="Ghana">Ghana</option><option value="Greece">Greece</option><option value="Guatemala">Guatemala</option><option value="Hungary">Hungary</option><option value="India">India</option><option value="Ireland">Ireland</option><option value="Israel">Israel</option><option value="Italy">Italy</option><option value="Japan">Japan</option><option value="Jordan">Jordan</option><option value="Kenya">Kenya</option><option value="Mexico">Mexico</option><option value="Morocco">Morocco</option><option value="Netherlands">Netherlands</option><option value="New Zealand">New Zealand</option><option value="Nicaragua">Nicaragua</option><option value="Norway">Norway</option><option value="Peru">Peru</option><option value="Portugal">Portugal</option><option value="Russia">Russia</option><option value="South Africa">South Africa</option><option value="South Korea">South Korea</option><option value="Spain">Spain</option><option value="Sweden">Sweden</option><option value="Switzerland">Switzerland</option><option value="Thailand">Thailand</option><option value="Turkey">Turkey</option><option value="United Kingdom">United Kingdom</option><option value="United States">United States</option>
+                                                <option value="Choose">Choose One</option><option value="General" selected="selected">Choose One</option><option value="Argentina">Argentina</option><option value="Australia">Australia</option><option value="Austria">Austria</option><option value="Belgium">Belgium</option><option value="Belize">Belize</option><option value="Botswana">Botswana</option><option value="Brazil">Brazil</option><option value="Canada">Canada</option><option value="Chile">Chile</option><option value="China">China</option><option value="Costa Rica">Costa Rica</option><option value="Cuba">Cuba</option><option value="Czech Republic">Czech Republic</option><option value="Denmark">Denmark</option><option value="Dominican Republic">Dominican Republic</option><option value="Ecuador">Ecuador</option><option value="Egypt">Egypt</option><option value="Finland">Finland</option><option value="France">France</option><option value="Germany">Germany</option><option value="Ghana">Ghana</option><option value="Greece">Greece</option><option value="Guatemala">Guatemala</option><option value="Hungary">Hungary</option><option value="India">India</option><option value="Ireland">Ireland</option><option value="Israel">Israel</option><option value="Italy">Italy</option><option value="Japan">Japan</option><option value="Jordan">Jordan</option><option value="Kenya">Kenya</option><option value="Mexico">Mexico</option><option value="Morocco">Morocco</option><option value="Netherlands">Netherlands</option><option value="New Zealand">New Zealand</option><option value="Nicaragua">Nicaragua</option><option value="Norway">Norway</option><option value="Peru">Peru</option><option value="Portugal">Portugal</option><option value="Russia">Russia</option><option value="South Africa">South Africa</option><option value="South Korea">South Korea</option><option value="Spain">Spain</option><option value="Sweden">Sweden</option><option value="Switzerland">Switzerland</option><option value="Thailand">Thailand</option><option value="Turkey">Turkey</option><option value="United Kingdom">United Kingdom</option><option value="United States">United States</option>
 
                                             </select>
 
