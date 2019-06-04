@@ -4,10 +4,11 @@
 #   2.  Create a database in phpmyadmin 
 #   3.  Download the database "studabroaddb.sql" from the GoDaddy Server
 #   4.  Import that database in the newly created database. 
-#   5.  Delete the files from the location C:\Xamppp\htdocs (Note : Location where you have installed Xampp)
-#   6.  Clone the repository in the location C:\Xamppp\htdocs
+#   5.  Delete the files from the location C:\Xampp\htdocs (Note : Location where you have installed Xampp)
+#   6.  Clone the repository in the location C:\Xampp\htdocs
 #   7.  Install the git software in the local machine.
-#   8.  Open the terminal cd to the location C:\Xamppp\htdocs, use the following commands:
+#   8.  Open the terminal cd to the location C:\Xampp\htdocs, use the following commands:
 #       git add . 
 #       git commit -m "Initial Commit"
+#       git push origin master
 
