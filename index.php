@@ -37,19 +37,19 @@ global $banner;
                 <span class="xyz"><img src="caliglobe.gif" style="width: 100%;"></span>
                 <span class="xyz" style="padding-left: 18px;">
                     <ul>
-                        <li>The California State University</li>
-                        <li>Chico</li>
-                        <li>East Bay</li>
-                        <li>Humboldt</li>
-                        <li>Maritime Academy</li>
-                        <li>Sacramento</li>
-                        <li>San Francisco</li>
-                        <li>San José</li>
-                        <li>Sonoma</li>
-                        <li>Bakersfield</li>
-                        <li>Fresno</li>
-                        <li>Monterey Bay</li>
-                        <li>San Luis Obispo</li>
+                        <li><a href="handbook/location.php">The California State University</a></li>
+                        <li><a href="handbook/location.php">Chico</a></li>
+                        <li><a href="handbook/location.php">East Bay</a></li>
+                        <li><a href="handbook/location.php">Humboldt</a></li>
+                        <li><a href="handbook/location.php">Maritime Academy</a></li>
+                        <li><a href="handbook/location.php">Sacramento</a></li>
+                        <li><a href="handbook/location.php">San Francisco</a></li>
+                        <li><a href="handbook/location.php">San José</a></li>
+                        <li><a href="handbook/location.php">Sonoma</a></li>
+                        <li><a href="handbook/location.php">Bakersfield</a></li>
+                        <li><a href="handbook/location.php">Fresno</a></li>
+                        <li><a href="handbook/location.php">Monterey Bay</a></li>
+                        <li><a href="handbook/location.php">San Luis Obispo</a></li>
                         
                     </ul>
                         
@@ -57,18 +57,18 @@ global $banner;
                 
                 <span class="xyz">
                     <ul style="padding-left: 22px;">
-                        <li>San Luis Obispo</li>
-                        <li>Stanislaus</li>
-                        <li>Channel Islands</li>
-                        <li>Dominguez Hills</li>
-                        <li>Fullerton</li>
-                        <li>Long Beach</li>
-                        <li>Los Angeles</li>
-                        <li>Northridge</li>
-                        <li>Pomona</li>
-                        <li>San Bernardino</li>
-                        <li>San Diego</li>
-                        <li>San Marcos</li>
+                        <li><a href="handbook/location.php">San Luis Obispo</a></li>
+                        <li><a href="handbook/location.php">Stanislaus</a></li>
+                        <li><a href="handbook/location.php">Channel Islands</a></li>
+                        <li><a href="handbook/location.php">Dominguez Hills</a></li>
+                        <li><a href="handbook/location.php">Fullerton</a></li>
+                        <li><a href="handbook/location.php">Long Beach</a></li>
+                        <li><a href="handbook/location.php">Los Angeles</a></li>
+                        <li><a href="handbook/location.php">Northridge</a></li>
+                        <li><a href="handbook/location.php">Pomona</a></li>
+                        <li><a href="handbook/location.php">San Bernardino</a></li>
+                        <li><a href="handbook/location.php">San Diego</a></li>
+                        <li><a href="handbook/location.php">San Marcos</a></li>
                         
                     </ul>
                 </span>
