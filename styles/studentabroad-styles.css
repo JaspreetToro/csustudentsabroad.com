@@ -2279,6 +2279,10 @@ div#subpage_left_container_top {
 	width: 824px;
 	background: url(../images/int_top_big.gif) no-repeat top #FFFFFF;
 }
+div#links_subpage_left_container_top{
+	width: 652px;
+	background: url(../images/int_top_big.gif) no-repeat top #FFFFFF;
+}
 div#subpage_left_container_bottom {
 	width: 824px;
 	height: 100px;
@@ -2504,6 +2508,11 @@ div#nonav_line_bar {
 div.margin_left30 { margin: 0 0 0 30px; }
 div#nonav_subpage_content { /*border: #006666 1px solid;*/
 	width: 774px;
+	margin: 0 25px 0 25px;
+}
+div#links_nonav_subpage_content
+{
+	width: 602px;
 	margin: 0 25px 0 25px;
 }
 div#subpage_middle_container {

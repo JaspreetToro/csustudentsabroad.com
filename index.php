@@ -37,19 +37,19 @@ global $banner;
                 <span class="xyz"><img src="caliglobe.gif" style="width: 100%;"></span>
                 <span class="xyz" style="padding-left: 18px;">
                     <ul>
-                        <li><a href="handbook/location.php">The California State University</a></li>
-                        <li><a href="handbook/location.php">Chico</a></li>
-                        <li><a href="handbook/location.php">East Bay</a></li>
-                        <li><a href="handbook/location.php">Humboldt</a></li>
-                        <li><a href="handbook/location.php">Maritime Academy</a></li>
-                        <li><a href="handbook/location.php">Sacramento</a></li>
-                        <li><a href="handbook/location.php">San Francisco</a></li>
-                        <li><a href="handbook/location.php">San José</a></li>
-                        <li><a href="handbook/location.php">Sonoma</a></li>
-                        <li><a href="handbook/location.php">Bakersfield</a></li>
-                        <li><a href="handbook/location.php">Fresno</a></li>
-                        <li><a href="handbook/location.php">Monterey Bay</a></li>
-                        <li><a href="handbook/location.php">San Luis Obispo</a></li>
+                        <li><a href="Los_Angeles.php">CSU Chancellor’s Office</a></li>
+                        <li><a href="Los_Angeles.php">CSU Channel Islands</a></li>
+                        <li><a href="Los_Angeles.php">CSU Dominguez Hills</a></li>
+                        <li><a href="Los_Angeles.php">Fresno State</a></li>
+                        <li><a href="Los_Angeles.php">Humboldt State</a></li>
+                        <li><a href="Los_Angeles.php">CSU Los Angeles</a></li>
+                        <li><a href="Los_Angeles.php">CSU Monterey Bay</a></li>
+                        <li><a href="Los_Angeles.php">Cal Poly Pomona</a></li>
+                        <li><a href="Los_Angeles.php">CSU San Bernardino</a></li>
+                        <li><a href="Los_Angeles.php">San Francisco State</a></li>
+                        <li><a href="Los_Angeles.php">Cal Poly San Luis Obispo</a></li>
+                        <li><a href="Los_Angeles.php">Monterey Bay</a></li>
+                        <li><a href="Los_Angeles.php">CSU Stanislaus</a></li>
                         
                     </ul>
                         
@@ -57,18 +57,18 @@ global $banner;
                 
                 <span class="xyz">
                     <ul style="padding-left: 22px;">
-                        <li><a href="handbook/location.php">San Luis Obispo</a></li>
-                        <li><a href="handbook/location.php">Stanislaus</a></li>
-                        <li><a href="handbook/location.php">Channel Islands</a></li>
-                        <li><a href="handbook/location.php">Dominguez Hills</a></li>
-                        <li><a href="handbook/location.php">Fullerton</a></li>
-                        <li><a href="handbook/location.php">Long Beach</a></li>
-                        <li><a href="Los_Angeles.php">Los Angeles</a></li>
-                        <li><a href="handbook/location.php">Northridge</a></li>
-                        <li><a href="handbook/location.php">Pomona</a></li>
-                        <li><a href="handbook/location.php">San Bernardino</a></li>
-                        <li><a href="handbook/location.php">San Diego</a></li>
-                        <li><a href="handbook/location.php">San Marcos</a></li>
+                        <li><a href="Los_Angeles.php">CSU Bakersfield</a></li>
+                        <li><a href="Los_Angeles.php">Chico State</a></li>
+                        <li><a href="Los_Angeles.php">CSU East Bay</a></li>
+                        <li><a href="Los_Angeles.php">CSU Fullerton</a></li>
+                        <li><a href="Los_Angeles.php">Long Beach State</a></li>
+                        <li><a href="Los_Angeles.php">Cal Maritime</a></li>
+                        <li><a href="Los_Angeles.php">CSU Northridge</a></li>
+                        <li><a href="Los_Angeles.php">Sacramento State</a></li>
+                        <li><a href="Los_Angeles.php">San Diego State</a></li>
+                        <li><a href="Los_Angeles.php">San Jose State</a></li>
+                        <li><a href="Los_Angeles.php">CSU San Marcos</a></li>
+                        <li><a href="Los_Angeles.php">Sonoma State</a></li>
                         
                     </ul>
                 </span>

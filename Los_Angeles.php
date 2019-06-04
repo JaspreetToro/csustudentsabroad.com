@@ -43,8 +43,8 @@ function printBody()
 
 <div id="subpage_container">
 <div id="subpage_left_container">
-    <div id="subpage_left_container_top">
-        <div id="nonav_subpage_content" >
+    <div id="links_subpage_left_container_top">
+        <div id="links_nonav_subpage_content" >
             <script language="javascript">renderDiv(20);</script>
             <div>
                 <div class="huge_light_blue_bold">
@@ -71,33 +71,90 @@ function printBody()
         <!-- end of nonav_subpage_content -->
     </div>
     <!-- end of subpage_left_container_top  -->
-    <div id="subpage_left_container_bottom">
-        <?php //printSubpageSponsorList(); ?>
-    </div>
-    <!-- end of subpage_left_container_bottom -->
+    
 </div>
 <!-- end of subpage_left_container -->
-<div id="subpage_middle_container"></div>
+<div id="subpage_middle_container">
+    
+</div>
 <div id="subpage_right_container">
-    <!--<div id="login_box">
-					<div id="login_box_top">
-						<div id="login_box_top_left"></div>
-						<div id="login_box_top_center" class="small_white_bold"><script language="javascript">renderDiv(3);</script>LOGIN INFO</div>
-						<div id="login_box_top_right"></div>
-					</div>
-					<div id="login_box_middle" class="small_dark_grey_bold">
-						<?php //printSubpageLoginDiv();?>
-					</div>
-					<div id="login_box_bottom">
-					</div>
-				</div>-->
-    <!-- end of login_box -->
-    <!--<div style="height:15px;">
-				</div>
-				<div>
-					<A href="#"><img src="images/int_ads.jpg" /></A>
-				</div>
-			</div>-->
+        <div id="right_content">
+<div id="right_content_middle">
+
+      <div id="sponsors">
+
+                <div id="sponsors_title_container">
+
+                    <div class="sponsors_title"> CSU Study Abroad Programs </div>
+
+                </div>
+
+                <div id="sponsors1">
+
+                    <div>
+
+                        <?php 
+                        
+                        printCSUschools()   ;               
+    
+                        ?>
+
+                    </div>
+
+                </div>
+
+                <div id="study_abroad_resources">
+
+                    <div id="student_handbook_title_container">
+
+                        <div id="student_handbook_title">Study Abroad <br />
+
+                            Student Handbook</div>
+
+                    </div>
+
+                    <div class="student_handbook_menu"> <?php printStudentHandbookMenu()?> </div>
+
+                </div>
+
+                <div id="quicklinks_container">
+
+                    <div id="quicklinks_title_container">
+
+                        <div class="quicklinks_title">Quick Links</div>
+
+                    </div>
+
+                    <div id="quicklinks_content">
+<div id="quicklinks_middle">
+
+              <div id="quicklinks">
+
+                                <ul>
+
+                                    <li><a href="handbook/top-10-health-and-safety-issues.php?country=General">Top 10 Health &amp; Safety Tips</a></li>
+
+                                    <li><a href="handbook/communication-info-sheets.php?country=General">Communication Info Sheets</a></li>
+
+                                    <li style="border-bottom:none;"><a href="handbook/emergency-planning.php?country=General">Emergency Planning</a></li>
+
+                                </ul>
+
+                            </div>
+
+                        </div>
+</div>
+
+                </div>
+
+            </div>
+
+            <!-- end of right_content_middle -->
+        </div>
+
+        <!-- end of right_content -->
+
+    </div>
     <!-- end of subpage_right_container -->
 </div>
 </div>
