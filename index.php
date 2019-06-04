@@ -63,7 +63,7 @@ global $banner;
                         <li><a href="handbook/location.php">Dominguez Hills</a></li>
                         <li><a href="handbook/location.php">Fullerton</a></li>
                         <li><a href="handbook/location.php">Long Beach</a></li>
-                        <li><a href="handbook/location.php">Los Angeles</a></li>
+                        <li><a href="Los_Angeles.php">Los Angeles</a></li>
                         <li><a href="handbook/location.php">Northridge</a></li>
                         <li><a href="handbook/location.php">Pomona</a></li>
                         <li><a href="handbook/location.php">San Bernardino</a></li>
