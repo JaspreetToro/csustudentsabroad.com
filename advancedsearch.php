@@ -47,107 +47,59 @@ global $banner;
 <div id="content">
 
     <div id="left_content">
-
-        <div id="left_content_quicksearch_container">
-
-            <div id="left_content_handbooks_search">
-
-                <div id="box1_top" title="STUDY ABROAD PROGRAM SEARCH">
-
-                    <span class="box_title">
-
-                        STUDY ABROAD PROGRAM SEARCH
-
-                    </span>
-
-                    <div id="program_search_title_container">
-
-                        <div class="program_search_title1">Study Abroad</div>
-
-                        <div class="program_search_title2">Program Search</div>
-
-                    </div>
-
+    	<div id="left_content_top">
+            <div id="left_content_top_upper">
+                <div id="left_content_top_upper1">STUDY ABROAD PROGRAMS
                 </div>
-
-                <div id="box1_middle"><?php printProgramSearchForm(); ?></div>
-                <div id="box1_bottom"></div>
-</div>
-
-            <div id="left_content_program_search">
-
-                <div id="box2_top" title="COUNTRY SPECIFIC STUDENT HANDBOOKS">
-
-                    <span class="box_title">
-
-                        COUNTRY SPECIFIC STUDENT HANDBOOKS
-
-                    </span>
-
-                    <div id="country_specific_title_container">
-
-                        <div class="country_specific_title1">Country Specific</div>
-
-                        <div class="country_specific_title2">Student Handbooks</div>
-
-                    </div>
-
-                </div>
-
-                <div id="box2_middle"> <?php printCountryHandbooks() ?> </div><div id="box2_bottom"></div>
-</div>
-
+                <div id="left_content_top_upper2">The California State University
+                </div> 
+            </div>
+            <div id="left_content_top_lower">
+                <span class="xyz"><img src="caliglobe.gif" style="width: 100%;"></span>
+                <span class="xyz" style="padding-left: 18px;">
+                    <ul style="padding-left:15px;">
+                        <li><a href="Los_Angeles.php">CSU Chancellor’s Office</a></li>
+                        <li><a href="Los_Angeles.php">CSU Channel Islands</a></li>
+                        <li><a href="Los_Angeles.php">CSU Dominguez Hills</a></li>
+                        <li><a href="Los_Angeles.php">Fresno State</a></li>
+                        <li><a href="Los_Angeles.php">Humboldt State</a></li>
+                        <li><a href="Los_Angeles.php">CSU Los Angeles</a></li>
+                        <li><a href="Los_Angeles.php">CSU Monterey Bay</a></li>
+                        <li><a href="Los_Angeles.php">Cal Poly Pomona</a></li>
+                        <li><a href="Los_Angeles.php">CSU San Bernardino</a></li>
+                        <li><a href="Los_Angeles.php">San Francisco State</a></li>
+                        <li><a href="Los_Angeles.php">Cal Poly San Luis Obispo</a></li>
+                        <li><a href="Los_Angeles.php">Monterey Bay</a></li>
+                        <li><a href="Los_Angeles.php">CSU Stanislaus</a></li>
+                        
+                    </ul>
+                        
+                </span>
+                
+                <span class="xyz">
+                    <ul style="padding-left: 25px;">
+                        <li><a href="Los_Angeles.php">CSU Bakersfield</a></li>
+                        <li><a href="Los_Angeles.php">Chico State</a></li>
+                        <li><a href="Los_Angeles.php">CSU East Bay</a></li>
+                        <li><a href="Los_Angeles.php">CSU Fullerton</a></li>
+                        <li><a href="Los_Angeles.php">Long Beach State</a></li>
+                        <li><a href="Los_Angeles.php">Cal Maritime</a></li>
+                        <li><a href="Los_Angeles.php">CSU Northridge</a></li>
+                        <li><a href="Los_Angeles.php">Sacramento State</a></li>
+                        <li><a href="Los_Angeles.php">San Diego State</a></li>
+                        <li><a href="Los_Angeles.php">San Jose State</a></li>
+                        <li><a href="Los_Angeles.php">CSU San Marcos</a></li>
+                        <li><a href="Los_Angeles.php">Sonoma State</a></li>
+                        
+                    </ul>
+                </span>
+            </div>
+        </div>
+        <div id="spacing">
+            
         </div>
 
-        <div style="clear:both;"></div>
-
-        <script type="text/javascript" language="javascript">renderDiv(4);</script>
-
-       <!-- <div class="sponsors_banner_container">
-
-            <div class="sponsors_banner_top"></div>
-
-            <div class="sponsors_banner_middle">
-
-                <div class="sponsors_banner">
-
-                   <?php /*
-
-					 sponsors banner
-
-					
-
-					$box_count = 1;
-
-					//$count_MAX = 3;
-
-					$count_MAX = 1;
-
-					
-
-					while ($box_count <= $count_MAX){
-
-						get_banner_sponsor2("General", $box_count);
-
-						echo $banner[0];
-
-						$box_count++;
-
-					}
-
-					*/?>
-
-                </div>
-
-            </div>
-
-            <div class="sponsors_banner_bottom"></div>
-
-        </div> -->
-
-        <div style="clear:both;"></div>
-
-        <script type="text/javascript" language="javascript">renderDiv(4);</script>
+        
 <div id="left_content_middle">
 
   <div class="left_content_main_bottom"> <?php printFeaturedPrograms()?> </div>

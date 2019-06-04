@@ -28,15 +28,15 @@ global $banner;
         
         <div id="left_content_top">
             <div id="left_content_top_upper">
-                <div id="left_content_top_upper1">STUDY ABROAD PROGRAMS
+                <div id="left_content_top_upper1">STUDY ABROAD
                 </div>
-                <div id="left_content_top_upper2">The California State University
+                <div id="left_content_top_upper2">PROGRAM FOR CSU STUDENTS
                 </div> 
             </div>
             <div id="left_content_top_lower">
                 <span class="xyz"><img src="caliglobe.gif" style="width: 100%;"></span>
                 <span class="xyz" style="padding-left: 18px;">
-                    <ul>
+                    <ul style="padding-left:15px;">
                         <li><a href="Los_Angeles.php">CSU Chancellor’s Office</a></li>
                         <li><a href="Los_Angeles.php">CSU Channel Islands</a></li>
                         <li><a href="Los_Angeles.php">CSU Dominguez Hills</a></li>
@@ -56,7 +56,7 @@ global $banner;
                 </span>
                 
                 <span class="xyz">
-                    <ul style="padding-left: 22px;">
+                    <ul style="padding-left: 25px;">
                         <li><a href="Los_Angeles.php">CSU Bakersfield</a></li>
                         <li><a href="Los_Angeles.php">Chico State</a></li>
                         <li><a href="Los_Angeles.php">CSU East Bay</a></li>
@@ -74,6 +74,9 @@ global $banner;
                 </span>
             </div>
         </div>
+        <div id="spacing">
+            
+        </div>
         <div id="left_content_middle">
             <div class="left_content_main_bottom"> <?php printFeaturedPrograms()?> </div>
         </div> 
@@ -83,9 +86,9 @@ global $banner;
     <!-- end of left_content -->
     <div id="middle_content"></div>
     <div id="right_content">
-        <div id="right_content_top_sm">
-        	   <div id="left_content_handbooks_search">
-                    <div id="box1_top" title="STUDY ABROAD PROGRAM SEARCH">
+        <div id="right_content_top_index">
+        	
+                <div id="box1_top" title="STUDY ABROAD PROGRAM SEARCH">
                         <span class="box_title">
                         STUDY ABROAD PROGRAM SEARCH
                         </span>
@@ -93,22 +96,23 @@ global $banner;
                             <div class="program_search_title1">Study Abroad</div>
                             <div class="program_search_title2">Program Search</div>
                         </div>
-                    </div>
+                </div>
                 <div id="box1_middle"><?php printProgramSearchForm(); ?></div>
                 <div id="box1_bottom"></div>
-            </div>
-            <div id="right_content_top_sm_lower">
-                <div id="box2_top" title="COUNTRY SPECIFIC STUDENT HANDBOOKS">
-                    <span class="box_title">
+             
+        </div>
+        <div id="spacing" style="background-color:#BFBFBF;">   
+        </div>
+        <div id="box2_top" title="COUNTRY SPECIFIC STUDENT HANDBOOKS">
+                <span class="box_title">
                         COUNTRY SPECIFIC STUDENT HANDBOOKS
-                    </span>
+                </span>
                         <div id="country_specific_title_container">
                             <div class="country_specific_title1">Country Specific</div>
                             <div class="country_specific_title2">Student Handbooks</div>
                         </div>
-                    </div>
-                </div>
-                <div id="student_handbooks_form_sm">
+        </div>
+        <div id="student_handbooks_form_sm">
 
                             <form name="pch_searchForm" method="get" action="" onsubmit="return validateCountrySM();" class="pch_form">
 
@@ -147,9 +151,6 @@ global $banner;
                             </form>
 
                         </div>
-
-            </div>
-
         <div id="right_content_middle">
             <div id="sponsors">
                 

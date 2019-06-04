@@ -53,14 +53,21 @@ div#content {
 	width: 960px;
 	margin: 0 20px 0 20px;/*height: 1075px;*//*font-size:1px;*/
 }
+
 div#left_content {
 	width: 652px; /*height: 1075px;*/
 	float: left;
 }
+
+div#spacing{
+ height: 5px;
+}
+
 div#middle_content {
 	width: 8px; /*height: 1075px;*/
 	float: left;
 }
+
 div#right_content {
 	width: 300px;
 	float:right; /*height: 1075px;*/
@@ -909,9 +916,10 @@ div#left_content_program_search {
 background:#FFF;*/
 	float:left;
 }
-div#left_content_handbooks_search {
+div#right_content_handbooks_search {
 	width:300px; /*height:324px;
 background:#FFF;*/
+	height: 340px;
 	float:right;
 	margin:0px 0px 0px 0px
 }
@@ -1137,18 +1145,25 @@ div#left_content_top_upper{
 	height: 68px;
 }
 div#left_content_top_upper1{
+	font-family: "Oswald", "Century Gothic", Trebuchet MS, Avant Garde, Arial, Helvetica, Sans-Serif !important;
+	color: #FFF;
+	text-transform:uppercase;
 	font-weight: 400;
-	font-size: 16px;
+	font-size: 12pt;
 	padding-left: 15px;
 	padding-top: 5px;
 	color: #FFFFFF;
+	letter-spacing: 2.5px;
 }
 div#left_content_top_upper2{
+	font-family: "Oswald", "Century Gothic", Trebuchet MS, Avant Garde, Arial, Helvetica, Sans-Serif !important;
+	color: #FFF;
+	text-transform:uppercase;
 	font-weight: 400;
-	font-size: 16px;
+	font-size: 21pt;
 	padding-left: 15px;
-	padding-top: 5px;
 	color: #FFFFFF;
+	letter-spacing: 2.5px;
 }
 
 div#left_content_top_lower{
@@ -1930,10 +1945,10 @@ div#student_handbook_title { /*background: #ffac24;*/
 	color: #FFFFFF;
 	/*text-shadow: 0 1px 0 #A14502;*/
 }
-div#right_content_top_sm {
+div#right_content_top_index {
 	background: #FFF url("../images/top_small.gif") no-repeat;
 	width: 300px;
-	height: 450px;
+	height: 340px;
 	font-size: 1px;
 	border-top-right-radius: 5px;
 	-moz-border-radius-topright: 5px;
