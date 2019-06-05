@@ -2308,7 +2308,13 @@ div#new_subpage_container {
 
 div#subpage_image1{
 	background-color: red;
-	background: url("la.png") no-repeat;
+
+	width:100%;
+	height: 200px;
+}
+
+div#subpage_image2{
+	background-color: red;
 	width:100%;
 	height: 200px;
 }
