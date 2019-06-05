@@ -34,7 +34,9 @@ global $banner;
                 </div> 
             </div>
             <div id="left_content_top_lower">
-                <span class="xyz"><img src="caliglobe.gif" style="width: 100%;"></span>
+                <div id="write_content" style="height: 50px;">CSU students can study abroad on programs through the Chancellor’s Office and other CSU Campuses. <br />Find programs across the California State University system:
+                </div>
+                <span class="xyz"><img src="caliglobe.gif" style="width: 100%; height: 270px"></span>
                 <span class="xyz" style="padding-left: 18px;">
                     <ul style="padding-left:15px;">
                         <li><a href="Los_Angeles.php">CSU Chancellor’s Office</a></li>

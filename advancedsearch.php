@@ -112,81 +112,106 @@ global $banner;
     <!-- end of left_content -->
 
     <div id="right_content">
-<div id="right_content_middle">
-
-      <div id="sponsors">
-
-                <div id="sponsors_title_container">
-
-                    <div class="sponsors_title"> CSU Study Abroad Programs </div>
-
+        <div id="right_content_top_index">
+        	
+                <div id="box1_top" title="STUDY ABROAD PROGRAM SEARCH">
+                        <span class="box_title">
+                        STUDY ABROAD PROGRAM SEARCH
+                        </span>
+                        <div id="program_search_title_container">
+                            <div class="program_search_title1">Study Abroad</div>
+                            <div class="program_search_title2">Program Search</div>
+                        </div>
                 </div>
+                <div id="box1_middle"><?php printProgramSearchForm(); ?></div>
+                <div id="box1_bottom"></div>
+             
+        </div>
+        <div id="spacing" style="background-color:#BFBFBF;">   
+        </div>
+        <div id="box2_top" title="COUNTRY SPECIFIC STUDENT HANDBOOKS">
+                <span class="box_title">
+                        COUNTRY SPECIFIC STUDENT HANDBOOKS
+                </span>
+                        <div id="country_specific_title_container">
+                            <div class="country_specific_title1">Country Specific</div>
+                            <div class="country_specific_title2">Student Handbooks</div>
+                        </div>
+        </div>
+        <div id="student_handbooks_form_sm">
 
-                <div id="sponsors1">
+                            <form name="pch_searchForm" method="get" action="" onsubmit="return validateCountrySM();" class="pch_form">
 
-                    <div>
+                                <div class="pch_select_container">
 
-                        <?php 
-						
-						printCSUschools()	;				
-	
-						?>
+                                    <div class="pch_country">
 
-                    </div>
+                                        <div class="pch_label">
 
-                </div>
+                                            <label for="pch_selProgCntry">Select A Country</label>
 
-                <div id="study_abroad_resources">
+                                        </div>
 
-                    <div id="student_handbook_title_container">
+                                        <div class="pch_list">
 
-                        <div id="student_handbook_title">Study Abroad <br />
+                                            <select name="country" id="pch_selProgCntry">
 
-                            Student Handbook</div>
+                                                <option value="Choose">Choose One</option><option value="General" selected="selected">Choose One</option><option value="Argentina">Argentina</option><option value="Australia">Australia</option><option value="Austria">Austria</option><option value="Belgium">Belgium</option><option value="Belize">Belize</option><option value="Botswana">Botswana</option><option value="Brazil">Brazil</option><option value="Canada">Canada</option><option value="Chile">Chile</option><option value="China">China</option><option value="Costa Rica">Costa Rica</option><option value="Cuba">Cuba</option><option value="Czech Republic">Czech Republic</option><option value="Denmark">Denmark</option><option value="Dominican Republic">Dominican Republic</option><option value="Ecuador">Ecuador</option><option value="Egypt">Egypt</option><option value="Finland">Finland</option><option value="France">France</option><option value="Germany">Germany</option><option value="Ghana">Ghana</option><option value="Greece">Greece</option><option value="Guatemala">Guatemala</option><option value="Hungary">Hungary</option><option value="India">India</option><option value="Ireland">Ireland</option><option value="Israel">Israel</option><option value="Italy">Italy</option><option value="Japan">Japan</option><option value="Jordan">Jordan</option><option value="Kenya">Kenya</option><option value="Mexico">Mexico</option><option value="Morocco">Morocco</option><option value="Netherlands">Netherlands</option><option value="New Zealand">New Zealand</option><option value="Nicaragua">Nicaragua</option><option value="Norway">Norway</option><option value="Peru">Peru</option><option value="Portugal">Portugal</option><option value="Russia">Russia</option><option value="South Africa">South Africa</option><option value="South Korea">South Korea</option><option value="Spain">Spain</option><option value="Sweden">Sweden</option><option value="Switzerland">Switzerland</option><option value="Thailand">Thailand</option><option value="Turkey">Turkey</option><option value="United Kingdom">United Kingdom</option><option value="United States">United States</option>
 
-                    </div>
+                                            </select>
 
-                    <div class="student_handbook_menu"> <?php printStudentHandbookMenu()?> </div>
+                                        </div>
 
-                </div>
+                                    </div>
 
-                <div id="quicklinks_container">
+                                    <div class="pch_search_button">
 
-                    <div id="quicklinks_title_container">
+                                        <input type="image" name="btnSubmit" src="/images/search_button_gold.gif" alt="Search" title="Search">
 
-                        <div class="quicklinks_title">Quick Links</div>
+                                    </div>
 
-                    </div>
+                                    <div class="pch_bottom"></div>
 
-                    <div id="quicklinks_content">
-<div id="quicklinks_middle">
+                                </div>
 
-              <div id="quicklinks">
-
-                                <ul>
-
-                                    <li><a href="handbook/top-10-health-and-safety-issues.php?country=General">Top 10 Health &amp; Safety Tips</a></li>
-
-                                    <li><a href="handbook/communication-info-sheets.php?country=General">Communication Info Sheets</a></li>
-
-                                    <li style="border-bottom:none;"><a href="handbook/emergency-planning.php?country=General">Emergency Planning</a></li>
-
-                                </ul>
-
-                            </div>
+                            </form>
 
                         </div>
-</div>
-
+        <div id="right_content_middle">
+            <div id="sponsors">
+                
+                
                 </div>
-
+                <div id="study_abroad_resources">
+                    <div id="student_handbook_title_container">
+                        <div id="student_handbook_title">Study Abroad <br />
+                            Student Handbook</div>
+                    </div>
+                    <div class="student_handbook_menu"> <?php printStudentHandbookMenu()?> </div>
+                </div>
+                <div id="quicklinks_container">
+                    <div id="quicklinks_title_container">
+                        <div class="quicklinks_title">Quick Links</div>
+                    </div>
+                    <div id="quicklinks_content">
+                        <div id="quicklinks_top"></div>
+                        <div id="quicklinks_middle">
+                            <div id="quicklinks">
+                                <ul>
+                                    <li><a href="handbook/top-10-health-and-safety-issues.php?country=General">Top 10 Health &amp; Safety Tips</a></li>
+                                    <li><a href="handbook/communication-info-sheets.php?country=General">Communication Info Sheets</a></li>
+                                    <li style="border-bottom:none;"><a href="handbook/emergency-planning.php?country=General">Emergency Planning</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div id="quicklinks_bottom"></div>
+                    </div>
+                </div>
             </div>
-
             <!-- end of right_content_middle -->
+            <div id="right_content_bottom"></div>
         </div>
-
         <!-- end of right_content -->
-
     </div>
 
     <!-- end of content -->
