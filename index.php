@@ -50,7 +50,6 @@ global $banner;
                         <li><a href="Los_Angeles.php">CSU San Bernardino</a></li>
                         <li><a href="Los_Angeles.php">San Francisco State</a></li>
                         <li><a href="Los_Angeles.php">Cal Poly San Luis Obispo</a></li>
-                        <li><a href="Los_Angeles.php">Monterey Bay</a></li>
                         <li><a href="Los_Angeles.php">CSU Stanislaus</a></li>
                         
                     </ul>

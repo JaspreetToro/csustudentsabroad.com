@@ -1140,7 +1140,7 @@ div#left_content_top {
 	-webkit-border-top-left-radius: 5px;
 }
 div#left_content_top_upper{
-	background:url(../images/top_image.jpg);
+	background:url(../images/top_image1.jpg) no-repeat; 
 	width: 100%;
 	height: 68px;
 }
@@ -1151,7 +1151,7 @@ div#left_content_top_upper1{
 	font-weight: 400;
 	font-size: 12pt;
 	padding-left: 15px;
-	padding-top: 5px;
+	padding-top: 2px;
 	color: #FFFFFF;
 	letter-spacing: 2.5px;
 }
@@ -1161,7 +1161,8 @@ div#left_content_top_upper2{
 	text-transform:uppercase;
 	font-weight: 400;
 	font-size: 21pt;
-	padding-left: 15px;
+	padding: 0 0 0 10pt;
+    margin: -8px 0 0 0;
 	color: #FFFFFF;
 	letter-spacing: 2.5px;
 }
@@ -1180,6 +1181,7 @@ div#left_content_top_lower{
 	height: 40px;
 	width: 32%;
 }
+
 
 
 .new_subpage_left_container{
@@ -2306,15 +2308,23 @@ div#new_subpage_container {
 	width: 100%;
 }
 
-div#subpage_image1{
-	background-color: red;
-
+div#subpage_image1{/*
+	background-color: red;*/
+	background:url("../images/la.jpg");
 	width:100%;
 	height: 200px;
 }
 
+div#subpage_text2{
+	background-color: #FFFFFF;
+}
+
+div#additional_links{
+
+}
+
 div#subpage_image2{
-	background-color: red;
+	background:url("../images/la.jpg");
 	width:100%;
 	height: 200px;
 }
