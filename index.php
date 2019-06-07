@@ -67,7 +67,7 @@ global $banner;
                         <li><a href="Northridge.php">CSU Northridge</a></li>
                         <li><a href="Sacramento_State.php">Sacramento State</a></li>
                         <li><a href="San_Diego_State.php">San Diego State</a></li>
-                        <li><a href="">San Jose State</a></li>
+                        <li><a href="San_Jose_State.php">San Jose State</a></li>
                         <li><a href="San_Marcos.php">CSU San Marcos</a></li>
                         <li><a href="Sonoma_State.php">Sonoma State</a></li>
                         
