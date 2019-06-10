@@ -47,7 +47,7 @@ function printBody()
             <div id="left_content_top_upper">
                         <div id="left_content_top_upper1">STUDY ABROAD
                         </div>
-                        <div id="left_content_top_upper2">PROGRAM FOR CSU STUDENTS
+                        <div id="left_content_top_upper2">CHICO STATE UNIVERSITY
                         </div> 
                     </div>
             <div id="new_nonav_subpage_content" >
@@ -55,10 +55,8 @@ function printBody()
                 <div>
                     
                     <div class="subpage_full_text">
-                        <script language="javascript">renderDiv(10);</script>
-                        
-                        <script language="javascript">renderDiv(8);</script>
-                        <p>The Study Abroad Office (url:https://www.csuchico.edu/studyabroad/about/contact.shtml)  is made up of many people, staff, student workers, interns, and volunteers all working together on a daily basis to give you the best service possible and to help you achieve your goals and dreams abroad. Chico State is currently offering 4 Faculty-Led programs for this summer. Destinations are in Nepal, Ecuador, Thailand/China, and the United Kingdom. Each program will be taught in English and students will earn a total of 6 units. https://csuchico-sa.terradotta.com/index.cfm?FuseAction=Programs.SearchResults&Program_Name=faculty-led&Program
+                        <div id="subpage_text_title"><a href="https://www.csuchico.edu/studyabroad/index.shtml">Study Abroad Support</a></div></br>
+                        <p>The Study Abroad Office is made up of many people, staff, student workers, interns, and volunteers all working together on a daily basis to give you the best service possible and to help you achieve your goals and dreams abroad. Chico State is currently offering 4 Faculty-Led programs for this summer. Destinations are in Nepal, Ecuador, Thailand/China, and the United Kingdom. Each program will be taught in English and students will earn a total of 6 units.
                         </p>
 
 
@@ -73,14 +71,15 @@ function printBody()
      </div>
                     <!-- end of  subpage_full_text-->
                     <div id="addition_links"></div>
-                    <div id="subpage_image1_chico" style="width:100%; height: 200px; background:url(../images/chico1.jpg);">
+                    <div id="subpage_image" style="background:url(../images/chico1.jpg);">
                     </div>
                     <!-- end of inage division-->
                     <div id="subpage_text2">
-                        <p>Text 2</p>
+                        <p><div id="subpage_text_title"><a href="https://www.csuchico.edu/about/">About Chico State</a></div> </br>Founded in 1887, Chico State is committed in scholarly pursuit, civic engagement, and community outreach. Chico has been rated a top 10 regional public university in the West by U.S. News & World Report since 1998. The university is committed to assist students in their search for knowledge and prepare them in order to assume responsibility in a democratic community and be useful members of a global society. The university’s unique combination of scholarly pursuits, civic engagement, and a very real connection to the Chico community earns its national and international accolades. </p>
+                        
                     </div>
                     <!-- end text2 divsion-->
-                    <div id="subpage_image2">
+                    <div id="subpage_image" style="background:url(../images/chico2.jpg) ;">
                     </div>   
     </span>
     <!-- end of subpage_left_container -->

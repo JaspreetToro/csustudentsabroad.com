@@ -1185,6 +1185,7 @@ div#left_content_top_lower{
 
 
 .new_subpage_left_container{
+	font-family: "Oswald", "Century Gothic", Trebuchet MS, Avant Garde, Arial, Helvetica, Sans-Serif !important;
 	display: inline-block;
 	vertical-align: top;
 	width: 652px;
@@ -2308,26 +2309,37 @@ div#new_subpage_container {
 	width: 100%;
 }
 
-div#subpage_image1{/*
-	background-color: red;*/
-	background:url("../images/la.jpg");
-	width:100%;
-	height: 200px;
-}
+
 
 div#subpage_text2{
 	background-color: #FFFFFF;
+	padding: 15px 25px 15px 25px;
+	
 }
+
+div #subpage_text_title{
+	font-size: 14pt;
+}
+
+div #subpage_image{
+	width:100%; 
+	height: 200px;
+}
+
+/*div#subpage_text2_{
+	background-color: #FFFFFF;
+	margin: 0 25px 0 25px;
+	text-align: left;
+
+}*/
+
+
 
 div#additional_links{
 
 }
 
-div#subpage_image2{
-	background:url("../images/la.jpg");
-	width:100%;
-	height: 200px;
-}
+
 
 div#subpage_left_container {
 	width: 824px;

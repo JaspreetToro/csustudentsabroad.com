@@ -47,7 +47,7 @@ function printBody()
             <div id="left_content_top_upper">
                         <div id="left_content_top_upper1">STUDY ABROAD
                         </div>
-                        <div id="left_content_top_upper2">PROGRAM FOR CSU STUDENTS
+                        <div id="left_content_top_upper2">CHICO STATE
                         </div> 
                     </div>
             <div id="new_nonav_subpage_content" >
@@ -58,13 +58,8 @@ function printBody()
                         <script language="javascript">renderDiv(10);</script>
                         
                         <script language="javascript">renderDiv(8);</script>
-                        <p>CSUStudentsAbroad.com is a resource for students at all California State University (CSU) campuses contemplating studying abroad. This website includes the study abroad programs offered by the CSU Chancellor's Office (CSU International Programs) which are all year-long programs.  It also provides information about other programs offered by the other 23 CSU campuses that are available for any CSU student.  Unlike other study abroad websites, along with providing program information, the information on CSUStudentsAbroad.com provides insights on the importance of health and safety awareness in general, and specifically for countries where we've developed a Country Handbook. Our website includes <a href="handbook/introduction.php?country=General">48 country-specific study abroad handbooks</a>, which give students the details necessary to hit the ground running and learn the ins and outs of their destination. While our <a href="handbook/introduction.php?country=General">general handbook</a> is designed as a global guide, it enriches all students&#39; understanding so they may safely and smoothly navigate their host country and become savvy travellers empowered to get the most out of their study abroad experience.</p>
-                        <p>Although choosing an educational program, financing education, and applying to a university abroad can be confusing and sometimes overwhelming, CSUStudentsAbroad.com enables students to research program offerings and access resources that guide them each step of the way&mdash;from learning basic phrases to becoming acquainted with the local transportation system. </p>
-                        <p>CSUStudentsAbroad.com facilitates not only students&#39;, but also parents&#39;, learning about the various challenges faced in the study abroad experience, which include culture shock, drug and alcohol abuse, and general mental health. In addition to these tools, the "<a href="search.php">Program Search</a>" option encourages students to explore the study abroad option best fitting their interests, especially in non-traditional study abroad countries, such as Thailand, Morocco, and Peru. Such search innovations make essential information accessible, which assist students in finding the program perfect for them!</p>
-                        <script language="javascript">renderDiv(20);</script>
-                        <div class="big_dark_blue_bold">Who's behind CSUStudentsAbroad.com?</div>
-                        <script language="javascript">renderDiv(8);</script>
-                        <p>This website was created with the help of staff, and returned study abroad students at the Center for Global Education at the CSUDH College of Extended & International Education. We hope this content will help you find a quality program, have a great study abroad experience, and then return home to integrate your international learning in the U.S. We are very enthusiastic about helping study abroad students and hope you can learn a lot from this website!</p>
+                        <p><a href="https://www.csuchico.edu/studyabroad/about/contact.shtml">The Study Abroad Office</a> is made up of many people, staff, student workers, interns, and volunteers all working together on a daily basis to give you the best service possible and to help you achieve your goals and dreams abroad. Chico State is currently offering 4 Faculty-Led programs for this summer. Destinations are in Nepal, Ecuador, Thailand/China, and the United Kingdom. Each program will be taught in English and students will earn a total of 6 units. https://csuchico-sa.terradotta.com/index.cfm?FuseAction=Programs.SearchResults&Program_Name=faculty-led&Program
+                        </p>
 
 
                 </div>
@@ -78,14 +73,15 @@ function printBody()
      </div>
                     <!-- end of  subpage_full_text-->
                     <div id="addition_links"></div>
-                    <div id="subpage_image1">
+                    <div id="subpage_image1_chico" style="width:100%; height: 200px; background:url(../images/chico1.jpg);">
                     </div>
                     <!-- end of inage division-->
                     <div id="subpage_text2">
-                        <p>Text 2</p>
+                        <p>Founded in 1887, Chico State is committed in scholarly pursuit, civic engagement, and community outreach. Chico has been rated a top 10 regional public university in the West by U.S. News & World Report since 1998. The university is committed to assist students in their search for knowledge and prepare them in order to assume responsibility in a democratic community and be useful members of a global society. The university’s unique combination of scholarly pursuits, civic engagement, and a very real connection to the Chico community earns its national and international accolades. </p>
+                        
                     </div>
                     <!-- end text2 divsion-->
-                    <div id="subpage_image2">
+                    <div id="subpage_image2_chico" style="width:100%; height: 200px; background:url(../images/chico2.jpg) ;">
                     </div>   
     </span>
     <!-- end of subpage_left_container -->
