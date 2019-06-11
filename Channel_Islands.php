@@ -57,7 +57,7 @@ function printBody()
                     <div class="subpage_full_text">
                         <div id="subpage_text_title"><a href="https://www.csuci.edu/international/">Study Abroad Support
                         </a></div></br>
-                        <p> CSU Channel Islands has established partnerships with prestigious universities in Germany, France, and Norway. Open to Sophomore, Juniors, and Seniors, the German Program is open to all majors. The program is designed for students who are advanced beginners or whose German language proficiency is at a lower intermediate level.
+                        <p> The International Programs Office provides opportunities for experiential learning in a foreign environment. CSU Channel Islands has established partnerships with prestigious universities in Germany, France, Norway, Japan, South Korea, and Taiwan. The university offers nearly 70 programs in 19 countries that vary in length. Students may also be able to take courses outside their area of study depending on the program, including GE courses or electives.
                         </p>
 
 

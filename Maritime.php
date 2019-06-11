@@ -56,7 +56,8 @@ function printBody()
                     
                     <div class="subpage_full_text">
                         <div id="subpage_text_title"><a href="http://www.csueastbay.edu/studyabroad/italy.html">Study Abroad Support</a></div></br>
-                        <p>International Study Tours are provided for the following majors: Business Administration, International Business, Logistics Concentration, Global Studies, and Maritime Affairs, along with five different international voyages. Faculty-led, Cal Maritime-sponsored three-week study tours to international locations such as Costa Rica, Vietnam, France/Morocco, or Northern Europe provides students with valuable exposure to the business environments and political issues around the globe.
+                        <p>At present, study-abroad opportunities are available through partnerships with other maritime universities in their exchange program*. Also, students participate in International Study Tours for the following majors: Business Administration, International Business, Logistics Concentration, Global Studies, and Maritime Affairs, along with five different international voyages. Faculty-led, Cal Maritime-sponsored three-week study tours to international locations such as Costa Rica, Vietnam, France/Morocco, or Northern Europe provides students with valuable exposure to the business environments and political issues around the globe.(*available for Cal Maritime Students)
+
 
                         </p>
 

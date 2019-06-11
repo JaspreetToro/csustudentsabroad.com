@@ -76,8 +76,7 @@ function printBody()
                     </div>
                     <!-- end of inage division-->
                     <div id="subpage_text2">
-                        <p><div id="subpage_text_title"><a href="https://www.csustan.edu/">About Stanislaus State</a></div> </br>California State University, Stanislaus serves a diverse student body of more than 10,000 at two locations in the Central Valley — a beautiful 228-acre campus in Turlock and the Stockton Campus, located in the city’s historic Magnolia District. Widely recognized for its dedicated faculty and high-quality academic programs, the University offers 43 majors, 41 minors and more than 100 areas of concentration, along with 16 master's degree programs, seven credential programs and a doctorate in educational leadership.</br>
-                        The faculty, staff, administrators, and students are committed to creating an inclusive learning environment which encourages all members of the campus community to expand their intellectual, creative, and social horizons. 
+                        <p><div id="subpage_text_title"><a href="https://www.csustan.edu/">About Stanislaus State</a></div> </br>There are abundant opportunities to immerse in the culture, history, and academics of other countries providing an unforgettable experience. Each program is designed to help you grow into an engaged citizen of the world—not only through academic experiences, but also through field trips, internships, volunteering, and service learning. You can choose from programs in over 50 cities across 28 countries, including Africa, Asia, Europe, Latin America, and Oceania.
                         </p>
                         
                     </div>

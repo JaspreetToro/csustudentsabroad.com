@@ -57,8 +57,7 @@ function printBody()
                     <div class="subpage_full_text">
                         <div id="subpage_text_title"><a href="https://www.csun.edu/international/study-abroad">Study Abroad Support
                         </a></div></br>
-                        <p> CSUN’s International & Exchange Student Center (IESC) provides support to 
-                        students who are interested in studying abroad. The IESC actively promotes international study and domestic exchange opportunities for all students. Currently, there are 4 different study abroad programs to choose from that varies in length and requirements.  Learn a variety of options as you navigate your way in finding the right program, as staff members can also guide you through the Process. 
+                        <p> CSUN’s International & Exchange Student Center (IESC) provides support to students who are interested in studying abroad. The IESC actively promotes international study and domestic exchange opportunities for all students. Currently, there are 4 different study abroad programs to choose from that varies in length and requirements.  Learn a variety of options as you navigate your way in finding the right program, as staff members can also guide you through the process. 
                         </p>
 
 

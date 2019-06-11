@@ -214,7 +214,7 @@ function printFeaturedPrograms()
             </div>
             <div class="caption-content-wrapper">Explore your options for exploring the world. Our study abroad program search allows you to choose the location and subjects you want to study and to find the perfect program for you!<br />
                 <br />
-                <a href="http://directory.studentsabroad.com/index.cfm?FuseAction=Programs.SimpleSearch">Find a Program</a></div>
+                <a href="advancedsearch.php">Find a Program</a></div>
         </div>
         <div class="orbit-caption" id="htmlCaption2">
             <div class="caption-title">
@@ -231,7 +231,7 @@ function printFeaturedPrograms()
             <div class="caption-content-wrapper">Our 48 country-specific study abroad handbooks give you the details so that you can hit the ground running. Learn the ins and outs for your destination.<br />
                 <br />
                 <div style="color: 
-#73A6CE; font-weight:bold;">Select a Country&ndash;Specific Handbook from the menu above</div>
+#73A6CE; font-weight:bold;">Select a Country&ndash;Specific Handbook from the menu right</div>
             </div>
         </div>
     </div>

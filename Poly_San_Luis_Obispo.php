@@ -57,7 +57,7 @@ function printBody()
                     <div class="subpage_full_text">
                         <div id="subpage_text_title"><a href="https://abroad.calpoly.edu/index.cfm?FuseAction=Abroad.Home">Study Abroad Support
                         </a></div></br>
-                        <p> Programs vary in academic and learning objectives, location, duration, excursions and cultural activities, and cost. But information about specific faculty-led programs is currently unavailable at this time. 
+                        <p> The Cal Poly International Center is highly supportive of access to study abroad opportunities for all students. Representatives from the Cal Poly International Center will guide you through goal setting, financial and academic planning, program selection, and the application process. Programs vary in academic and learning objectives, location, duration, excursions, cultural activities, and cost.  
                         </p>
 
 

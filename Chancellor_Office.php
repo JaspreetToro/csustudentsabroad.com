@@ -55,7 +55,7 @@ function printBody()
                 <div>
                     
                     <div class="subpage_full_text">
-                        <div id="subpage_text_title"><a href="https://www.cpp.edu/~international/study-abroad/index.shtml">Study Abroad Support
+                        <div id="subpage_text_title"><a href="https://www2.calstate.edu/maps-and-directions-to-chancellors-office">Study Abroad Support
                         </a></div></br>
                         <p>  The Chancellor’s Office serves as the headquarters of the CSU system, which has administrative departments that oversees every aspect of the CSU system. With 23 campuses across the state and educating 481, 000 students annually, CSU has the most diverse student bodies in the U.S. Responsibility for the CSU is vested in a 25-member Board of Trustees, the majority of whom are appointed by the governor.   
 
@@ -77,7 +77,7 @@ function printBody()
                     </div>
                     <!-- end of inage division-->
                     <div id="subpage_text2">
-                        <p><div id="subpage_text_title"><a href="https://www.cpp.edu/">About Cal Poly Pomona</a></div> </br> One of the vital missions of the California State University is developing intercultural communication skills and international understanding among its students. As a result, the CSU International Programs, a systemwide department operating from within the CSU Chancellors Office in Long Beach, California, has contributed to this effort by providing qualified students an affordable opportunity to continue their studies abroad for a full academic year.
+                        <p><div id="subpage_text_title"><a href="https://www2.calstate.edu/">About CSU Chancellor's Office</a></div> </br> One of the vital missions of the California State University is developing intercultural communication skills and international understanding among its students. As a result, the CSU International Programs, a systemwide department operating from within the CSU Chancellors Office in Long Beach, California, has contributed to this effort by providing qualified students an affordable opportunity to continue their studies abroad for a full academic year.
                         </p>
                         
                     </div>

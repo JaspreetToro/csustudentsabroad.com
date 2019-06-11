@@ -56,7 +56,7 @@ function printBody()
                     
                     <div class="subpage_full_text">
                         <div id="subpage_text_title"><a href="http://stage.sjsu.edu/gei/flp/programs/index.html">Study Abroad Support</a></div></br>
-                        <p>Study Abroad and Away is contributing to the internationalization of San José State University by providing students the opportunity to study abroad on short-term programs (Faculty-Led Programs and Summer School Abroad Programs), offering Alternative Spring Break Programs (more information coming soon!), and designing other globally focused opportunities.
+                        <p>The College of Professional and Global Education is contributing to the internationalization of San José State University, by providing students the opportunity to study abroad. The Study Abroad and Away Office has a wide variety of options to help students join the global community and support its mission. With different options, students have the opportunity to find the program of their choice. Currently, there are faculty-led programs that offer you the chance to visit a global destination and study onsite with SJSU faculty and a cohort of your peers.
 
 
                         </p>

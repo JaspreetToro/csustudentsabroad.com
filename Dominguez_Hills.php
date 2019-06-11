@@ -57,7 +57,7 @@ function printBody()
                     <div class="subpage_full_text">
                         <div id="subpage_text_title"><a href="https://www.csudh.edu/ceie-intl/study-abroad/">Study Abroad Support
                         </a></div></br>
-                        <p>  If you are interested in immersing yourself in the culture, history, and academic life of a new country, the Study Abroad Office provides opportunity such as the faculty-led program. These courses allow students to study for 1 to 6 weeks during winter, spring, or summer break, earning 3 or 6 units. There are many options to choose from and resources available to help you get started with your opportunity to immerse yourself in a different culture while learning abroad. Explore the website to get more information. 
+                        <p> If you are interested in immersing yourself in the culture, history, and academic life of a new country, the Study Abroad Office provides opportunity such as the faculty-led program. These courses allow students to study for 1 to 6 weeks during winter, spring, or summer break, earning 3 or 6 units. There are many options to choose from and resources available to help you get started with your opportunity to immerse yourself in a different culture while learning abroad. Explore the website to get more information. 
                         </p>
 
 
