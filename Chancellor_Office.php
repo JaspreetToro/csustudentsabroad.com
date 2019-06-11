@@ -47,7 +47,7 @@ function printBody()
             <div id="left_content_top_upper">
                         <div id="left_content_top_upper1">STUDY ABROAD
                         </div>
-                        <div id="left_content_top_upper2">CAL CHANCELLOR'S OFFICE
+                        <div id="left_content_top_upper2">CSU CHANCELLOR'S OFFICE
                         </div> 
                     </div>
             <div id="new_nonav_subpage_content" >
@@ -57,7 +57,7 @@ function printBody()
                     <div class="subpage_full_text">
                         <div id="subpage_text_title"><a href="https://www.cpp.edu/~international/study-abroad/index.shtml">Study Abroad Support
                         </a></div></br>
-                        <p>  The College of the Extended University International Center encourages more students to study abroad that will enrich students personally and professionally. Currently, their are short-term programs led by Cal Poly Pomona professors. Most programs are reasonably priced and students take classes and travel together. Programs include room & board, transportation, insurance, pre-departure orientation, and most programs are open to all majors. There are 10 summer programs available in Europe, North America, Asia, Central America, and North Africa. Students can find more information about each program on their website.   
+                        <p>  The Chancellor’s Office serves as the headquarters of the CSU system, which has administrative departments that oversees every aspect of the CSU system. With 23 campuses across the state and educating 481, 000 students annually, CSU has the most diverse student bodies in the U.S. Responsibility for the CSU is vested in a 25-member Board of Trustees, the majority of whom are appointed by the governor.   
 
                         </p>
 
@@ -73,16 +73,16 @@ function printBody()
      </div>
                     <!-- end of  subpage_full_text-->
                     <div id="addition_links"></div>
-                    <div id="subpage_image" style="background:url(../images/polypomona1.jpg);">
+                    <div id="subpage_image" style="background:url(../images/chancellor1.jpg);">
                     </div>
                     <!-- end of inage division-->
                     <div id="subpage_text2">
-                        <p><div id="subpage_text_title"><a href="https://www.cpp.edu/">About Cal Poly Pomona</a></div> </br> Cal Poly Pomona is among the best public universities in the West and is nationally ranked for helping students achieve economic success. As an inclusive polytechnic university, Cal Poly Pomona cultivates success through experiential learning, discovery, and innovation.  Graduates are ready to succeed in the professional world. Faculty in all disciplines put theory to practice, providing students with opportunities to apply their knowledge in hands-on projects, research collaborations, and valuable internship and service-learning programs
+                        <p><div id="subpage_text_title"><a href="https://www.cpp.edu/">About Cal Poly Pomona</a></div> </br> One of the vital missions of the California State University is developing intercultural communication skills and international understanding among its students. As a result, the CSU International Programs, a systemwide department operating from within the CSU Chancellors Office in Long Beach, California, has contributed to this effort by providing qualified students an affordable opportunity to continue their studies abroad for a full academic year.
                         </p>
                         
                     </div>
                     <!-- end text2 divsion-->
-                    <div id="subpage_image" style="background:url(../images/polypomona2.jpg) ;">
+                    <div id="subpage_image" style="background:url(../images/chancellor2.jpg) ;">
                     </div>   
     </span>
     <!-- end of subpage_left_container -->
