@@ -47,7 +47,7 @@ function printBody()
             <div id="left_content_top_upper">
                         <div id="left_content_top_upper1">STUDY ABROAD
                         </div>
-                        <div id="left_content_top_upper2">PROGRAM FOR CSU STUDENTS
+                        <div id="left_content_top_upper2">CSU LONG BEACH
                         </div> 
                     </div>
             <div id="new_nonav_subpage_content" >
@@ -55,16 +55,11 @@ function printBody()
                 <div>
                     
                     <div class="subpage_full_text">
-                        <script language="javascript">renderDiv(10);</script>
-                        
-                        <script language="javascript">renderDiv(8);</script>
-                        <p>CSUStudentsAbroad.com is a resource for students at all California State University (CSU) campuses contemplating studying abroad. This website includes the study abroad programs offered by the CSU Chancellor's Office (CSU International Programs) which are all year-long programs.  It also provides information about other programs offered by the other 23 CSU campuses that are available for any CSU student.  Unlike other study abroad websites, along with providing program information, the information on CSUStudentsAbroad.com provides insights on the importance of health and safety awareness in general, and specifically for countries where we've developed a Country Handbook. Our website includes <a href="handbook/introduction.php?country=General">48 country-specific study abroad handbooks</a>, which give students the details necessary to hit the ground running and learn the ins and outs of their destination. While our <a href="handbook/introduction.php?country=General">general handbook</a> is designed as a global guide, it enriches all students&#39; understanding so they may safely and smoothly navigate their host country and become savvy travellers empowered to get the most out of their study abroad experience.</p>
-                        <p>Although choosing an educational program, financing education, and applying to a university abroad can be confusing and sometimes overwhelming, CSUStudentsAbroad.com enables students to research program offerings and access resources that guide them each step of the way&mdash;from learning basic phrases to becoming acquainted with the local transportation system. </p>
-                        <p>CSUStudentsAbroad.com facilitates not only students&#39;, but also parents&#39;, learning about the various challenges faced in the study abroad experience, which include culture shock, drug and alcohol abuse, and general mental health. In addition to these tools, the "<a href="search.php">Program Search</a>" option encourages students to explore the study abroad option best fitting their interests, especially in non-traditional study abroad countries, such as Thailand, Morocco, and Peru. Such search innovations make essential information accessible, which assist students in finding the program perfect for them!</p>
-                        <script language="javascript">renderDiv(20);</script>
-                        <div class="big_dark_blue_bold">Who's behind CSUStudentsAbroad.com?</div>
-                        <script language="javascript">renderDiv(8);</script>
-                        <p>This website was created with the help of staff, and returned study abroad students at the Center for Global Education at the CSUDH College of Extended & International Education. We hope this content will help you find a quality program, have a great study abroad experience, and then return home to integrate your international learning in the U.S. We are very enthusiastic about helping study abroad students and hope you can learn a lot from this website!</p>
+                        <div id="subpage_text_title"><a href="https://csulb-sa.terradotta.com/">Study Abroad Support
+                        </a></div></br>
+                        <p>  CSULB Short-term Faculty-Led Study Abroad Program offers dozens of Summer and Winter Programs in Asia, West Indies, Europe, North America, and the Middle East, open to all majors on a space available basis. (Faculty permission is required). Students can have fun, learn, and earn academic credit within a short period of time. Although each program’s length varies, you’ll find one to fit your budget and interests. 
+ 
+                        </p>
 
 
                 </div>
@@ -78,14 +73,16 @@ function printBody()
      </div>
                     <!-- end of  subpage_full_text-->
                     <div id="addition_links"></div>
-                    <div id="subpage_image1">
+                    <div id="subpage_image" style="background:url(../images/longbeach1.jpg);">
                     </div>
                     <!-- end of inage division-->
                     <div id="subpage_text2">
-                        <p>Text 2</p>
+                        <p><div id="subpage_text_title"><a href="http://www.csulb.edu//">About CSU Long Beach</a></div> </br>California State University Long Beach is more than the beach. It’s more than a blue pyramid and nationally recognized art museum. The 322-acre campus is home to top-notch professors, successful alumni and diverse student population ready to take on the world with a highly regarded education. CSULB is known for creating educational opportunities, encouraging creativity and preparing the next generation of leaders for a rapidly changing world. The university is one of the best-valued schools in the state with low tuition fees, high social mobility rate, and earning potential after graduation. 
+                        </p>
+                        
                     </div>
                     <!-- end text2 divsion-->
-                    <div id="subpage_image2">
+                    <div id="subpage_image" style="background:url(../images/longbeach2.jpg) ;">
                     </div>   
     </span>
     <!-- end of subpage_left_container -->

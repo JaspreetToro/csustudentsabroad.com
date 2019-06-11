@@ -47,7 +47,7 @@ function printBody()
             <div id="left_content_top_upper">
                         <div id="left_content_top_upper1">STUDY ABROAD
                         </div>
-                        <div id="left_content_top_upper2">CHICO STATE
+                        <div id="left_content_top_upper2">CAL CHANCELLOR'S OFFICE
                         </div> 
                     </div>
             <div id="new_nonav_subpage_content" >
@@ -55,10 +55,10 @@ function printBody()
                 <div>
                     
                     <div class="subpage_full_text">
-                        <script language="javascript">renderDiv(10);</script>
-                        
-                        <script language="javascript">renderDiv(8);</script>
-                        <p><a href="https://www.csuchico.edu/studyabroad/about/contact.shtml">The Study Abroad Office</a> is made up of many people, staff, student workers, interns, and volunteers all working together on a daily basis to give you the best service possible and to help you achieve your goals and dreams abroad. Chico State is currently offering 4 Faculty-Led programs for this summer. Destinations are in Nepal, Ecuador, Thailand/China, and the United Kingdom. Each program will be taught in English and students will earn a total of 6 units. https://csuchico-sa.terradotta.com/index.cfm?FuseAction=Programs.SearchResults&Program_Name=faculty-led&Program
+                        <div id="subpage_text_title"><a href="https://www.cpp.edu/~international/study-abroad/index.shtml">Study Abroad Support
+                        </a></div></br>
+                        <p>  The College of the Extended University International Center encourages more students to study abroad that will enrich students personally and professionally. Currently, their are short-term programs led by Cal Poly Pomona professors. Most programs are reasonably priced and students take classes and travel together. Programs include room & board, transportation, insurance, pre-departure orientation, and most programs are open to all majors. There are 10 summer programs available in Europe, North America, Asia, Central America, and North Africa. Students can find more information about each program on their website.   
+
                         </p>
 
 
@@ -73,15 +73,16 @@ function printBody()
      </div>
                     <!-- end of  subpage_full_text-->
                     <div id="addition_links"></div>
-                    <div id="subpage_image1_chico" style="width:100%; height: 200px; background:url(../images/chico1.jpg);">
+                    <div id="subpage_image" style="background:url(../images/polypomona1.jpg);">
                     </div>
                     <!-- end of inage division-->
                     <div id="subpage_text2">
-                        <p>Founded in 1887, Chico State is committed in scholarly pursuit, civic engagement, and community outreach. Chico has been rated a top 10 regional public university in the West by U.S. News & World Report since 1998. The university is committed to assist students in their search for knowledge and prepare them in order to assume responsibility in a democratic community and be useful members of a global society. The university’s unique combination of scholarly pursuits, civic engagement, and a very real connection to the Chico community earns its national and international accolades. </p>
+                        <p><div id="subpage_text_title"><a href="https://www.cpp.edu/">About Cal Poly Pomona</a></div> </br> Cal Poly Pomona is among the best public universities in the West and is nationally ranked for helping students achieve economic success. As an inclusive polytechnic university, Cal Poly Pomona cultivates success through experiential learning, discovery, and innovation.  Graduates are ready to succeed in the professional world. Faculty in all disciplines put theory to practice, providing students with opportunities to apply their knowledge in hands-on projects, research collaborations, and valuable internship and service-learning programs
+                        </p>
                         
                     </div>
                     <!-- end text2 divsion-->
-                    <div id="subpage_image2_chico" style="width:100%; height: 200px; background:url(../images/chico2.jpg) ;">
+                    <div id="subpage_image" style="background:url(../images/polypomona2.jpg) ;">
                     </div>   
     </span>
     <!-- end of subpage_left_container -->

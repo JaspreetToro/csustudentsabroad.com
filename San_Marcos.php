@@ -47,7 +47,7 @@ function printBody()
             <div id="left_content_top_upper">
                         <div id="left_content_top_upper1">STUDY ABROAD
                         </div>
-                        <div id="left_content_top_upper2">PROGRAM FOR CSU STUDENTS
+                        <div id="left_content_top_upper2">CSU SAN MARCOS
                         </div> 
                     </div>
             <div id="new_nonav_subpage_content" >
@@ -55,16 +55,11 @@ function printBody()
                 <div>
                     
                     <div class="subpage_full_text">
-                        <script language="javascript">renderDiv(10);</script>
-                        
-                        <script language="javascript">renderDiv(8);</script>
-                        <p>CSUStudentsAbroad.com is a resource for students at all California State University (CSU) campuses contemplating studying abroad. This website includes the study abroad programs offered by the CSU Chancellor's Office (CSU International Programs) which are all year-long programs.  It also provides information about other programs offered by the other 23 CSU campuses that are available for any CSU student.  Unlike other study abroad websites, along with providing program information, the information on CSUStudentsAbroad.com provides insights on the importance of health and safety awareness in general, and specifically for countries where we've developed a Country Handbook. Our website includes <a href="handbook/introduction.php?country=General">48 country-specific study abroad handbooks</a>, which give students the details necessary to hit the ground running and learn the ins and outs of their destination. While our <a href="handbook/introduction.php?country=General">general handbook</a> is designed as a global guide, it enriches all students&#39; understanding so they may safely and smoothly navigate their host country and become savvy travellers empowered to get the most out of their study abroad experience.</p>
-                        <p>Although choosing an educational program, financing education, and applying to a university abroad can be confusing and sometimes overwhelming, CSUStudentsAbroad.com enables students to research program offerings and access resources that guide them each step of the way&mdash;from learning basic phrases to becoming acquainted with the local transportation system. </p>
-                        <p>CSUStudentsAbroad.com facilitates not only students&#39;, but also parents&#39;, learning about the various challenges faced in the study abroad experience, which include culture shock, drug and alcohol abuse, and general mental health. In addition to these tools, the "<a href="search.php">Program Search</a>" option encourages students to explore the study abroad option best fitting their interests, especially in non-traditional study abroad countries, such as Thailand, Morocco, and Peru. Such search innovations make essential information accessible, which assist students in finding the program perfect for them!</p>
-                        <script language="javascript">renderDiv(20);</script>
-                        <div class="big_dark_blue_bold">Who's behind CSUStudentsAbroad.com?</div>
-                        <script language="javascript">renderDiv(8);</script>
-                        <p>This website was created with the help of staff, and returned study abroad students at the Center for Global Education at the CSUDH College of Extended & International Education. We hope this content will help you find a quality program, have a great study abroad experience, and then return home to integrate your international learning in the U.S. We are very enthusiastic about helping study abroad students and hope you can learn a lot from this website!</p>
+                        <div id="subpage_text_title"><a href="http://go.sdsu.edu/student_affairs/isc/studyabroad.aspx">Study Abroad Support
+                        </a></div></br>
+                        <p> CSU San Marcos offers students the opportunity to study in another country for a January, summer, semester, or academic year through a wide range of programs. The Office of Global Education maintains an up-to-date information center on a wide variety of study abroad opportunities.You can find program options that suit your needs, get information about financial aid, learn about credit transfer, and make direct contact with the school or center you want to attend all in one place. The Study Abroad Advisors there provide an invaluable resource and can help you find the program that's right for you and meet your needs. Currently, there are 8 Summer Programs and requirements vary, but all courses are taught in English.  
+
+                        </p>
 
 
                 </div>
@@ -78,14 +73,17 @@ function printBody()
      </div>
                     <!-- end of  subpage_full_text-->
                     <div id="addition_links"></div>
-                    <div id="subpage_image1">
+                    <div id="subpage_image" style="background:url(../images/sanmarcos1.jpg);">
                     </div>
                     <!-- end of inage division-->
                     <div id="subpage_text2">
-                        <p>Text 2</p>
+                        <p><div id="subpage_text_title"><a href="https://www.csusm.edu/">About CSU San Marcos</a></div> </br> Building on an innovative 28-year history, California State University San Marcos is a forward-focused institution, dedicated to preparing future leaders, building great communities and solving critical issues. CSUSM students work closely with a faculty whose commitment to sustained excellence in teaching, research, and community partnership enhances student learning. The university offers rigorous undergraduate and graduate programs distinguished by exemplary teaching, innovative curricula, and the application of new technologies. CSUSM provides a range of services that respond to the needs of a student body with diverse backgrounds, expanding student access to an excellent and affordable education. 
+
+                        </p>
+                        
                     </div>
                     <!-- end text2 divsion-->
-                    <div id="subpage_image2">
+                    <div id="subpage_image" style="background:url(../images/sanmarcos2.jpg) ;">
                     </div>   
     </span>
     <!-- end of subpage_left_container -->

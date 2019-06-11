@@ -47,7 +47,7 @@ function printBody()
             <div id="left_content_top_upper">
                         <div id="left_content_top_upper1">STUDY ABROAD
                         </div>
-                        <div id="left_content_top_upper2">CSU CHANNEL ISLANDS
+                        <div id="left_content_top_upper2">CSU DOMINGUEZ HILLS
                         </div> 
                     </div>
             <div id="new_nonav_subpage_content" >
@@ -55,9 +55,9 @@ function printBody()
                 <div>
                     
                     <div class="subpage_full_text">
-                        <div id="subpage_text_title"><a href="https://www.csuci.edu/international/">Study Abroad Support
+                        <div id="subpage_text_title"><a href="https://www.csudh.edu/ceie-intl/study-abroad/">Study Abroad Support
                         </a></div></br>
-                        <p> CSU Channel Islands has established partnerships with prestigious universities in Germany, France, and Norway. Open to Sophomore, Juniors, and Seniors, the German Program is open to all majors. The program is designed for students who are advanced beginners or whose German language proficiency is at a lower intermediate level.
+                        <p>  If you are interested in immersing yourself in the culture, history, and academic life of a new country, the Study Abroad Office provides opportunity such as the faculty-led program. These courses allow students to study for 1 to 6 weeks during winter, spring, or summer break, earning 3 or 6 units. There are many options to choose from and resources available to help you get started with your opportunity to immerse yourself in a different culture while learning abroad. Explore the website to get more information. 
                         </p>
 
 
@@ -72,16 +72,16 @@ function printBody()
      </div>
                     <!-- end of  subpage_full_text-->
                     <div id="addition_links"></div>
-                    <div id="subpage_image" style="background:url(../images/channel1.jpg);">
+                    <div id="subpage_image" style="background:url(../images/dominguez1.jpg);">
                     </div>
                     <!-- end of inage division-->
                     <div id="subpage_text2">
-                        <p><div id="subpage_text_title"><a href="https://www.csuci.edu/">About CSU Channel Islands</a></div> </br>Established in 2002, California State University Channel Islands (CSUCI), a four-year, public university in Camarillo, is the youngest of 23 campuses in the CSU family.  CSUCI has an energy and vibrancy that’s felt everywhere on campus. From the start, the university has offered integrative courses and programs that emphasize real-world experiences and service learning.
+                        <p><div id="subpage_text_title"><a href="https://www.csudh.edu/">About CSU Dominguez Hills</a></div> </br>Centrally located in the South Bay and the heart of Los Angeles, CSU Dominguez Hills is a diverse, welcoming community of learners and educators collaborating to change lives and communities for the better. Through its strong and relevant academic programs, dedicated faculty mentors, supportive staff, attractive campus, and student amenities, CSUDH is committed to connecting students to an affordable, high-quality, and transformative education. CSUDH provides the community with a vital resource for talented, knowledgeable, and skilled leaders needed to thrive today and tomorrow. 
                         </p>
                         
                     </div>
                     <!-- end text2 divsion-->
-                    <div id="subpage_image" style="background:url(../images/channel2.jpg) ;">
+                    <div id="subpage_image" style="background:url(../images/dominguez2.jpg) ;">
                     </div>   
     </span>
     <!-- end of subpage_left_container -->
