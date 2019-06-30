@@ -43,7 +43,7 @@ global $banner;
                         <li><a href="Channel_Islands.php">CSU Channel Islands</a></li>
                         <li><a href="Dominguez_Hills.php">CSU Dominguez Hills</a></li>
                         <li><a href="Fresno_State.php">Fresno State</a></li>
-                        <li><a href="Humboldt.php">Humboldt State</a></li>
+                        <li><a href="handbook/Humboldt.php">Humboldt State</a></li>
                         <li><a href="Los_Angeles.php">CSU Los Angeles</a></li>
                         <li><a href="Monterey_Bay.php">CSU Monterey Bay</a></li>
                         <li><a href="Poly_Pomona.php">Cal Poly Pomona</a></li>
@@ -59,7 +59,7 @@ global $banner;
                 <span class="xyz">
                     <ul style="padding-left: 25px;">
                         <li><a href="Bakersfield.php">CSU Bakersfield</a></li>
-                        <li><a href="Chico_State.php">Chico State</a></li>
+                        <li><a href="handbook/Chico_State.php">Chico State</a></li>
                         <li><a href="East_Bay.php">CSU East Bay</a></li>
                         <li><a href="Fullerton.php">CSU Fullerton</a></li>
                         <li><a href="Long_Beach_State.php">Long Beach State</a></li>
@@ -132,6 +132,8 @@ global $banner;
                                             <select name="country" id="pch_selProgCntry">
 
                                                 <option value="Choose">Choose One</option><option value="General" selected="selected">Choose One</option><option value="Argentina">Argentina</option><option value="Australia">Australia</option><option value="Austria">Austria</option><option value="Belgium">Belgium</option><option value="Belize">Belize</option><option value="Botswana">Botswana</option><option value="Brazil">Brazil</option><option value="Canada">Canada</option><option value="Chile">Chile</option><option value="China">China</option><option value="Costa Rica">Costa Rica</option><option value="Cuba">Cuba</option><option value="Czech Republic">Czech Republic</option><option value="Denmark">Denmark</option><option value="Dominican Republic">Dominican Republic</option><option value="Ecuador">Ecuador</option><option value="Egypt">Egypt</option><option value="Finland">Finland</option><option value="France">France</option><option value="Germany">Germany</option><option value="Ghana">Ghana</option><option value="Greece">Greece</option><option value="Guatemala">Guatemala</option><option value="Hungary">Hungary</option><option value="India">India</option><option value="Ireland">Ireland</option><option value="Israel">Israel</option><option value="Italy">Italy</option><option value="Japan">Japan</option><option value="Jordan">Jordan</option><option value="Kenya">Kenya</option><option value="Mexico">Mexico</option><option value="Morocco">Morocco</option><option value="Netherlands">Netherlands</option><option value="New Zealand">New Zealand</option><option value="Nicaragua">Nicaragua</option><option value="Norway">Norway</option><option value="Peru">Peru</option><option value="Portugal">Portugal</option><option value="Russia">Russia</option><option value="South Africa">South Africa</option><option value="South Korea">South Korea</option><option value="Spain">Spain</option><option value="Sweden">Sweden</option><option value="Switzerland">Switzerland</option><option value="Thailand">Thailand</option><option value="Turkey">Turkey</option><option value="United Kingdom">United Kingdom</option><option value="United States">United States</option>
+
+
 
                                             </select>
 

@@ -47,22 +47,17 @@ function printBody()
             <div id="left_content_top_upper">
                         <div id="left_content_top_upper1">STUDY ABROAD
                         </div>
-                        <div id="left_content_top_upper2">HUMBOLDT STATE UNIVERSITY
+                        <div id="left_content_top_upper2">CALIFORNIA STATE UNIVERSITY EAST BAY
                         </div> 
                     </div>
             <div id="new_nonav_subpage_content" >
                 <script language="javascript">renderDiv(20);</script>
-                <div>
-                    
-                    <div class="subpage_full_text">
-                        <div id="subpage_text_title"><a href="https://humboldt-international.terradotta.com/">Study Abroad Support</a></div></br>
-                        <p>HSU faculty-led summer programs will be in Mexico, Costa Rica, China, and Switzerland. 
-                            The Oaxaca Program is the oldest study abroad program at Humboldt State University with more than 25 years of experience in Mexico. The Oaxaca Program is an intense 10-week summer immersion Spanish language and culture program.
-
-                        </p>
-
-
+                <div class="subpage_full_text">
+                    <div id="subpage_text_title"><a href="https://humboldt-international.terradotta.com/">Shared Programs</a></div></br>
+                    <div id="subpage_text1"><p>The Center for International Education serves to expand international learning opportunities for students and faculty. Humboldt State University and the Center for International Programs would like to encourage all students to consider studying abroad. Each year students from numerous academic majors and minors study abroad to gain valuable international experience. The university has four different programs that students can choose from based on their goals and needs. Currently, HSU faculty-led summer programs  are in Mexico, Costa Rica, China, and Switzerland. Most of the short-term programs are during the summer through Extended Education and can be from four to ten weeks long. These programs have rolling admissions which means that you can be accepted before the deadline if you meet the acceptance criteria.</p>
                 </div>
+
+                
                 <!-- end of class small grey -->
                 <div>&nbsp;</div>
                 <p></p>
@@ -77,7 +72,9 @@ function printBody()
                     </div>
                     <!-- end of inage division-->
                     <div id="subpage_text2">
-                        <p><div id="subpage_text_title"><a href="https://www.humboldt.edu/">About Humboldt State</a></div> </br>Humboldt State University offers students a unique experience through a mix of academic programs, hands-on experiences, and commitment to social and environmental responsibility. Most of your classes are small, giving you a chance to be actively involved in discussions. And you’ll really get to know your professors, who will challenge you and help you develop a passion for learning. </p>
+                        <div id="subpage_text_title"><a href="https://www.humboldt.edu/">About Humboldt State</a></div> </br>
+                        <div>Humboldt State University offers students a unique experience through a mix of academic programs, hands-on experiences, and commitment to social and environmental responsibility. Most of your classes are small, giving you a chance to be actively involved in discussions. And you’ll really get to know your professors, who will challenge you and help you develop a passion for learning. </p>
+                        </div>
                         
                     </div>
                     <!-- end text2 divsion-->
@@ -307,6 +304,7 @@ function printBody()
 
                                             <select name="country" id="pch_selProgCntry">
 
+                                                <option value="Choose">Choose One</option><option value="General" selected="selected">Choose One</option><option value="Argentina">Argentina</option><option value="Australia">Australia</option><option value="Austria">Austria</option><option value="Belgium">Belgium</option><option value="Belize">Belize</option><option value="Botswana">Botswana</option><option value="Brazil">Brazil</option><option value="Canada">Canada</option><option value="Chile">Chile</option><option value="China">China</option><option value="Costa Rica">Costa Rica</option><option value="Cuba">Cuba</option><option value="Czech Republic">Czech Republic</option><option value="Denmark">Denmark</option><option value="Dominican Republic">Dominican Republic</option><option value="Ecuador">Ecuador</option><option value="Egypt">Egypt</option><option value="Finland">Finland</option><option value="France">France</option><option value="Germany">Germany</option><option value="Ghana">Ghana</option><option value="Greece">Greece</option><option value="Guatemala">Guatemala</option><option value="Hungary">Hungary</option><option value="India">India</option><option value="Ireland">Ireland</option><option value="Israel">Israel</option><option value="Italy">Italy</option><option value="Japan">Japan</option><option value="Jordan">Jordan</option><option value="Kenya">Kenya</option><option value="Mexico">Mexico</option><option value="Morocco">Morocco</option><option value="Netherlands">Netherlands</option><option value="New Zealand">New Zealand</option><option value="Nicaragua">Nicaragua</option><option value="Norway">Norway</option><option value="Peru">Peru</option><option value="Portugal">Portugal</option><option value="Russia">Russia</option><option value="South Africa">South Africa</option><option value="South Korea">South Korea</option><option value="Spain">Spain</option><option value="Sweden">Sweden</option><option value="Switzerland">Switzerland</option><option value="Thailand">Thailand</option><option value="Turkey">Turkey</option><option value="United Kingdom">United Kingdom</option><option value="United States">United States</option>
                                                 [@country_option_menu]
 
                                             </select>
@@ -389,41 +387,37 @@ function printBody()
 
                 <li class="button">
 
-                    <a href="#" class="dropdown_button">Understanding Study Abroad
-
-                    <span>
-
-                    </span>
+                    <a href="#" class="dropdown_button" id="select_active">Understanding Study Abroad
 
                     </a>
 
                 </li>
 
-                <li class="dropdown">
+                <li class="dropdown" style="display: list-item;">
 
                     <ul>
 
                         <li>
 
-                            <a href="/handbook/introduction.php?country=[@country_link]">Introduction</a>
+                            <a href="/handbook/introduction.php?country=General">Introduction</a>
 
                         </li>
 
                         <li>
 
-                            <a href="/handbook/why-study-abroad.php?country=[@country_link]">Why Study Abroad?</a>
+                            <a href="/handbook/why-study-abroad.php?country=General">Why Study Abroad?</a>
 
                         </li>
 
                         <li>
 
-                            <a href="/handbook/why-learn-a-language.php?country=[@country_link]">Why Learn a Language?</a>
+                            <a href="/handbook/why-learn-a-language.php?country=General">Why Learn a Language?</a>
 
                         </li>
 
                         <li class="last">
 
-                            <a href="/handbook/advice-for-parents.php?country=[@country_link]">Advice for Parents</a>
+                            <a href="/handbook/advice-for-parents.php?country=General">Advice for Parents</a>
 
                         </li>
 

@@ -1,9 +1,10 @@
 <?php 
 
-include "lib/common.php";
-include "lib/subpage_common.php";
-include "lib/common_array.php";
-include "lib/conn_data.php";
+include "../lib/common.php";
+include "../lib/subpage_common.php";
+include "../lib/common_array.php";
+include "../lib/conn_data.php";
+
 
 //define('PHPBB_ROOT_PATH', "forum/");
 //define('IN_PHPBB', true);
@@ -53,8 +54,8 @@ function printBody()
             <div id="new_nonav_subpage_content" >
                 <script language="javascript">renderDiv(20);</script>
                 <div class="subpage_full_text">
-                    <div id="subpage_text_title"><a href="http://www.csueastbay.edu/studyabroad/">Shared Programs</a></div></br>
-                    <div id="subpage_text1"><p>The Center for International Education serves to expand international learning opportunities for students and faculty. The study abroad programs offered through East Bay allows students to gain personal growth and acquisition of valuable skills, such as language fluency and cross-cultural understanding. CSU East Bay offers short-term programs each summer led by faculty members. Currently, thehe 2020 Summer Italy Program permits undergraduates and graduates of all majors to apply. Another option is the International Student Exchange Program (ISEP), which offers summer programs in a variety of subjects that are available depending on the location. ISEP is designed so that students exchanged throughout the ISEP network pay all of their fees, including room and board, to their home institution.</p>
+                    <div id="subpage_text_title"><a href="https://humboldt-international.terradotta.com/">Shared Programs</a></div></br>
+                    <div id="subpage_text1"><p>The Center for International Education serves to expand international learning opportunities for students and faculty. Humboldt State University and the Center for International Programs would like to encourage all students to consider studying abroad. Each year students from numerous academic majors and minors study abroad to gain valuable international experience. The university has four different programs that students can choose from based on their goals and needs. Currently, HSU faculty-led summer programs  are in Mexico, Costa Rica, China, and Switzerland. Most of the short-term programs are during the summer through Extended Education and can be from four to ten weeks long. These programs have rolling admissions which means that you can be accepted before the deadline if you meet the acceptance criteria.</p>
                 </div>
 
                 
@@ -68,17 +69,17 @@ function printBody()
      </div>
                     <!-- end of  subpage_full_text-->
                     <div id="addition_links"></div>
-                    <div id="subpage_image" style="background:url(../images/eastbay1.jpg);">
+                    <div id="subpage_image" style="background:url(../images/humboldt1.jpg);">
                     </div>
                     <!-- end of inage division-->
                     <div id="subpage_text2">
-                        <div id="subpage_text_title"><a href="https://www.csueastbay.edu/">About CSU East Bay</a></div> </br>
-                        <div>Cal State East Bay welcomes and supports a diverse student body with academically rich, culturally relevant learning experiences which prepare students to apply their education to meaningful lifework, and to be socially responsible contributors to society. Through its educational programs and activities, the university strives to meet the educational needs  and to contribute to the vitality of the East Bay, the state, the nation, and global communities.</p>
+                        <div id="subpage_text_title"><a href="https://www.humboldt.edu/">About Humboldt State</a></div> </br>
+                        <div>Humboldt State University offers students a unique experience through a mix of academic programs, hands-on experiences, and commitment to social and environmental responsibility. Most of your classes are small, giving you a chance to be actively involved in discussions. And you’ll really get to know your professors, who will challenge you and help you develop a passion for learning. </p>
                         </div>
                         
                     </div>
                     <!-- end text2 divsion-->
-                    <div id="subpage_image" style="background:url(../images/eastbay2.jpg) ;">
+                    <div id="subpage_image" style="background:url(../images/humboldt2.jpg) ;">
                     </div>   
     </span>
     <!-- end of subpage_left_container -->
@@ -304,6 +305,7 @@ function printBody()
 
                                             <select name="country" id="pch_selProgCntry">
 
+                                                <option value="Choose">Choose One</option><option value="General" selected="selected">Choose One</option><option value="Argentina">Argentina</option><option value="Australia">Australia</option><option value="Austria">Austria</option><option value="Belgium">Belgium</option><option value="Belize">Belize</option><option value="Botswana">Botswana</option><option value="Brazil">Brazil</option><option value="Canada">Canada</option><option value="Chile">Chile</option><option value="China">China</option><option value="Costa Rica">Costa Rica</option><option value="Cuba">Cuba</option><option value="Czech Republic">Czech Republic</option><option value="Denmark">Denmark</option><option value="Dominican Republic">Dominican Republic</option><option value="Ecuador">Ecuador</option><option value="Egypt">Egypt</option><option value="Finland">Finland</option><option value="France">France</option><option value="Germany">Germany</option><option value="Ghana">Ghana</option><option value="Greece">Greece</option><option value="Guatemala">Guatemala</option><option value="Hungary">Hungary</option><option value="India">India</option><option value="Ireland">Ireland</option><option value="Israel">Israel</option><option value="Italy">Italy</option><option value="Japan">Japan</option><option value="Jordan">Jordan</option><option value="Kenya">Kenya</option><option value="Mexico">Mexico</option><option value="Morocco">Morocco</option><option value="Netherlands">Netherlands</option><option value="New Zealand">New Zealand</option><option value="Nicaragua">Nicaragua</option><option value="Norway">Norway</option><option value="Peru">Peru</option><option value="Portugal">Portugal</option><option value="Russia">Russia</option><option value="South Africa">South Africa</option><option value="South Korea">South Korea</option><option value="Spain">Spain</option><option value="Sweden">Sweden</option><option value="Switzerland">Switzerland</option><option value="Thailand">Thailand</option><option value="Turkey">Turkey</option><option value="United Kingdom">United Kingdom</option><option value="United States">United States</option>
                                                 [@country_option_menu]
 
                                             </select>

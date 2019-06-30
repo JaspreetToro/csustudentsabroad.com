@@ -55,11 +55,13 @@ function printBody()
                 <div>
                     
                     <div class="subpage_full_text">
-                        <div id="subpage_text_title"><a href="https://www2.calstate.edu/maps-and-directions-to-chancellors-office">Study Abroad Support
+                        <div id="subpage_text_title"><a href="https://www2.calstate.edu/maps-and-directions-to-chancellors-office">About CSU Chancellor's Office
                         </a></div></br>
-                        <p>  The Chancellor’s Office serves as the headquarters of the CSU system, which has administrative departments that oversees every aspect of the CSU system. With 23 campuses across the state and educating 481, 000 students annually, CSU has the most diverse student bodies in the U.S. Responsibility for the CSU is vested in a 25-member Board of Trustees, the majority of whom are appointed by the governor.   
-
+                        <p>  The Chancellor’s Office serves as the headquarters of the CSU system, which has administrative departments that oversees every aspect of the CSU system. With 23 campuses across the state and educating 481, 000 students annually, CSU has the most diverse student bodies in the U.S. Responsibility for the CSU is vested in a 25-member Board of Trustees, the majority of whom are appointed by the governor.  
                         </p>
+                        <p>One of the vital missions of the California State University is developing intercultural communication skills and international understanding among its students. As a result, the CSU International Programs, a system-wide department operating from within the CSU Chancellors Office in Long Beach, California, has contributed to this effort by providing qualified students an affordable opportunity to continue their studies abroad for a full academic year. 
+                        </p>
+                        
 
 
                 </div>
@@ -77,8 +79,12 @@ function printBody()
                     </div>
                     <!-- end of inage division-->
                     <div id="subpage_text2">
-                        <p><div id="subpage_text_title"><a href="https://www2.calstate.edu/">About CSU Chancellor's Office</a></div> </br> One of the vital missions of the California State University is developing intercultural communication skills and international understanding among its students. As a result, the CSU International Programs, a systemwide department operating from within the CSU Chancellors Office in Long Beach, California, has contributed to this effort by providing qualified students an affordable opportunity to continue their studies abroad for a full academic year.
-                        </p>
+                        
+                        	<p>CSU International Programs are offered to all eligible students on each CSU campus, as they study abroad in 1 of 18 countries.  Students earn resident academic credit at their CSU campuses while they pursue full-time, study at a host university abroad. The International Programs serves the needs of students in over 100 designated academic majors.  The International Programs, affiliated with more than 70 recognized universities and institutions of higher learning, also offers a wide selection of coursework and language programs.
+                       		</p></br>
+                        	<p>The affordability of this system-wide program allows more students the opportunity to study abroad. Tuition costs are comparable to studying on a CSU campus and financial aid is applicable. As a result, students now can get the most out of their study abroad experience, personally and academically.
+                        	</p>
+                        
                         
                     </div>
                     <!-- end text2 divsion-->

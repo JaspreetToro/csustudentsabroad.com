@@ -2317,7 +2317,12 @@ div#subpage_text2{
 	
 }
 
-div #subpage_text_title{
+div#subpage_text1{
+
+}
+
+div#subpage_text_title{
+	
 	font-size: 14pt;
 }
 
@@ -2733,6 +2738,7 @@ div#main_content_text p {
 	line-height: 18px;
 }
 div.subpage_full_text {
+	height: 100%;
 	width: 100%;
 	padding: 0 0 0 0;
 	text-align:left;
@@ -4068,17 +4074,17 @@ div.toggle:hover {
 span.capitalize { text-transform:capitalize; }
 /* about */
 .subpage_full_text a:link {
-	color: #3B5998;
+	color: #d0142c;
 	font: bold Arial, Helvetica, sans-serif;
 	text-decoration: none;
 }
 .subpage_full_text a:hover {
-	color: #3B5998;
+	color: #d0142c;
 	font: bold Arial, Helvetica, sans-serif;
 	text-decoration: underline;
 }
 .subpage_full_text a:visited {
-	color: #3B5998;
+	color: #d0142c;
 	font: bold Arial, Helvetica, sans-serif;
 	text-decoration: none;
 }
