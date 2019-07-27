@@ -113,7 +113,7 @@ function printBody()
 
                         <ul>
 
-                            <li><a href="https://www2.calstate.edu/" target="_blank" aria-label="Cal State">The California State University</a></li>
+                            <li><a href="http://test.csustudentsabroad.com/Chancellor_Office.php" target="_blank" aria-label="Cal State">The California State University</a></li>
 
                         </ul>
 
@@ -139,37 +139,35 @@ function printBody()
 
                         <ul>
 
-                            <li><a href="http://www.csuchico.edu/studyabroad/index.shtml" target="_blank" aria-label="Chico Campus">
+                            <li><a href="http://test.csustudentsabroad.com/Chico_State.php" target="_blank" aria-label="Chico Campus">
 
                             Chico State</a></li>
 
-                            <li><a href="http://www.csueastbay.edu/cie/studyabroad/index.html" target="_blank" aria-label="East Bay Campus">
+                            <li><a href="http://test.csustudentsabroad.com/East_Bay.php" target="_blank" aria-label="East Bay Campus">
 
                             CSU East Bay</a></li>
 
-                            <li><a href="http://humboldt-international.terradotta.com/" target="_blank" aria-label="Humboldt Campus">
+                            <li><a href="http://test.csustudentsabroad.com/Humboldt.php" target="_blank" aria-label="Humboldt Campus">
 
                             Humboldt State</a></li>
 
-                            <li><a href="https://www.csum.edu/web/academics/exchange/international-programs" target="_blank" aria-label="Maritime Academy Campus">
+                            <li><a href="http://test.csustudentsabroad.com/Maritime.php" target="_blank" aria-label="Maritime Academy Campus">
 
                             Cal Maritime</a></li>
 
-                            <li><a href="http://www.csus.edu/ipge/study%20abroad/index.html" target="_blank" aria-label="Sacramento Campus">
+                            <li><a href="http://test.csustudentsabroad.com/Sacramento_State.php" target="_blank" aria-label="Sacramento Campus">
 
                             Sacramento State</a></li>
 
-                            <li><a href="http://oip.sfsu.edu/sfstateabroad" target="_blank" aria-label="San Francisco Campus">
+                            <li><a href="http://test.csustudentsabroad.com/San_Francisco_State.php" target="_blank" aria-label="San Francisco Campus">
 
                             San Francisco State</a></li>
 
-                            <li><a href="http://www.sjsu.edu/studyabroad/" target="_blank" aria-label="San Jos&eacute; Campus">
+                            <li><a href="http://test.csustudentsabroad.com/San_Jose_State.php" target="_blank" aria-label="San Jos&eacute; Campus">
 
                             San José State</a></li>
 
-
-
-                            <li><a href="http://web.sonoma.edu/cie/study-abroad/" target="_blank" aria-label="Sonoma Campus">
+                            <li><a href="http://test.csustudentsabroad.com/Sonoma_State.php" target="_blank" aria-label="Sonoma Campus">
 
                             Sonoma State</a></li>
 
@@ -185,23 +183,23 @@ function printBody()
 
                         <ul>
 
-                            <li><a href="http://www.csub.edu/isp/study_abroad/index.html" target="_blank" aria-label="Bakersfield Campus">
+                            <li><a href="http://test.csustudentsabroad.com/Bakersfield.php" target="_blank" aria-label="Bakersfield Campus">
 
                             CSU Bakersfield</a></li>
 
-                            <li><a href="http://www.fresnostate.edu/cge/international/abroad/" target="_blank" aria-label="Fresno Campus">
+                            <li><a href="http://test.csustudentsabroad.com/Fresno_State.php" target="_blank" aria-label="Fresno Campus">
 
                             Fresno State</a></li>
 
-                            <li><a href="https://csumb.edu/educationabroad" target="_blank" aria-label="Monterey Bay Campus">
+                            <li><a href="http://test.csustudentsabroad.com/Monterey_Bay.php" target="_blank" aria-label="Monterey Bay Campus">
 
                             CSU Monterey Bay</a></li>
 
-                            <li><a href="http://abroad.calpoly.edu/index.cfm?FuseAction=Abroad.Home" target="_blank" aria-label="San Luis Obispo Campus">
+                            <li><a href="http://test.csustudentsabroad.com/Poly_San_Luis_Obispo.php" target="_blank" aria-label="San Luis Obispo Campus">
 
                             Cal Poly San Luis Obispo</a></li>
 
-                            <li><a href="https://www.csustan.edu/office-international-education/study-abroad" target="_blank" aria-label="Stanislaus Campus">
+                            <li><a href="http://test.csustudentsabroad.com/Stanislaus.php" target="_blank" aria-label="Stanislaus Campus">
 
                             CSU Stanislaus</a></li>
 
@@ -217,43 +215,43 @@ function printBody()
 
                         <ul class="no-space">
 
-                            <li><a href="https://www.csuci.edu/international/" target="_blank" aria-label="Channel Islands Campus">
+                            <li><a href="http://test.csustudentsabroad.com/Channel_Islands.php" target="_blank" aria-label="Channel Islands Campus">
 
                             CSU Channel Islands</a></li>
 
-                            <li><a href="http://www.csudh.edu/studyabroad" target="_blank" aria-label="Dominguez Hills Campus">
+                            <li><a href="http://test.csustudentsabroad.com/Dominguez_Hills.php" target="_blank" aria-label="Dominguez Hills Campus">
 
                             CSU Dominguez Hills</a></li>
 
-                            <li><a href="https://international.fullerton.edu/study-abroad/" target="_blank" aria-label="Fullerton Campus">
+                            <li><a href="http://test.csustudentsabroad.com/Fullerton.php" target="_blank" aria-label="Fullerton Campus">
 
                             CSU Fullerton</a></li>
 
-                            <li><a href="http://global.ccpe.csulb.edu/" target="_blank" aria-label="Long Beach Campus">
+                            <li><a href="http://test.csustudentsabroad.com/Long_Beach_State.php" target="_blank" aria-label="Long Beach Campus">
 
                             Long Beach State</a></li>
 
-                            <li><a href="http://www.calstatela.edu/international/study-abroad" target="_blank" aria-label="Los Angeles Campus">
+                            <li><a href="http://test.csustudentsabroad.com/Los_Angeles.php" target="_blank" aria-label="Los Angeles Campus">
 
                             CSU Los Angeles</a></li>
 
-                            <li><a href="http://www.csun.edu/international/study-abroad" target="_blank" aria-label="Northridge Campus">
+                            <li><a href="http://test.csustudentsabroad.com/Northridge.php" target="_blank" aria-label="Northridge Campus">
 
                             CSU Northridge</a></li>
 
-                            <li><a href="http://www.cpp.edu/~international/study-abroad/index.shtml" target="_blank" aria-label="Pomona Campus">
+                            <li><a href="http://test.csustudentsabroad.com/Poly_Pomona.php" target="_blank" aria-label="Pomona Campus">
 
                             Cal Poly Pomona</a></li>
 
-                            <li><a href="http://international.csusb.edu/StudyAbroad.aspx" target="_blank" aria-label="San Bernardino Campus">
+                            <li><a href="http://test.csustudentsabroad.com/San_Bernardino.php" target="_blank" aria-label="San Bernardino Campus">
 
                             CSU San Bernardino</a></li>
 
-                            <li><a href="http://go.sdsu.edu/student_affairs/isc/studyabroad.aspx" target="_blank" aria-label="San Diego Campus">
+                            <li><a href="http://test.csustudentsabroad.com/San_Diego_State.php" target="_blank" aria-label="San Diego Campus">
 
                             San Diego State</a></li>
 
-                            <li><a href="http://www.csusm.edu/global/studyabroad/" target="_blank" aria-label="San Marcos Campus">
+                            <li><a href="http://test.csustudentsabroad.com/San_Marcos.php" target="_blank" aria-label="San Marcos Campus">
 
                             CSU San Marcos</a></li>
 
