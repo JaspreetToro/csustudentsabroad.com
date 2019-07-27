@@ -55,10 +55,11 @@ function printBody()
                 <div>
                     
                     <div class="subpage_full_text">
-                        <div id="subpage_text_title"><a href="https://abroad.calpoly.edu/index.cfm?FuseAction=Abroad.Home">Study Abroad Support
-                        </a></div></br>
-                        <p> The Cal Poly International Center is highly supportive of access to study abroad opportunities for all students. Representatives from the Cal Poly International Center will guide you through goal setting, financial and academic planning, program selection, and the application process. Programs vary in academic and learning objectives, location, duration, excursions, cultural activities, and cost.  
-                        </p>
+                        <div id="subpage_text_title"><a href="https://abroad.calpoly.edu/index.cfm?FuseAction=Abroad.Home">Study Abroad Support</a></div></br>
+                        <div id="subpage_text1"><p>There are over 500 Cal Poly Approved study abroad programs in 75 countries under six categories.One of the categories is the Cal Poly Global Program, which are international academic programs designed by Cal Poly faculty members in collaboration with the Cal Poly International Center. Currently, there are 12 short-term programs in Europe and Asia with extensive field trips, varying in academic and learning objectives, location, duration, excursions, cultural activities, and costThe Cal Poly International Center is highly supportive of access to study abroad opportunities for all students. Representatives from the Cal Poly International Center will guide you through goal setting, financial and academic planning, program selection, and the application process.</p>
+
+                    </div>
+
 
 
                 </div>
@@ -76,8 +77,9 @@ function printBody()
                     </div>
                     <!-- end of inage division-->
                     <div id="subpage_text2">
-                        <p><div id="subpage_text_title"><a href="https://www.calpoly.edu/">About Cal Poly, San Luis Obispo</a></div> </br>Cal Poly is a nationally ranked public university that prides itself in the individual success of its students. Cal Poly is driven by its core philosophy of Learn By Doing--- a powerful combination of academic extensive and hands-on experience. The talented faculty and staff have an unwavering commitment to helping Cal Poly students learn, do, and succeed. 
-                        </p>
+                        <p><div id="subpage_text_title"><a href="https://www.calpoly.edu/">About Cal Poly, San Luis Obispo</a></div> </br>
+                            <div><p>Cal Poly is a nationally ranked public university that prides itself in the individual success of its students. Cal Poly is driven by its core philosophy of Learn by doing a powerful combination of academic extensive and hands-on experience. The talented faculty and staff have an unwavering commitment to helping Cal Poly students learn, do, and succeed.</p>
+                            </div>
                         
                     </div>
                     <!-- end text2 divsion-->
@@ -143,37 +145,37 @@ function printBody()
 
                             <li><a href="http://www.csuchico.edu/studyabroad/index.shtml" target="_blank" aria-label="Chico Campus">
 
-                            Chico</a></li>
+                            Chico State</a></li>
 
                             <li><a href="http://www.csueastbay.edu/cie/studyabroad/index.html" target="_blank" aria-label="East Bay Campus">
 
-                            East Bay</a></li>
+                            CSU East Bay</a></li>
 
                             <li><a href="http://humboldt-international.terradotta.com/" target="_blank" aria-label="Humboldt Campus">
 
-                            Humboldt</a></li>
+                            Humboldt State</a></li>
 
                             <li><a href="https://www.csum.edu/web/academics/exchange/international-programs" target="_blank" aria-label="Maritime Academy Campus">
 
-                            Maritime Academy</a></li>
+                            Cal Maritime</a></li>
 
                             <li><a href="http://www.csus.edu/ipge/study%20abroad/index.html" target="_blank" aria-label="Sacramento Campus">
 
-                            Sacramento</a></li>
+                            Sacramento State</a></li>
 
                             <li><a href="http://oip.sfsu.edu/sfstateabroad" target="_blank" aria-label="San Francisco Campus">
 
-                            San Francisco</a></li>
+                            San Francisco State</a></li>
 
                             <li><a href="http://www.sjsu.edu/studyabroad/" target="_blank" aria-label="San Jos&eacute; Campus">
 
-                            San José</a></li>
+                            San José State</a></li>
 
 
 
                             <li><a href="http://web.sonoma.edu/cie/study-abroad/" target="_blank" aria-label="Sonoma Campus">
 
-                            Sonoma</a></li>
+                            Sonoma State</a></li>
 
                         </ul>
 
@@ -189,23 +191,23 @@ function printBody()
 
                             <li><a href="http://www.csub.edu/isp/study_abroad/index.html" target="_blank" aria-label="Bakersfield Campus">
 
-                            Bakersfield</a></li>
+                            CSU Bakersfield</a></li>
 
                             <li><a href="http://www.fresnostate.edu/cge/international/abroad/" target="_blank" aria-label="Fresno Campus">
 
-                            Fresno</a></li>
+                            Fresno State</a></li>
 
                             <li><a href="https://csumb.edu/educationabroad" target="_blank" aria-label="Monterey Bay Campus">
 
-                            Monterey Bay</a></li>
+                            CSU Monterey Bay</a></li>
 
                             <li><a href="http://abroad.calpoly.edu/index.cfm?FuseAction=Abroad.Home" target="_blank" aria-label="San Luis Obispo Campus">
 
-                            San Luis Obispo</a></li>
+                            Cal Poly San Luis Obispo</a></li>
 
                             <li><a href="https://www.csustan.edu/office-international-education/study-abroad" target="_blank" aria-label="Stanislaus Campus">
 
-                            Stanislaus</a></li>
+                            CSU Stanislaus</a></li>
 
                         </ul>
 
@@ -221,43 +223,43 @@ function printBody()
 
                             <li><a href="https://www.csuci.edu/international/" target="_blank" aria-label="Channel Islands Campus">
 
-                            Channel Islands</a></li>
+                            CSU Channel Islands</a></li>
 
                             <li><a href="http://www.csudh.edu/studyabroad" target="_blank" aria-label="Dominguez Hills Campus">
 
-                            Dominguez Hills</a></li>
+                            CSU Dominguez Hills</a></li>
 
                             <li><a href="https://international.fullerton.edu/study-abroad/" target="_blank" aria-label="Fullerton Campus">
 
-                            Fullerton</a></li>
+                            CSU Fullerton</a></li>
 
                             <li><a href="http://global.ccpe.csulb.edu/" target="_blank" aria-label="Long Beach Campus">
 
-                            Long Beach</a></li>
+                            Long Beach State</a></li>
 
                             <li><a href="http://www.calstatela.edu/international/study-abroad" target="_blank" aria-label="Los Angeles Campus">
 
-                            Los Angeles</a></li>
+                            CSU Los Angeles</a></li>
 
                             <li><a href="http://www.csun.edu/international/study-abroad" target="_blank" aria-label="Northridge Campus">
 
-                            Northridge</a></li>
+                            CSU Northridge</a></li>
 
                             <li><a href="http://www.cpp.edu/~international/study-abroad/index.shtml" target="_blank" aria-label="Pomona Campus">
 
-                            Pomona</a></li>
+                            Cal Poly Pomona</a></li>
 
                             <li><a href="http://international.csusb.edu/StudyAbroad.aspx" target="_blank" aria-label="San Bernardino Campus">
 
-                            San Bernardino</a></li>
+                            CSU San Bernardino</a></li>
 
                             <li><a href="http://go.sdsu.edu/student_affairs/isc/studyabroad.aspx" target="_blank" aria-label="San Diego Campus">
 
-                            San Diego</a></li>
+                            San Diego State</a></li>
 
                             <li><a href="http://www.csusm.edu/global/studyabroad/" target="_blank" aria-label="San Marcos Campus">
 
-                            San Marcos</a></li>
+                            CSU San Marcos</a></li>
 
                         </ul>
 

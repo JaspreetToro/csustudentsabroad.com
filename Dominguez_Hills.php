@@ -57,8 +57,9 @@ function printBody()
                     <div class="subpage_full_text">
                         <div id="subpage_text_title"><a href="https://www.csudh.edu/ceie-intl/study-abroad/">Study Abroad Support
                         </a></div></br>
-                        <p> If you are interested in immersing yourself in the culture, history, and academic life of a new country, the Study Abroad Office provides opportunity such as the faculty-led program. These courses allow students to study for 1 to 6 weeks during winter, spring, or summer break, earning 3 or 6 units. There are many options to choose from and resources available to help you get started with your opportunity to immerse yourself in a different culture while learning abroad. Explore the website to get more information. 
-                        </p>
+
+                        <div id="subpage_text1"><p> If you are interested in immersing yourself in the culture, history, and academic life of a new country, the Study Abroad Office provides opportunity for many students with 4 program options including their faculty-led program.. These courses allow students to study for 1 to 6 weeks during winter, spring, or summer break, earning 3 or 6 units. There are different programs to choose from and resources are available to help you get started with the chance to  learn a different culture while  studying abroad. You can explore the website to get more detailed information on each program.
+                        </p></div>
 
 
                 </div>
@@ -76,8 +77,9 @@ function printBody()
                     </div>
                     <!-- end of inage division-->
                     <div id="subpage_text2">
-                        <p><div id="subpage_text_title"><a href="https://www.csudh.edu/">About CSU Dominguez Hills</a></div> </br>Centrally located in the South Bay and the heart of Los Angeles, CSU Dominguez Hills is a diverse, welcoming community of learners and educators collaborating to change lives and communities for the better. Through its strong and relevant academic programs, dedicated faculty mentors, supportive staff, attractive campus, and student amenities, CSUDH is committed to connecting students to an affordable, high-quality, and transformative education. CSUDH provides the community with a vital resource for talented, knowledgeable, and skilled leaders needed to thrive today and tomorrow. 
-                        </p>
+                        <p><div id="subpage_text_title"><a href="https://www.csudh.edu/">About CSU Dominguez Hills</a></div> </br>
+                            <div>Centrally located in the South Bay and the heart of Los Angeles, CSU Dominguez Hills is a diverse, welcoming community of learners and educators collaborating to change lives and communities for the better. Through its strong and relevant academic programs, dedicated faculty mentors, supportive staff, attractive campus, and student amenities, CSUDH is committed to connecting students to an affordable, high-quality, and transformative education. CSUDH provides the community with a vital resource for talented, knowledgeable, and skilled leaders needed to thrive today and tomorrow. </p>
+                            </div>
                         
                     </div>
                     <!-- end text2 divsion-->
@@ -143,37 +145,37 @@ function printBody()
 
                             <li><a href="http://www.csuchico.edu/studyabroad/index.shtml" target="_blank" aria-label="Chico Campus">
 
-                            Chico</a></li>
+                            Chico State</a></li>
 
                             <li><a href="http://www.csueastbay.edu/cie/studyabroad/index.html" target="_blank" aria-label="East Bay Campus">
 
-                            East Bay</a></li>
+                            CSU East Bay</a></li>
 
                             <li><a href="http://humboldt-international.terradotta.com/" target="_blank" aria-label="Humboldt Campus">
 
-                            Humboldt</a></li>
+                            Humboldt State</a></li>
 
                             <li><a href="https://www.csum.edu/web/academics/exchange/international-programs" target="_blank" aria-label="Maritime Academy Campus">
 
-                            Maritime Academy</a></li>
+                            Cal Maritime</a></li>
 
                             <li><a href="http://www.csus.edu/ipge/study%20abroad/index.html" target="_blank" aria-label="Sacramento Campus">
 
-                            Sacramento</a></li>
+                            Sacramento State</a></li>
 
                             <li><a href="http://oip.sfsu.edu/sfstateabroad" target="_blank" aria-label="San Francisco Campus">
 
-                            San Francisco</a></li>
+                            San Francisco State</a></li>
 
                             <li><a href="http://www.sjsu.edu/studyabroad/" target="_blank" aria-label="San Jos&eacute; Campus">
 
-                            San José</a></li>
+                            San José State</a></li>
 
 
 
                             <li><a href="http://web.sonoma.edu/cie/study-abroad/" target="_blank" aria-label="Sonoma Campus">
 
-                            Sonoma</a></li>
+                            Sonoma State</a></li>
 
                         </ul>
 
@@ -189,23 +191,23 @@ function printBody()
 
                             <li><a href="http://www.csub.edu/isp/study_abroad/index.html" target="_blank" aria-label="Bakersfield Campus">
 
-                            Bakersfield</a></li>
+                            CSU Bakersfield</a></li>
 
                             <li><a href="http://www.fresnostate.edu/cge/international/abroad/" target="_blank" aria-label="Fresno Campus">
 
-                            Fresno</a></li>
+                            Fresno State</a></li>
 
                             <li><a href="https://csumb.edu/educationabroad" target="_blank" aria-label="Monterey Bay Campus">
 
-                            Monterey Bay</a></li>
+                            CSU Monterey Bay</a></li>
 
                             <li><a href="http://abroad.calpoly.edu/index.cfm?FuseAction=Abroad.Home" target="_blank" aria-label="San Luis Obispo Campus">
 
-                            San Luis Obispo</a></li>
+                            Cal Poly San Luis Obispo</a></li>
 
                             <li><a href="https://www.csustan.edu/office-international-education/study-abroad" target="_blank" aria-label="Stanislaus Campus">
 
-                            Stanislaus</a></li>
+                            CSU Stanislaus</a></li>
 
                         </ul>
 
@@ -221,43 +223,43 @@ function printBody()
 
                             <li><a href="https://www.csuci.edu/international/" target="_blank" aria-label="Channel Islands Campus">
 
-                            Channel Islands</a></li>
+                            CSU Channel Islands</a></li>
 
                             <li><a href="http://www.csudh.edu/studyabroad" target="_blank" aria-label="Dominguez Hills Campus">
 
-                            Dominguez Hills</a></li>
+                            CSU Dominguez Hills</a></li>
 
                             <li><a href="https://international.fullerton.edu/study-abroad/" target="_blank" aria-label="Fullerton Campus">
 
-                            Fullerton</a></li>
+                            CSU Fullerton</a></li>
 
                             <li><a href="http://global.ccpe.csulb.edu/" target="_blank" aria-label="Long Beach Campus">
 
-                            Long Beach</a></li>
+                            Long Beach State</a></li>
 
                             <li><a href="http://www.calstatela.edu/international/study-abroad" target="_blank" aria-label="Los Angeles Campus">
 
-                            Los Angeles</a></li>
+                            CSU Los Angeles</a></li>
 
                             <li><a href="http://www.csun.edu/international/study-abroad" target="_blank" aria-label="Northridge Campus">
 
-                            Northridge</a></li>
+                            CSU Northridge</a></li>
 
                             <li><a href="http://www.cpp.edu/~international/study-abroad/index.shtml" target="_blank" aria-label="Pomona Campus">
 
-                            Pomona</a></li>
+                            Cal Poly Pomona</a></li>
 
                             <li><a href="http://international.csusb.edu/StudyAbroad.aspx" target="_blank" aria-label="San Bernardino Campus">
 
-                            San Bernardino</a></li>
+                            CSU San Bernardino</a></li>
 
                             <li><a href="http://go.sdsu.edu/student_affairs/isc/studyabroad.aspx" target="_blank" aria-label="San Diego Campus">
 
-                            San Diego</a></li>
+                            San Diego State</a></li>
 
                             <li><a href="http://www.csusm.edu/global/studyabroad/" target="_blank" aria-label="San Marcos Campus">
 
-                            San Marcos</a></li>
+                            CSU San Marcos</a></li>
 
                         </ul>
 

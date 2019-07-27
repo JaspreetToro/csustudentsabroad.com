@@ -55,11 +55,10 @@ function printBody()
                 <div>
                     
                     <div class="subpage_full_text">
-                        <div id="subpage_text_title"><a href="https://studyabroad.fresnostate.edu/">Study Abroad Support
-                        </a></div></br>
-                        <p>Fresno State is proudly offering short-term Summer & Winter Programs led by faculty members. Destinations include the regions of Europe, Asia, Central America, South America, and Africa. You will experience hands-on learning with other CSU Students. 
-                        </p>
-
+                        <div id="subpage_text_title"><a href="https://studyabroad.fresnostate.edu/">Study Abroad Support</a></div></br>
+                        <div id="subpage_text1"><p>The Study Abroad and International Exchange Program is dedicated to inspiring and preparing students, faculty, and staff to engage in global education. Fresno State maintains student exchange partnerships with more than 60 universities in other countries and assists faculty in organizing short-term group tours of selected countries to develop international cultural awareness. Fresno State is proudly offering Summer & Winter Programs led by faculty members to Europe, Asia, Central America, South America, and Africa, as you experience hands-on learning with other CSU Students. The College of Arts and Humanities is committed to preparing students for the challenges of a global society and have offered faculty-led programs in England, Greece, Italy, China, and Japan. (Students  should check periodically to find current updates of these programs).</p></br>
+                        <p>The staff at SAIE (Study Abroad & International Exchanges) will work with students to outline study abroad options that will fit the student’s general requirement and study abroad objective.   </p>
+                        </div>
 
                 </div>
                 <!-- end of class small grey -->
@@ -76,10 +75,10 @@ function printBody()
                     </div>
                     <!-- end of inage division-->
                     <div id="subpage_text2">
-                        <p><div id="subpage_text_title"><a href="http://www.csufresno.edu/">About Fresno State</a></div> </br>  Fresno State Normal School opened to 150 hopeful students. Today, the student population is more than 25,000 and the University has garnered national attention for its rise in college rankings.</br>
-                        Today, by collaborating with community partners, Fresno State will provide a transformative educational experience that prepares students to serve and to lead in the Central Valley, the state, and beyond while improving the overall graduation rate. 
-                        </p>
-                        
+                        <p><div id="subpage_text_title"><a href="http://www.csufresno.edu/">About Fresno State</a></div> </br>  
+                        <div>Fresno State Normal School opened to 150 hopeful students. Today, the student population is more than 25,000 and the University has garnered national attention for its rise in college rankings.</br>
+                        Today, by collaborating with community partners, Fresno State will provide a transformative educational experience that prepares students to serve and to lead in the Central Valley, the state, and beyond while improving the overall graduation rate. </p>
+                        </div>
                     </div>
                     <!-- end text2 divsion-->
                     <div id="subpage_image" style="background:url(../images/fresno2.jpg) ;">
@@ -144,37 +143,37 @@ function printBody()
 
                             <li><a href="http://www.csuchico.edu/studyabroad/index.shtml" target="_blank" aria-label="Chico Campus">
 
-                            Chico</a></li>
+                            Chico State</a></li>
 
                             <li><a href="http://www.csueastbay.edu/cie/studyabroad/index.html" target="_blank" aria-label="East Bay Campus">
 
-                            East Bay</a></li>
+                            CSU East Bay</a></li>
 
                             <li><a href="http://humboldt-international.terradotta.com/" target="_blank" aria-label="Humboldt Campus">
 
-                            Humboldt</a></li>
+                            Humboldt State</a></li>
 
                             <li><a href="https://www.csum.edu/web/academics/exchange/international-programs" target="_blank" aria-label="Maritime Academy Campus">
 
-                            Maritime Academy</a></li>
+                            Cal Maritime</a></li>
 
                             <li><a href="http://www.csus.edu/ipge/study%20abroad/index.html" target="_blank" aria-label="Sacramento Campus">
 
-                            Sacramento</a></li>
+                            Sacramento State</a></li>
 
                             <li><a href="http://oip.sfsu.edu/sfstateabroad" target="_blank" aria-label="San Francisco Campus">
 
-                            San Francisco</a></li>
+                            San Francisco State</a></li>
 
                             <li><a href="http://www.sjsu.edu/studyabroad/" target="_blank" aria-label="San Jos&eacute; Campus">
 
-                            San José</a></li>
+                            San José State</a></li>
 
 
 
                             <li><a href="http://web.sonoma.edu/cie/study-abroad/" target="_blank" aria-label="Sonoma Campus">
 
-                            Sonoma</a></li>
+                            Sonoma State</a></li>
 
                         </ul>
 
@@ -190,23 +189,23 @@ function printBody()
 
                             <li><a href="http://www.csub.edu/isp/study_abroad/index.html" target="_blank" aria-label="Bakersfield Campus">
 
-                            Bakersfield</a></li>
+                            CSU Bakersfield</a></li>
 
                             <li><a href="http://www.fresnostate.edu/cge/international/abroad/" target="_blank" aria-label="Fresno Campus">
 
-                            Fresno</a></li>
+                            Fresno State</a></li>
 
                             <li><a href="https://csumb.edu/educationabroad" target="_blank" aria-label="Monterey Bay Campus">
 
-                            Monterey Bay</a></li>
+                            CSU Monterey Bay</a></li>
 
                             <li><a href="http://abroad.calpoly.edu/index.cfm?FuseAction=Abroad.Home" target="_blank" aria-label="San Luis Obispo Campus">
 
-                            San Luis Obispo</a></li>
+                            Cal Poly San Luis Obispo</a></li>
 
                             <li><a href="https://www.csustan.edu/office-international-education/study-abroad" target="_blank" aria-label="Stanislaus Campus">
 
-                            Stanislaus</a></li>
+                            CSU Stanislaus</a></li>
 
                         </ul>
 
@@ -222,43 +221,43 @@ function printBody()
 
                             <li><a href="https://www.csuci.edu/international/" target="_blank" aria-label="Channel Islands Campus">
 
-                            Channel Islands</a></li>
+                            CSU Channel Islands</a></li>
 
                             <li><a href="http://www.csudh.edu/studyabroad" target="_blank" aria-label="Dominguez Hills Campus">
 
-                            Dominguez Hills</a></li>
+                            CSU Dominguez Hills</a></li>
 
                             <li><a href="https://international.fullerton.edu/study-abroad/" target="_blank" aria-label="Fullerton Campus">
 
-                            Fullerton</a></li>
+                            CSU Fullerton</a></li>
 
                             <li><a href="http://global.ccpe.csulb.edu/" target="_blank" aria-label="Long Beach Campus">
 
-                            Long Beach</a></li>
+                            Long Beach State</a></li>
 
                             <li><a href="http://www.calstatela.edu/international/study-abroad" target="_blank" aria-label="Los Angeles Campus">
 
-                            Los Angeles</a></li>
+                            CSU Los Angeles</a></li>
 
                             <li><a href="http://www.csun.edu/international/study-abroad" target="_blank" aria-label="Northridge Campus">
 
-                            Northridge</a></li>
+                            CSU Northridge</a></li>
 
                             <li><a href="http://www.cpp.edu/~international/study-abroad/index.shtml" target="_blank" aria-label="Pomona Campus">
 
-                            Pomona</a></li>
+                            Cal Poly Pomona</a></li>
 
                             <li><a href="http://international.csusb.edu/StudyAbroad.aspx" target="_blank" aria-label="San Bernardino Campus">
 
-                            San Bernardino</a></li>
+                            CSU San Bernardino</a></li>
 
                             <li><a href="http://go.sdsu.edu/student_affairs/isc/studyabroad.aspx" target="_blank" aria-label="San Diego Campus">
 
-                            San Diego</a></li>
+                            San Diego State</a></li>
 
                             <li><a href="http://www.csusm.edu/global/studyabroad/" target="_blank" aria-label="San Marcos Campus">
 
-                            San Marcos</a></li>
+                            CSU San Marcos</a></li>
 
                         </ul>
 

@@ -49,24 +49,24 @@ function printBody()
                         </div>
                         <div id="left_content_top_upper2">CHICO STATE UNIVERSITY
                         </div> 
-                    </div>
-            <div id="new_nonav_subpage_content" >
+            </div>
+            <div id="new_nonav_subpage_content">
                 <script language="javascript">renderDiv(20);</script>
                 <div class="subpage_full_text">
                     <div id="subpage_text_title"><a href="https://www.csuchico.edu/studyabroad/index.shtml">Study Abroad Support</a></div></br>
                     <div id="subpage_text1"><p>The Study Abroad Office is made up of many people, staff, student workers, interns, and volunteers all working 		      together on a daily basis to give you the best service possible and to help you achieve your goals and dreams abroad.  
                         	<a href="https://rce.csuchico.edu/passport">Passport to Learning</a>  offers  Chico students, as well as students from other universities, the opportunity to travel and learn in unique, short term, faculty-led study abroad programs offered during winter and summer sessions. Developed by dedicated faculty and designed to enhance your educational experience, these programs are exciting ways to experience the language, culture, and people of the host country. Destinations are in Nepal, Ecuador, Thailand/China, and the United Kingdom.</p>
-                </div>
+
+                    </div>
 
                 
-                <!-- end of class small grey -->
-                <div>&nbsp;</div>
-                <p></p>
+                    <!-- end of class small grey -->
+                
+                </div>
+                <!-- end of nonav_subpage_content -->
             </div>
-            <!-- end of nonav_subpage_content -->
+            <!-- end of subpage_left_container_top  -->
         </div>
-        <!-- end of subpage_left_container_top  -->
-     </div>
                     <!-- end of  subpage_full_text-->
                     <div id="addition_links"></div>
                     <div id="subpage_image" style="background:url(../images/chico1.jpg);">
@@ -74,7 +74,7 @@ function printBody()
                     <!-- end of inage division-->
                     <div id="subpage_text2">
                         <div id="subpage_text_title"><a href="https://www.csuchico.edu/about/">About Chico State</a></div> </br>
-                        <div>Founded in 1887, Chico State is committed in scholarly pursuit, civic engagement, and community outreach. Chico has been rated a top 10 		regional public university in the West by U.S. News & World Report since 1998. The university is committed to assist students in their 			search for knowledge and prepare them in order to assume responsibility in a democratic community and be useful members of a global society. 	The university’s unique combination of scholarly pursuits, civic engagement, and a very real connection to the Chico community earns its 		national and international accolades.</p>
+                        <div><p>Founded in 1887, Chico State is committed in scholarly pursuit, civic engagement, and community outreach. Chico has been rated a top 10 		regional public university in the West by U.S. News & World Report since 1998. The university is committed to assist students in their 			search for knowledge and prepare them in order to assume responsibility in a democratic community and be useful members of a global society. The university’s unique combination of scholarly pursuits, civic engagement, and a very real connection to the Chico community earns its national and international accolades.</p>
                         </div>
                         
                     </div>
@@ -141,37 +141,37 @@ function printBody()
 
                             <li><a href="http://www.csuchico.edu/studyabroad/index.shtml" target="_blank" aria-label="Chico Campus">
 
-                            Chico</a></li>
+                            Chico State</a></li>
 
                             <li><a href="http://www.csueastbay.edu/cie/studyabroad/index.html" target="_blank" aria-label="East Bay Campus">
 
-                            East Bay</a></li>
+                            CSU East Bay</a></li>
 
                             <li><a href="http://humboldt-international.terradotta.com/" target="_blank" aria-label="Humboldt Campus">
 
-                            Humboldt</a></li>
+                            Humboldt State</a></li>
 
                             <li><a href="https://www.csum.edu/web/academics/exchange/international-programs" target="_blank" aria-label="Maritime Academy Campus">
 
-                            Maritime Academy</a></li>
+                            Cal Maritime</a></li>
 
                             <li><a href="http://www.csus.edu/ipge/study%20abroad/index.html" target="_blank" aria-label="Sacramento Campus">
 
-                            Sacramento</a></li>
+                            Sacramento State</a></li>
 
                             <li><a href="http://oip.sfsu.edu/sfstateabroad" target="_blank" aria-label="San Francisco Campus">
 
-                            San Francisco</a></li>
+                            San Francisco State</a></li>
 
                             <li><a href="http://www.sjsu.edu/studyabroad/" target="_blank" aria-label="San Jos&eacute; Campus">
 
-                            San José</a></li>
+                            San José State</a></li>
 
 
 
                             <li><a href="http://web.sonoma.edu/cie/study-abroad/" target="_blank" aria-label="Sonoma Campus">
 
-                            Sonoma</a></li>
+                            Sonoma State</a></li>
 
                         </ul>
 
@@ -187,23 +187,23 @@ function printBody()
 
                             <li><a href="http://www.csub.edu/isp/study_abroad/index.html" target="_blank" aria-label="Bakersfield Campus">
 
-                            Bakersfield</a></li>
+                            CSU Bakersfield</a></li>
 
                             <li><a href="http://www.fresnostate.edu/cge/international/abroad/" target="_blank" aria-label="Fresno Campus">
 
-                            Fresno</a></li>
+                            Fresno State</a></li>
 
                             <li><a href="https://csumb.edu/educationabroad" target="_blank" aria-label="Monterey Bay Campus">
 
-                            Monterey Bay</a></li>
+                            CSU Monterey Bay</a></li>
 
                             <li><a href="http://abroad.calpoly.edu/index.cfm?FuseAction=Abroad.Home" target="_blank" aria-label="San Luis Obispo Campus">
 
-                            San Luis Obispo</a></li>
+                            Cal Poly San Luis Obispo</a></li>
 
                             <li><a href="https://www.csustan.edu/office-international-education/study-abroad" target="_blank" aria-label="Stanislaus Campus">
 
-                            Stanislaus</a></li>
+                            CSU Stanislaus</a></li>
 
                         </ul>
 
@@ -219,43 +219,43 @@ function printBody()
 
                             <li><a href="https://www.csuci.edu/international/" target="_blank" aria-label="Channel Islands Campus">
 
-                            Channel Islands</a></li>
+                            CSU Channel Islands</a></li>
 
                             <li><a href="http://www.csudh.edu/studyabroad" target="_blank" aria-label="Dominguez Hills Campus">
 
-                            Dominguez Hills</a></li>
+                            CSU Dominguez Hills</a></li>
 
                             <li><a href="https://international.fullerton.edu/study-abroad/" target="_blank" aria-label="Fullerton Campus">
 
-                            Fullerton</a></li>
+                            CSU Fullerton</a></li>
 
                             <li><a href="http://global.ccpe.csulb.edu/" target="_blank" aria-label="Long Beach Campus">
 
-                            Long Beach</a></li>
+                            Long Beach State</a></li>
 
                             <li><a href="http://www.calstatela.edu/international/study-abroad" target="_blank" aria-label="Los Angeles Campus">
 
-                            Los Angeles</a></li>
+                            CSU Los Angeles</a></li>
 
                             <li><a href="http://www.csun.edu/international/study-abroad" target="_blank" aria-label="Northridge Campus">
 
-                            Northridge</a></li>
+                            CSU Northridge</a></li>
 
                             <li><a href="http://www.cpp.edu/~international/study-abroad/index.shtml" target="_blank" aria-label="Pomona Campus">
 
-                            Pomona</a></li>
+                            Cal Poly Pomona</a></li>
 
                             <li><a href="http://international.csusb.edu/StudyAbroad.aspx" target="_blank" aria-label="San Bernardino Campus">
 
-                            San Bernardino</a></li>
+                            CSU San Bernardino</a></li>
 
                             <li><a href="http://go.sdsu.edu/student_affairs/isc/studyabroad.aspx" target="_blank" aria-label="San Diego Campus">
 
-                            San Diego</a></li>
+                            San Diego State</a></li>
 
                             <li><a href="http://www.csusm.edu/global/studyabroad/" target="_blank" aria-label="San Marcos Campus">
 
-                            San Marcos</a></li>
+                            CSU San Marcos</a></li>
 
                         </ul>
 

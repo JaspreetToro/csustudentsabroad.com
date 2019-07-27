@@ -55,10 +55,10 @@ function printBody()
                 <div>
                     
                     <div class="subpage_full_text">
-                        <div id="subpage_text_title"><a href="https://csumb.edu/educationabroad">Study Abroad Support
-                        </a></div></br>
-                        <p> Explore an exotic location, earn credits toward graduation, and have the experience of a lifetime! You can study abroad for 1-12 weeks when you choose from nearly 50 programs across 20+ countries and satisfy general education or major-specific requirements.
-                        </p>
+                        <div id="subpage_text_title"><a href="https://csumb.edu/educationabroad">Study Abroad Support</a>
+                        </div></br>
+                        <div id="subpage_text1"><p> The Education Abroad Team believes every student deserves a transformative experience and they offer a wide range of programs to suit the needs of its diverse students. With a step-by-step guide,  the website can help you explore your options and guide you in applying for a program. There are also short-term programs for  1 to 8 weeks, as they typically take place in the Summer, Winter or during standard semester breaks. Also, CSUMB has strong relationships with worldwide partners and is proud to offer 17 “Tuition-Free Summer Beyond the Bay” Programs in Europe and Asia. Students only pay the study abroad fee and all personal/travel expenses. Additionally, CSUMB has Summer Abroad Programs for nearly all majors!</p>
+                        </div>
 
 
                 </div>
@@ -76,9 +76,9 @@ function printBody()
                     </div>
                     <!-- end of inage division-->
                     <div id="subpage_text2">
-                        <p><div id="subpage_text_title"><a href="https://csumb.edu/">About CSU Monterey Bay</a></div> </br>Cal State Monterey Bay provides over 7,500 students an extraordinary opportunity to learn on a residential campus just one mile from the shores of the beautiful Monterey Bay. The diverse student body receives personal attention in small classes while pursuing degrees in 25 undergraduate and seven graduate majors.  Founded in 1994 on the former site of Fort Ord by educators and community leaders, Cal State Monterey Bay faculty and staff build on that legacy as we explore innovative ways to meet the needs of a new generation of students while simultaneously powering the Monterey County economy. 
-                        </p>
-                        
+                        <p><div id="subpage_text_title"><a href="https://csumb.edu/">About CSU Monterey Bay</a></div> </br></p>
+                            <div><p>Cal State Monterey Bay provides over 7,500 students an extraordinary opportunity to learn on a residential campus just one mile from the shores of the beautiful Monterey Bay. The diverse student body receives personal attention in small classes while pursuing degrees in 25 undergraduate and seven graduate majors.  Founded in 1994 on the former site of Fort Ord by educators and community leaders, Cal State Monterey Bay faculty and staff build on that legacy as we explore innovative ways to meet the needs of a new generation of students while simultaneously powering the Monterey County economy. </p>
+                            </div>
                     </div>
                     <!-- end text2 divsion-->
                     <div id="subpage_image" style="background:url(../images/monterey2.jpg) ;">
@@ -143,37 +143,37 @@ function printBody()
 
                             <li><a href="http://www.csuchico.edu/studyabroad/index.shtml" target="_blank" aria-label="Chico Campus">
 
-                            Chico</a></li>
+                            Chico State</a></li>
 
                             <li><a href="http://www.csueastbay.edu/cie/studyabroad/index.html" target="_blank" aria-label="East Bay Campus">
 
-                            East Bay</a></li>
+                            CSU East Bay</a></li>
 
                             <li><a href="http://humboldt-international.terradotta.com/" target="_blank" aria-label="Humboldt Campus">
 
-                            Humboldt</a></li>
+                            Humboldt State</a></li>
 
                             <li><a href="https://www.csum.edu/web/academics/exchange/international-programs" target="_blank" aria-label="Maritime Academy Campus">
 
-                            Maritime Academy</a></li>
+                            Cal Maritime</a></li>
 
                             <li><a href="http://www.csus.edu/ipge/study%20abroad/index.html" target="_blank" aria-label="Sacramento Campus">
 
-                            Sacramento</a></li>
+                            Sacramento State</a></li>
 
                             <li><a href="http://oip.sfsu.edu/sfstateabroad" target="_blank" aria-label="San Francisco Campus">
 
-                            San Francisco</a></li>
+                            San Francisco State</a></li>
 
                             <li><a href="http://www.sjsu.edu/studyabroad/" target="_blank" aria-label="San Jos&eacute; Campus">
 
-                            San José</a></li>
+                            San José State</a></li>
 
 
 
                             <li><a href="http://web.sonoma.edu/cie/study-abroad/" target="_blank" aria-label="Sonoma Campus">
 
-                            Sonoma</a></li>
+                            Sonoma State</a></li>
 
                         </ul>
 
@@ -189,23 +189,23 @@ function printBody()
 
                             <li><a href="http://www.csub.edu/isp/study_abroad/index.html" target="_blank" aria-label="Bakersfield Campus">
 
-                            Bakersfield</a></li>
+                            CSU Bakersfield</a></li>
 
                             <li><a href="http://www.fresnostate.edu/cge/international/abroad/" target="_blank" aria-label="Fresno Campus">
 
-                            Fresno</a></li>
+                            Fresno State</a></li>
 
                             <li><a href="https://csumb.edu/educationabroad" target="_blank" aria-label="Monterey Bay Campus">
 
-                            Monterey Bay</a></li>
+                            CSU Monterey Bay</a></li>
 
                             <li><a href="http://abroad.calpoly.edu/index.cfm?FuseAction=Abroad.Home" target="_blank" aria-label="San Luis Obispo Campus">
 
-                            San Luis Obispo</a></li>
+                            Cal Poly San Luis Obispo</a></li>
 
                             <li><a href="https://www.csustan.edu/office-international-education/study-abroad" target="_blank" aria-label="Stanislaus Campus">
 
-                            Stanislaus</a></li>
+                            CSU Stanislaus</a></li>
 
                         </ul>
 
@@ -221,43 +221,43 @@ function printBody()
 
                             <li><a href="https://www.csuci.edu/international/" target="_blank" aria-label="Channel Islands Campus">
 
-                            Channel Islands</a></li>
+                            CSU Channel Islands</a></li>
 
                             <li><a href="http://www.csudh.edu/studyabroad" target="_blank" aria-label="Dominguez Hills Campus">
 
-                            Dominguez Hills</a></li>
+                            CSU Dominguez Hills</a></li>
 
                             <li><a href="https://international.fullerton.edu/study-abroad/" target="_blank" aria-label="Fullerton Campus">
 
-                            Fullerton</a></li>
+                            CSU Fullerton</a></li>
 
                             <li><a href="http://global.ccpe.csulb.edu/" target="_blank" aria-label="Long Beach Campus">
 
-                            Long Beach</a></li>
+                            Long Beach State</a></li>
 
                             <li><a href="http://www.calstatela.edu/international/study-abroad" target="_blank" aria-label="Los Angeles Campus">
 
-                            Los Angeles</a></li>
+                            CSU Los Angeles</a></li>
 
                             <li><a href="http://www.csun.edu/international/study-abroad" target="_blank" aria-label="Northridge Campus">
 
-                            Northridge</a></li>
+                            CSU Northridge</a></li>
 
                             <li><a href="http://www.cpp.edu/~international/study-abroad/index.shtml" target="_blank" aria-label="Pomona Campus">
 
-                            Pomona</a></li>
+                            Cal Poly Pomona</a></li>
 
                             <li><a href="http://international.csusb.edu/StudyAbroad.aspx" target="_blank" aria-label="San Bernardino Campus">
 
-                            San Bernardino</a></li>
+                            CSU San Bernardino</a></li>
 
                             <li><a href="http://go.sdsu.edu/student_affairs/isc/studyabroad.aspx" target="_blank" aria-label="San Diego Campus">
 
-                            San Diego</a></li>
+                            San Diego State</a></li>
 
                             <li><a href="http://www.csusm.edu/global/studyabroad/" target="_blank" aria-label="San Marcos Campus">
 
-                            San Marcos</a></li>
+                            CSU San Marcos</a></li>x
 
                         </ul>
 

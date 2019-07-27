@@ -55,11 +55,9 @@ function printBody()
                 <div>
                     
                     <div class="subpage_full_text">
-                        <div id="subpage_text_title"><a href="http://www.csueastbay.edu/studyabroad/italy.html">Study Abroad Support</a></div></br>
-                        <p>At present, study-abroad opportunities are available through partnerships with other maritime universities in their exchange program*. Also, students participate in International Study Tours for the following majors: Business Administration, International Business, Logistics Concentration, Global Studies, and Maritime Affairs, along with five different international voyages. Faculty-led, Cal Maritime-sponsored three-week study tours to international locations such as Costa Rica, Vietnam, France/Morocco, or Northern Europe provides students with valuable exposure to the business environments and political issues around the globe.(*available for Cal Maritime Students)
-
-
-                        </p>
+                        <div id="subpage_text_title"><a href="https://www.csum.edu/web/academics/visiting-and-exchange-programs">Study Abroad Support</a></div></br>
+                        <div id="subpage_text1"><p>International voyages are part of Cal Maritime's specialized, experiential-based curriculum that requires all cadets to travel abroad while taking courses and gaining important experiences for each major. The international experiences are one important way that Cal Maritime ensures each of its graduates obtains an international perspective that prepares them for success in today's global economy. Cal Maritime’s study-abroad opportunities are also available through partnerships with other maritime universities in their exchange program. The academy sponsors  faculty-led, three-week study tours to international locations providing students with valuable exposure to the business environment and political issues around the globe.</p>
+                        </div>
 
 
                 </div>
@@ -77,8 +75,10 @@ function printBody()
                     </div>
                     <!-- end of inage division-->
                     <div id="subpage_text2">
-                        <p><div id="subpage_text_title"><a href="https://www.csum.edu/web/mycampus/home">About Cal Maritime</a></div> </br>Maritime Academy is the only degree-granting maritime academy on the West Coast and is a small, structured and focused campus providing high-quality practical education. This campus is open to a select number of exchange students with a demonstrated interest in maritime affairs in the fields of engineering, international business, and global studies. </br>
+                        <p><div id="subpage_text_title"><a href="https://www.csum.edu/web/mycampus/home">About Cal Maritime</a></div> </br>
+                            <div>Maritime Academy is the only degree-granting maritime academy on the West Coast and is a small, structured and focused campus providing high-quality practical education. This campus is open to a select number of exchange students with a demonstrated interest in maritime affairs in the fields of engineering, international business, and global studies. </br>
                         Global awareness comprises one of the cornerstones of the mission of Cal Maritime, and this objective is met in numerous ways.  Studies in globalization and the knowledge of other peoples and places are taught in a variety of courses and the Training Ship Golden Bear offers students the opportunity to visit different countries across the Pacific Rim, and there exist channels by which students may pursue their academic interests at universities around the world.
+                             </div>
                         </p>
                         
                     </div>
@@ -145,37 +145,37 @@ function printBody()
 
                             <li><a href="http://www.csuchico.edu/studyabroad/index.shtml" target="_blank" aria-label="Chico Campus">
 
-                            Chico</a></li>
+                            Chico State</a></li>
 
                             <li><a href="http://www.csueastbay.edu/cie/studyabroad/index.html" target="_blank" aria-label="East Bay Campus">
 
-                            East Bay</a></li>
+                            CSU East Bay</a></li>
 
                             <li><a href="http://humboldt-international.terradotta.com/" target="_blank" aria-label="Humboldt Campus">
 
-                            Humboldt</a></li>
+                            Humboldt State</a></li>
 
                             <li><a href="https://www.csum.edu/web/academics/exchange/international-programs" target="_blank" aria-label="Maritime Academy Campus">
 
-                            Maritime Academy</a></li>
+                            Cal Maritime</a></li>
 
                             <li><a href="http://www.csus.edu/ipge/study%20abroad/index.html" target="_blank" aria-label="Sacramento Campus">
 
-                            Sacramento</a></li>
+                            Sacramento State</a></li>
 
                             <li><a href="http://oip.sfsu.edu/sfstateabroad" target="_blank" aria-label="San Francisco Campus">
 
-                            San Francisco</a></li>
+                            San Francisco State</a></li>
 
                             <li><a href="http://www.sjsu.edu/studyabroad/" target="_blank" aria-label="San Jos&eacute; Campus">
 
-                            San José</a></li>
+                            San José State</a></li>
 
 
 
                             <li><a href="http://web.sonoma.edu/cie/study-abroad/" target="_blank" aria-label="Sonoma Campus">
 
-                            Sonoma</a></li>
+                            Sonoma State</a></li>
 
                         </ul>
 
@@ -191,23 +191,23 @@ function printBody()
 
                             <li><a href="http://www.csub.edu/isp/study_abroad/index.html" target="_blank" aria-label="Bakersfield Campus">
 
-                            Bakersfield</a></li>
+                            CSU Bakersfield</a></li>
 
                             <li><a href="http://www.fresnostate.edu/cge/international/abroad/" target="_blank" aria-label="Fresno Campus">
 
-                            Fresno</a></li>
+                            Fresno State</a></li>
 
                             <li><a href="https://csumb.edu/educationabroad" target="_blank" aria-label="Monterey Bay Campus">
 
-                            Monterey Bay</a></li>
+                            CSU Monterey Bay</a></li>
 
                             <li><a href="http://abroad.calpoly.edu/index.cfm?FuseAction=Abroad.Home" target="_blank" aria-label="San Luis Obispo Campus">
 
-                            San Luis Obispo</a></li>
+                            Cal Poly San Luis Obispo</a></li>
 
                             <li><a href="https://www.csustan.edu/office-international-education/study-abroad" target="_blank" aria-label="Stanislaus Campus">
 
-                            Stanislaus</a></li>
+                            CSU Stanislaus</a></li>
 
                         </ul>
 
@@ -223,43 +223,43 @@ function printBody()
 
                             <li><a href="https://www.csuci.edu/international/" target="_blank" aria-label="Channel Islands Campus">
 
-                            Channel Islands</a></li>
+                            CSU Channel Islands</a></li>
 
                             <li><a href="http://www.csudh.edu/studyabroad" target="_blank" aria-label="Dominguez Hills Campus">
 
-                            Dominguez Hills</a></li>
+                            CSU Dominguez Hills</a></li>
 
                             <li><a href="https://international.fullerton.edu/study-abroad/" target="_blank" aria-label="Fullerton Campus">
 
-                            Fullerton</a></li>
+                            CSU Fullerton</a></li>
 
                             <li><a href="http://global.ccpe.csulb.edu/" target="_blank" aria-label="Long Beach Campus">
 
-                            Long Beach</a></li>
+                            Long Beach State</a></li>
 
                             <li><a href="http://www.calstatela.edu/international/study-abroad" target="_blank" aria-label="Los Angeles Campus">
 
-                            Los Angeles</a></li>
+                            CSU Los Angeles</a></li>
 
                             <li><a href="http://www.csun.edu/international/study-abroad" target="_blank" aria-label="Northridge Campus">
 
-                            Northridge</a></li>
+                            CSU Northridge</a></li>
 
                             <li><a href="http://www.cpp.edu/~international/study-abroad/index.shtml" target="_blank" aria-label="Pomona Campus">
 
-                            Pomona</a></li>
+                            Cal Poly Pomona</a></li>
 
                             <li><a href="http://international.csusb.edu/StudyAbroad.aspx" target="_blank" aria-label="San Bernardino Campus">
 
-                            San Bernardino</a></li>
+                            CSU San Bernardino</a></li>
 
                             <li><a href="http://go.sdsu.edu/student_affairs/isc/studyabroad.aspx" target="_blank" aria-label="San Diego Campus">
 
-                            San Diego</a></li>
+                            San Diego State</a></li>
 
                             <li><a href="http://www.csusm.edu/global/studyabroad/" target="_blank" aria-label="San Marcos Campus">
 
-                            San Marcos</a></li>
+                            CSU San Marcos</a></li>
 
                         </ul>
 

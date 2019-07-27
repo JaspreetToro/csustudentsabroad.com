@@ -47,38 +47,35 @@ function printBody()
             <div id="left_content_top_upper">
                         <div id="left_content_top_upper1">STUDY ABROAD
                         </div>
-                        <div id="left_content_top_upper2">CALIFORNIA STATE UNIVERSITY BAKERSFIELD
+                        <div id="left_content_top_upper2">CSU BAKERSFIELD
                         </div> 
-                    </div>
-            <div id="new_nonav_subpage_content" >
-                <script language="javascript">renderDiv(20);</script>
-                <div>
-                    
-                    <div class="subpage_full_text">
-                        <div id="subpage_text_title"><a href="https://www.csub.edu/isp/study_abroad/Available%20Programs/index.html">Study Abroad Support
-                        </a></div></br>
-                        <p>If students are interested in short term sessions (2 weeks, 4 weeks, 6 weeks, 10 weeks, or 1 semester) there are various study abroad programs available; but students must contact the study abroad office. 
-                        </p>
-
-
-                </div>
-                <!-- end of class small grey -->
-                <div>&nbsp;</div>
-                <p></p>
             </div>
-            <!-- end of nonav_subpage_content -->
+            <div id="new_nonav_subpage_content">
+                <script language="javascript">renderDiv(20);</script>
+                <div class="subpage_full_text">
+                    <div id="subpage_text_title"><a href="https://www.csub.edu/isp/study_abroad/index.html">Study Abroad Support</a></div></br>
+                    <div id="subpage_text1"><p>CSU Bakersfield has supported students in participating in their two study abroad programs. The International Students and Programs Office ( ISP) allows students to earn life-long skills and enhance their awareness to become responsible global citizens through the Study Abroad Programs. The Study Abroad Office knows the value of studying abroad and encourage more students to apply. The staff can assist you in choosing the right program according to your goals. If you are interested in short term sessions (2 weeks, 4 weeks, 6 weeks, 10 weeks, or 1 semester) there are various available; but you must contact the study abroad office for more information. There are numerous fields and locations available and the staff can advise you on how to choose a program based on your needs.</p>
+
+                    </div>
+
+                
+                    <!-- end of class small grey -->
+                
+                </div>
+                <!-- end of nonav_subpage_content -->
+            </div>
+            <!-- end of subpage_left_container_top  -->
         </div>
-        <!-- end of subpage_left_container_top  -->
-     </div>
                     <!-- end of  subpage_full_text-->
                     <div id="addition_links"></div>
                     <div id="subpage_image" style="background:url(../images/bakersfield1.jpg);">
                     </div>
                     <!-- end of inage division-->
                     <div id="subpage_text2">
-                        <p><div id="subpage_text_title"><a href="https://www.csub.edu/">About CSU Bakersfield</a></div> </br>  Bakersfield is a continuously growing comprehensive regional university that is committed to transforming the lives of its students and community through its established excellence in academia, diversity, service, and community engagement since its founding in 1965. CSUB offers high-quality undergraduate and graduate programs that advance the intellectual and personal development of its students. The university is committed to scholarship and life-long learning and currently offers more than 50 different Bachelor’s and Master’s degree programs.</br>
-                        An emphasis on student learning is enhanced by a commitment to scholarship, diversity, service, global awareness, and lifelong learning. The University collaborates with partners in the community to increase the region's overall educational attainment, enhance its quality of life, and support its economic development.
-                        </p>
+                        <div id="subpage_text_title"><a href="https://www.csub.edu/">About CSU Bakersfield</a></div> </br>
+                        <div><p>Bakersfield is a continuously growing comprehensive regional university that is committed to transforming the lives of its students and community through its established excellence in academia, diversity, service, and community engagement since its founding in 1965. CSUB offers high-quality undergraduate and graduate programs that advance the intellectual and personal development of its students. The university is committed to scholarship and life-long learning and currently offers more than 50 different Bachelor’s and Master’s degree programs.
+                        An emphasis on student learning is enhanced by a commitment to scholarship, diversity, service, global awareness, and lifelong learning. The University collaborates with partners in the community to increase the region's overall educational attainment, enhance its quality of life, and support its economic development.</p>
+                        </div>
                         
                     </div>
                     <!-- end text2 divsion-->

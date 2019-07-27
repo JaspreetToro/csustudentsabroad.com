@@ -43,7 +43,7 @@ global $banner;
                         <li><a href="Channel_Islands.php">CSU Channel Islands</a></li>
                         <li><a href="Dominguez_Hills.php">CSU Dominguez Hills</a></li>
                         <li><a href="Fresno_State.php">Fresno State</a></li>
-                        <li><a href="handbook/Humboldt.php">Humboldt State</a></li>
+                        <li><a href="Humboldt.php">Humboldt State</a></li>
                         <li><a href="Los_Angeles.php">CSU Los Angeles</a></li>
                         <li><a href="Monterey_Bay.php">CSU Monterey Bay</a></li>
                         <li><a href="Poly_Pomona.php">Cal Poly Pomona</a></li>
@@ -59,7 +59,7 @@ global $banner;
                 <span class="xyz">
                     <ul style="padding-left: 25px;">
                         <li><a href="Bakersfield.php">CSU Bakersfield</a></li>
-                        <li><a href="handbook/Chico_State.php">Chico State</a></li>
+                        <li><a href="Chico_State.php">Chico State</a></li>
                         <li><a href="East_Bay.php">CSU East Bay</a></li>
                         <li><a href="Fullerton.php">CSU Fullerton</a></li>
                         <li><a href="Long_Beach_State.php">Long Beach State</a></li>
@@ -153,7 +153,7 @@ global $banner;
 
                             </form>
 
-                        </div>
+        </div>
         <div id="right_content_middle">
             <div id="sponsors">
                 
