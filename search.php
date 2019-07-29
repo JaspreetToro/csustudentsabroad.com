@@ -46,60 +46,75 @@ global $banner;
 
 
 
-<div id="content">
+
 
     <div id="left_content">
 
-        <div id="left_content_quicksearch_container">
+        
 
-            <div id="left_content_handbooks_search">
+            <span class="search_box1">
 
-                <div id="box1_top" title="STUDY ABROAD PROGRAM SEARCH">
+                <div id="left_content_handbooks_search">
 
-                    <span class="box_title">
+                    
 
-                        STUDY ABROAD PROGRAM SEARCH
+                        <div id="box1_top" title="STUDY ABROAD PROGRAM SEARCH" style="width: 324px; background:url(../images/box1_top_program_search.jpg) no-repeat;">
 
-                    </span>
+                            <span class="box_title">
 
-                    <div id="program_search_title_container">
+                                STUDY ABROAD PROGRAM SEARCH
 
-                        <div class="program_search_title1">Study Abroad</div>
+                            </span>
 
-                        <div class="program_search_title2">Program Search</div>
+                            <div id="program_search_title_container">
 
-                    </div>
+                                <div class="program_search_title1">Study Abroad</div>
 
-                </div>
+                                <div class="program_search_title2">Program Search</div>
 
-				<div id="box1_middle"><?php printProgramSearchForm(); ?></div>
-                <div id="box1_bottom" ></div>
-</div>
+                            </div>
 
-            <div id="left_content_program_search">
+                        </div>
 
-                <div id="box2_top" title="COUNTRY SPECIFIC STUDENT HANDBOOKS">
+        				<div id="box1_middle" style="height: 300px;"><?php printProgramSearchForm(); ?></div>
+                        
 
-                    <span class="box_title">
-
-                        COUNTRY SPECIFIC STUDENT HANDBOOKS
-
-                    </span>
-
-                    <div id="country_specific_title_container">
-
-                        <div class="country_specific_title1">Country Specific</div>
-
-                        <div class="country_specific_title2">Student Handbooks</div>
-
-                    </div>
+                    
 
                 </div>
 
-                <div id="box2_middle"> <?php printCountryHandbooks() ?> </div><div id="box2_bottom"></div>
-</div>
+            </span>
 
-        </div>
+            <span class="search_box2">
+
+                <div id="left_content_program_search">
+                    
+                        <div id="box2_top" title="COUNTRY SPECIFIC STUDENT HANDBOOKS" style="width: 324px; background:url(../images/box2_top_handbooks.jpg) no-repeat;">
+
+                            <span class="box_title">
+
+                                COUNTRY SPECIFIC STUDENT HANDBOOKS
+
+                            </span>
+
+                            <div id="country_specific_title_container">
+
+                                <div class="country_specific_title1">Country Specific</div>
+
+                                <div class="country_specific_title2">Student Handbooks</div>
+
+                            </div>
+
+                        </div>
+
+                        <div id="box2_middle" style="height: 300px;"> <?php printCountryHandbooks() ?> </div>
+
+                   
+                </div>
+
+            </span>
+
+      
 
         <div style="clear:both;"></div>
 
@@ -141,7 +156,7 @@ global $banner;
 
                 </div>
 
-            </div>
+            
 
             <div class="sponsors_banner_bottom"></div>
 

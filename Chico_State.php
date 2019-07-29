@@ -286,44 +286,9 @@ function printBody()
                     </div>
 
                     <div id="student_handbooks_form_sm">
+                        <?php printCountryHandbooks() ?>
 
-                            <form name="pch_searchForm" method="get" action="" onsubmit="return validateCountrySM();" class="pch_form">
-
-                                <div class="pch_select_container">
-
-                                    <div class="pch_country">
-
-                                        <div class="pch_label">
-
-                                            <label for="pch_selProgCntry">Select A Country</label>
-
-                                        </div>
-
-                                        <div class="pch_list">
-
-                                            <select name="country" id="pch_selProgCntry">
-
-                                                [@country_option_menu]
-
-                                            </select>
-
-                                        </div>
-
-                                    </div>
-
-                                    <div class="pch_search_button">
-
-                                        <input type="image" name="btnSubmit" src="/images/search_button_gold.gif" alt="Search" title="Search"/>
-
-                                    </div>
-
-                                    <div class="pch_bottom"></div>
-
-                                </div>
-
-                            </form>
-
-                        </div> 
+                    </div>
 
                    <!-- <div id="sponsors">
 
@@ -367,7 +332,7 @@ function printBody()
 
                     <!--<div style="padding: 5px 0 0 0;"></div>-->
 
-                    <div id="study_abroad_resources">
+                    <div id="study_abroad_resources" style="padding-top: 50px;">
 
                         <div id="student_handbook_title_container">
 

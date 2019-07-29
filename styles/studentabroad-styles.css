@@ -1182,6 +1182,18 @@ div#left_content_top_lower{
 	width: 32%;
 }
 
+.search_box1{
+	vertical-align: top;
+	display: inline-block;
+	width: 324px;
+	
+}
+
+.search_box2{
+	vertical-align: top;
+	display: inline-block;
+	
+}
 
 
 .new_subpage_left_container{
