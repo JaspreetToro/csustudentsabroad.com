@@ -57,7 +57,7 @@ function printBody()
                     <div class="subpage_full_text">
                         <div id="subpage_text_title"><a href="http://www.calstatela.edu/international/study-abroad">Shared Program Support 
                         </a></div></br>
-                        <div id="subpage_text1"><p>Cal State LA International Programs and Global Engagement (IPGE) promotes and supports international education opportunities for faculty and students by administering well-designed and academically rigorous study abroad programs. The International Office offers short-term study abroad programs which are available to students and the general public. These programs enable students to focus on a field of study and/or career path, and to demonstrate strong collaborative and communication skills to both personal and professional interactions.Faculty-led study abroad programs now makes this easier than ever to find the study abroad opportunity that fits your goals and schedule.</p>
+                        <div id="subpage_text1"><p>Cal State LA International Programs and Global Engagement (IPGE) promotes and supports international education opportunities for faculty and students, by administering well-designed and academically rigorous study abroad programs. The International Office is offering short-term study abroad programs, available to students and the general public. These programs enable students to focus on a field of study or career path. As well as demonstrating strong, collaborative and communication skills through personal and professional interactions. Faculty-led study abroad programs now makes this easier than ever to find the study abroad opportunity that fits your goals and schedule.</p>
                         </div>
 
 

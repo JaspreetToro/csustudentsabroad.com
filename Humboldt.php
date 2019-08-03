@@ -74,7 +74,7 @@ function printBody()
                     <!-- end of inage division-->
                     <div id="subpage_text2">
                         <div id="subpage_text_title"><a href="https://www.humboldt.edu/">About Humboldt State</a></div> </br>
-                        <div>Humboldt State University offers students a unique experience through a mix of academic programs, hands-on experiences, and commitment to social and environmental responsibility. Most of your classes are small, giving you a chance to be actively involved in discussions. And you’ll really get to know your professors, who will challenge you and help you develop a passion for learning. </p>
+                        <div>Humboldt State University offers students a unique experience through a mix of academic programs, hands-on experiences, and commitment to social and environmental responsibility. Most classes are small, giving students a chance to be actively involved in discussions. As a result, students will really get to know their professors, who will challenge them and help them develop a passion for learning. </p>
                         </div>
                         
                     </div>

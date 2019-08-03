@@ -56,7 +56,7 @@ function printBody()
                     
                     <div class="subpage_full_text">
                         <div id="subpage_text_title"><a href="https://abroad.calpoly.edu/index.cfm?FuseAction=Abroad.Home">Study Abroad Support</a></div></br>
-                        <div id="subpage_text1"><p>There are over 500 Cal Poly Approved study abroad programs in 75 countries under six categories.One of the categories is the Cal Poly Global Program, which are international academic programs designed by Cal Poly faculty members in collaboration with the Cal Poly International Center. Currently, there are 12 short-term programs in Europe and Asia with extensive field trips, varying in academic and learning objectives, location, duration, excursions, cultural activities, and costThe Cal Poly International Center is highly supportive of access to study abroad opportunities for all students. Representatives from the Cal Poly International Center will guide you through goal setting, financial and academic planning, program selection, and the application process.</p>
+                        <div id="subpage_text1"><p>There are over 500 Cal Poly Approved study abroad programs in 75 countries under six categories. One of the categories is the Cal Poly Global Program, which are international academic programs designed by Cal Poly faculty members in collaboration with the Cal Poly International Center. Currently, there are 12 short-term programs in Europe and Asia with extensive field trips, varying in academic and learning objectives, location, duration, excursions, cultural activities, and cost. The Cal Poly International Center is highly supportive of student access to study abroad opportunities. Representatives from the Cal Poly International Center will guide you through goal setting, financial and academic planning, program selection, and the application process.</p>
 
                     </div>
 
@@ -78,7 +78,7 @@ function printBody()
                     <!-- end of inage division-->
                     <div id="subpage_text2">
                         <p><div id="subpage_text_title"><a href="https://www.calpoly.edu/">About Cal Poly, San Luis Obispo</a></div> </br>
-                            <div><p>Cal Poly is a nationally ranked public university that prides itself in the individual success of its students. Cal Poly is driven by its core philosophy of Learn by doing a powerful combination of academic extensive and hands-on experience. The talented faculty and staff have an unwavering commitment to helping Cal Poly students learn, do, and succeed.</p>
+                            <div><p>Cal Poly is a nationally ranked public university that prides itself in the individual success of its students. Cal Poly is driven by its core philosophy of Learn By Doing--a powerful combination of academic extensive and hands-on experience. The talented faculty and staff have an unwavering commitment to helping Cal Poly students learn, do, and succeed.</p>
                             </div>
                         
                     </div>

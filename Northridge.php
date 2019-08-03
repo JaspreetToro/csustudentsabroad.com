@@ -57,7 +57,7 @@ function printBody()
                     <div class="subpage_full_text">
                         <div id="subpage_text_title"><a href="https://www.csun.edu/international/study-abroad">Study Abroad Support
                         </a></div></br>
-                        <div id="subpage_text1"><p> CSUN’s International & Exchange Student Center (IESC) provides support to students who are interested in studying abroad. The IESC actively promotes international study and domestic exchange opportunities for all students. Currently, there are 4 different study abroad programs to choose from that varies in length and requirements.  Learn a variety of options as you navigate your way in finding the right program, as staff members can also guide you through the process.</p>
+                        <div id="subpage_text1"><p> CSUN’s International & Exchange Student Center (IESC) provides support to students who are interested in studying abroad. The IESC actively promotes the international study and domestic exchange opportunities for all students. Currently, there are 4 different study abroad programs to choose from that varies in length and requirements.  Learn a variety of options as you navigate your way in finding the right program, while staff members are available to guide you through the process.</p>
                         </div>
 
 
@@ -78,7 +78,7 @@ function printBody()
                     <div id="subpage_text2">
                         <p><div id="subpage_text_title"><a href="https://www.csun.edu/">About CSU Northridge</a></div> </br>  
                             <div>California State University, Northridge is a vibrant, diverse university community of 38,310 students and more than 4,000 faculty and staff, sited on a 356-acre campus in the heart of Los Angeles' San Fernando Valley. 
-                        As part of the 23-campus California State University system, Cal State Northridge (CSUN) is one of the largest universities in the nation, enrolling approximately 39,800 full- and part-time students in Fall 2017. CSUN, a liberal arts institution, also has substantial programs in technological and professional fields. CSUN has nine colleges and more than 2,000 faculty members, who teach courses leading to bachelor’s degrees in 69 disciplines, master’s degrees in 61 fields and doctorates in educational leadership and physical therapy, as well as 14 teaching credential programs.</p>
+                        As part of the 23-campus California State University system, Cal State Northridge (CSUN) is one of the largest universities in the nation. CSUN, a liberal arts institution, also has substantial programs in technological and professional fields. CSUN has nine colleges and more than 2,000 faculty members, who teach courses leading to bachelor’s degrees in 69 disciplines, master’s degrees in 61 fields and doctorates in educational leadership and physical therapy, as well as 14 teaching credential programs.</p>
                             </div>
                         
                     </div>

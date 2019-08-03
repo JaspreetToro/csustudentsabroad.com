@@ -56,7 +56,7 @@ function printBody()
                     
                     <div class="subpage_full_text">
                         <div id="subpage_text_title"><a href="https://oip.sfsu.edu/sfstateabroad">Study Abroad Support</a></div></br>
-                        <div id="subpage_text1"><p>The Study Abroad Office is part of the Office of International Programs with advisors and assistants helping students find the best program. The Office of International Programs works closely with faculty, staff, students, scholars and international alumni in supporting initiatives to internationalize the university. SF State Abroad supports all interested students who meet program requirements to participate and encourages diversity abroad. One of the most popular programs is The International Documentary Film Summer Workshop, a flagship program organized and sponsored by the School of Cinema since 2010. This is one of many exciting programs San Francisco State offers for various majors. 
+                        <div id="subpage_text1"><p>The Study Abroad Office is part of the Office of International Programs with advisors and assistants helping students find the best program. The Office of International Programs works closely with faculty, staff, students, scholars, international alumni in supporting initiatives to internationalize the university. SF State Abroad supports all interested students who meet program requirements to participate and encourages diversity abroad. One of the most popular programs is The International Documentary Film Summer Workshop, a flagship program organized and sponsored by the School of Cinema since 2010. This is one of many exciting programs San Francisco State offers for various majors. 
                         </div>
 
 

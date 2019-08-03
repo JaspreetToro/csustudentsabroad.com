@@ -55,7 +55,7 @@ function printBody()
                 <div class="subpage_full_text">
                     <div id="subpage_text_title"><a href="https://www.csuchico.edu/studyabroad/index.shtml">Study Abroad Support</a></div></br>
                     <div id="subpage_text1"><p>The Study Abroad Office is made up of many people, staff, student workers, interns, and volunteers all working 		      together on a daily basis to give you the best service possible and to help you achieve your goals and dreams abroad.  
-                        	<a href="https://rce.csuchico.edu/passport">Passport to Learning</a>  offers  Chico students, as well as students from other universities, the opportunity to travel and learn in unique, short term, faculty-led study abroad programs offered during winter and summer sessions. Developed by dedicated faculty and designed to enhance your educational experience, these programs are exciting ways to experience the language, culture, and people of the host country. Destinations are in Nepal, Ecuador, Thailand/China, and the United Kingdom.</p>
+                        	<a href="https://rce.csuchico.edu/passport"> Passport to Learning</a>  offers  Chico students, as well as students from other universities, the opportunity to travel and learn in unique, short term, faculty-led study abroad programs during winter and summer sessions. Developed by dedicated faculty and designed to enhance your educational experience, these programs are exciting ways to experience the language, culture, and people of the host country. Destinations are in Nepal, Ecuador, Thailand/China, and the United Kingdom.</p>
 
                     </div>
 
@@ -74,7 +74,7 @@ function printBody()
                     <!-- end of inage division-->
                     <div id="subpage_text2">
                         <div id="subpage_text_title"><a href="https://www.csuchico.edu/about/">About Chico State</a></div> </br>
-                        <div><p>Founded in 1887, Chico State is committed in scholarly pursuit, civic engagement, and community outreach. Chico has been rated a top 10 		regional public university in the West by U.S. News & World Report since 1998. The university is committed to assist students in their 			search for knowledge and prepare them in order to assume responsibility in a democratic community and be useful members of a global society. The university’s unique combination of scholarly pursuits, civic engagement, and a very real connection to the Chico community earns its national and international accolades.</p>
+                        <div><p>Founded in 1887, Chico State is committed in scholarly pursuit, civic engagement, and community outreach. Chico has been rated a top 10 regional public university in the West by U.S. News & World Report since 1998. The university is committed to assist students in their search for knowledge and prepare them in order to assume responsibility in a democratic community and be useful members of a global society. The university’s unique combination of scholarly pursuits, civic engagement, and a very real connection to the Chico community earns national and international accolades.</p>
                         </div>
                         
                     </div>

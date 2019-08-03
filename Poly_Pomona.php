@@ -77,7 +77,7 @@ function printBody()
                     <!-- end of inage division-->
                     <div id="subpage_text2">
                         <p><div id="subpage_text_title"><a href="https://www.cpp.edu/">About Cal Poly Pomona</a></div> </br> 
-                            <div>Cal Poly Pomona is among the best public universities in the West and is nationally ranked for helping students achieve economic success. As an inclusive polytechnic university, Cal Poly Pomona cultivates success through experiential learning, discovery, and innovation.  Graduates are ready to succeed in the professional world. Faculty in all disciplines put theory to practice, providing students with opportunities to apply their knowledge in hands-on projects, research collaborations, and valuable internship and service-learning programs.</p>
+                            <div>Cal Poly Pomona is among the best public universities in the West and is nationally ranked for helping students achieve economic success. As an inclusive polytechnic university, Cal Poly Pomona cultivates success through experiential learning, discovery, and innovation. As a result, graduates are ready to succeed in the professional world. Faculty in all disciplines put theory to practice, providing students with opportunities to apply their knowledge in hands-on projects, research collaborations, and provides valuable internship and service-learning programs.</p>
                             </div>
                         
                     </div>
