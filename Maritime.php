@@ -77,7 +77,7 @@ function printBody()
                     <div id="subpage_text2">
                         <p><div id="subpage_text_title"><a href="https://www.csum.edu/web/mycampus/home">About Cal Maritime</a></div> </br>
                             <div>Maritime Academy is a small, structured, focused campus providing high-quality education and the only degree-granting maritime academy on the West Coast. This campus is open to a select number of exchange students with a demonstrated interest in maritime affairs in the fields of engineering, international business, and global studies. </br>
-                        Global awareness comprises one of the cornerstones of the mission of Cal Maritime, and this objective is met in numerous ways.  Studies in globalization and the knowledge of other peoples and places are taught in a variety of courses and the Training Ship Golden Bear offers students the opportunity to visit different countries across the Pacific Rim. are also other channels by which students may pursue their academic interests at universities around the world.
+                        Global awareness comprises one of the cornerstones of the mission of Cal Maritime and this objective is met in numerous ways. Studies in globalization and the knowledge of other people and places are taught in a variety of courses and the Training Ship Golden Bear offers students the opportunity to visit different countries across the Pacific Rim. There are also other channels by which students may pursue their academic interests at universities around the world.
                              </div>
                         </p>
                         

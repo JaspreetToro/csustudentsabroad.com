@@ -57,7 +57,7 @@ function printBody()
                     <div class="subpage_full_text">
                         <div id="subpage_text_title"><a href="http://go.sdsu.edu/student_affairs/isc/studyabroad.aspx">Shared Programs
                         </a></div></br>
-                        <div id="subpage_text1"><p> In conjunction with campus departments and faculty, the College of Extended Studies offers short-term study abroad programs which are available to students and the general public. SDSU education abroad programs provide students with the knowledge, understanding, and skills that are essential to a 21st century college education. With programs in over 50 countries,  students are encouraged to explore and learn more about the study abroad process. The duration  of short-term programs are generally 1.5 to 6 weeks, taught, and led by an SDSU professor. These programs have between 15 to 30 students and run during the summer, but there are also many winter and spring break options. The faculty leader of the program is the main point of contact. </p>
+                        <div id="subpage_text1"><p> In conjunction with campus departments and faculty, the College of Extended Studies has short-term study abroad programs, which are also available to other CSU Students and the general public. SDSU education abroad programs provide students with the knowledge, understanding, and skills that are essential to a 21st century college education. With programs in over 50 countries,  students are encouraged to explore and learn more about the study abroad process. The duration  of short-term programs are generally 1.5 to 6 weeks, taught, and led by an SDSU professor. These programs have between 15 to 30 students and run during the summer, but there are also many winter and spring break options. The faculty leader of the program is the main point of contact. </p>
                         </div>
 
                 </div>
@@ -76,8 +76,7 @@ function printBody()
                     <!-- end of inage division-->
                     <div id="subpage_text2">
                         <p><div id="subpage_text_title"><a href="https://www.sdsu.edu/">About San Diego State</a></div> </br> 
-                            <div>At San Diego State University, “Leadership Starts Here” is a bold statement of their ethos. It is a fundamental principle that guides their actions and an enduring promise fulfilled through the lives of students, faculty, staff, and alumni. </br>
-                        Each year, SDSU provides  36,000 students with the opportunity to participate in an academic curriculum distinguished by direct contact with faculty. Along with an international emphasis that prepares them for a global future, students can choose from 95 bachelors, 78 masters, and 22 doctrinal degree programs. </p>
+                            <div>At San Diego State University, “Leadership Starts Here” is a bold statement of their ethos. It is a fundamental principle that guides their actions and an enduring promise fulfilled through the lives of students, faculty, staff, and alumni. Each year, SDSU provides  36,000 students with the opportunity to participate in an academic curriculum distinguished by direct contact with faculty. Along with an international emphasis that prepares them for a global future, students can choose from 95 bachelors, 78 masters, and 22 doctrinal degree programs.</p>
                             </div>
                         
                     </div>

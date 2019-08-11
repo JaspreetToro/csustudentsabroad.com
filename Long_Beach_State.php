@@ -57,7 +57,7 @@ function printBody()
                     <div class="subpage_full_text">
                         <div id="subpage_text_title"><a href="https://csulb-sa.terradotta.com/">Shared Programs
                         </a></div></br>
-                        <div id="subpage_text1"><p>  CSU Long Beach offers many opportunities to study abroad through numerous programs and prides itself as being one of the top study abroad providers in the nation. CSULB short-term, Faculty-Led Study Abroad Program offers dozens of summer and winter destinations in Asia, West Indies, Europe, North America, and the Middle East, open to all majors on a space available basis. (Faculty permission is required). Students can have fun, learn, and earn academic credit within a short period of time. Although each program’s length varies, you’ll find one to fit your budget and interests.</p>
+                        <div id="subpage_text1"><p>  CSU Long Beach offers many opportunities to study abroad through numerous programs and prides itself as being one of the top study abroad providers in the nation. CSULB short-term, Faculty-Led Study Abroad Program offers dozens of summer and winter destinations to Asia, West Indies, Europe, North America, and the Middle East, open to all majors on a space available basis. (Faculty permission is required). Students can have fun, learn, and earn academic credit within a short period of time. Although each program’s length varies, you’ll find one to fit your budget and interests.</p>
                         </div>
 
 
@@ -77,7 +77,7 @@ function printBody()
                     <!-- end of inage division-->
                     <div id="subpage_text2">
                         <div id="subpage_text_title"><a href="http://www.csulb.edu//">About CSU Long Beach</a></div> </br>
-                            <div><p>California State University Long Beach is more than the beach. It’s more than a blue pyramid and a nationally recognized art museum. The 322-acre campus is home to top-notch professors, successful alumni with a diverse student population, ready to take on the world. CSULB is known for creating educational opportunities, encouraging creativity, and preparing the next generation of leaders for a rapidly changing world. The university is one of the best-valued schools in the state with low tuition fees, high social mobility rate, and earning potential after graduation. </p>
+                            <div><p>California State University Long Beach is known more than "the beach" a blue pyramid and a nationally recognized art museum. The 322-acre campus is home to top-notch professors, successful alumni with a diverse student population, ready to take on the world. CSULB is known for creating educational opportunities, encouraging creativity, and preparing the next generation of leaders for a rapidly changing world. The university is one of the best-valued schools in the state with low tuition fees, high social mobility rate, and earning potential after graduation. </p>
                             </div>
                         
                     </div>
