@@ -70,7 +70,10 @@ function printBody()
         <!-- end of subpage_left_container_top  -->
      </div>
                     <!-- end of  subpage_full_text-->
-                    <div id="addition_links"></div>
+                    <div id="addition_links">
+                        <div id="subpage_text_title"><a href="http://go.sdsu.edu/student_affairs/isc/studyabroad.aspx">Study Abroad Support</a></div></br>
+                        The goal of the Study Abroad Office is to provide you the best in services and support. The staff provides student advising on academic matters and students in studying abroad. Also, they conduct study abroad information and pre-departure orientation sessions and encourages the campus community to engage in international education opportunities. Attend the Study Abroad Fair to learn more about the many international programs offered at SDSU. Faculty and staff from all SDSU academic departments will be available to discuss opportunities. Since SDSU has hundreds of programs in 50 countries, visit the Study Abroad Office or the website for more information and use the Aztecs Abroad database for details on programs.
+                    </div>
                     <div id="subpage_image" style="background:url(../images/sandiego1.jpg);">
                     </div>
                     <!-- end of inage division-->

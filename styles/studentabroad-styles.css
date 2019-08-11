@@ -2333,6 +2333,11 @@ div#subpage_text1{
 
 }
 
+div #addition_links{
+	background-color: #FFFFFF;
+	padding: 15px 25px 15px 25px;
+}
+
 div#subpage_text_title{
 	
 	font-size: 14pt;

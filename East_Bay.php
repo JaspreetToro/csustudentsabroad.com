@@ -67,7 +67,11 @@ function printBody()
         <!-- end of subpage_left_container_top  -->
      </div>
                     <!-- end of  subpage_full_text-->
-                    <div id="addition_links"></div>
+                    
+                    <div id="addition_links">
+                        <div id="subpage_text_title"><a href="http://www.csueastbay.edu/studyabroad/options.html">Study Abroad Support</a></div></br>
+                        The study abroad opportunities offered through California State University, East Bay allow Cal State East Bay students to go overseas for one semester or an academic year and gain academic credit towards their degree at an affordable price. Students can study a variety of majors in a number of different countries. For example, you can study Multiculturalism in Denmark, International Business in Korea, History in Spain, or Biochemistry in Sweden, just to name a few possibilities. There are several program options: CSUEB Exchange Programs, International Student Exchange Program, and the National Student Exchange. Students can explore their options by visiting the Center for International Education Office or by reading about the programs on their website. 
+                    </div>
                     <div id="subpage_image" style="background:url(../images/eastbay1.jpg);">
                     </div>
                     <!-- end of inage division-->

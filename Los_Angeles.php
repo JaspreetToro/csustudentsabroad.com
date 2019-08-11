@@ -71,7 +71,10 @@ function printBody()
         <!-- end of subpage_left_container_top  -->
      </div>
                     <!-- end of  subpage_full_text-->
-                    <div id="addition_links"></div>
+                    <div id="addition_links">
+                        <div id="subpage_text_title"><a href="http://edit.calstatela.edu/international/study-abroad">Study Abroad Support</a></div></br>
+                        The Study Abroad Information Session will help you explore your options such as: CSU IP, Faculty-Led Program, Independent/Affiliated Program, and the Exchange Program. The staff offers specific services that each advisor provides, as well as opportunities to finance your study abroad program.  Since Cal State LA joined the Institute of International Education’s (IIE) Generation Study Abroad initiative, more students can now gain international experience through study abroad programs. Under this partnership, the university has new exchange partners for summer, semester and year-long programs. Additionally, short-term study abroad opportunities accommodate your busy academic schedule, while allowing you to make progress toward your degree.
+                    </div>
                     <div id="subpage_image" style="background:url(../images/la1.jpg);">
                     </div>
                     <!-- end of inage division-->

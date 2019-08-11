@@ -71,7 +71,10 @@ function printBody()
         <!-- end of subpage_left_container_top  -->
      </div>
                     <!-- end of  subpage_full_text-->
-                    <div id="addition_links"></div>
+                    <div id="addition_links">
+                        <div id="subpage_text_title"><a href="https://csulb-sa.terradotta.com/">Study Abroad Support</a></div></br>
+                        The Study Abroad Office has a well-organized staff to assist and advise students with any questions. In order to provide more opportunities for students, the staff will conduct various workshops to meet your needs such as applying for scholarships. Also, to help you with the study abroad process, go to the website and answer the questions they listed, because this will help you research and select a program. There are also many travel resources they can provide, so you will have everything you need to go abroad. If you are interested in the CSU IP, contact their Exchange Coordinator for exact deadline dates and instructions. Application forms and detailed program information are available from your university’s exchange advisor. Or, see your home campus advisor for a copy of the CSU system-wide application. 
+                    </div>
                     <div id="subpage_image" style="background:url(../images/longbeach1.jpg);">
                     </div>
                     <!-- end of inage division-->

@@ -68,7 +68,10 @@ function printBody()
         <!-- end of subpage_left_container_top  -->
      </div>
                     <!-- end of  subpage_full_text-->
-                    <div id="addition_links"></div>
+                    <div id="addition_links">
+                        <div id="subpage_text_title"><a href="https://humboldt-international.terradotta.com/">Study Abroad Support</a></div></br>
+                        Humboldt State University and the Center for International Programs would like to encourage all students to consider studying abroad. Each year students from numerous academic majors and minors study abroad to gain valuable international experience and work towards graduation. The Study Abroad Office is available for students inquiring about programs, financial information, and the application process. Attend an information meeting or the Study Abroad Fair to learn more about studying abroad. The staff can provide pre-departure resources to help with your preparation.
+                    </div>
                     <div id="subpage_image" style="background:url(../images/humboldt1.jpg);">
                     </div>
                     <!-- end of inage division-->
