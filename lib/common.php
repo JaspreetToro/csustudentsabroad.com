@@ -1052,11 +1052,11 @@ function printStudentHandbookMenu()
 <ul class="student_handbook_container">
     <li class="menu">
         <ul>
-            <li class="button"><a href="#" class="dropdown_button">Understanding Study Abroad
+            <li class="button"><a href="#" class="dropdown_button" id="select_active">Understanding Study Abroad
                 <span>
                 </span>
                 </a></li>
-            <li class="dropdown">
+            <li class="dropdown" style="display: list-item;">
                 <ul>
                     <li><a href="/handbook/introduction.php?country=General">Introduction</a></li>
                     <li><a href="/handbook/why-study-abroad.php?country=general">Why Study Abroad?</a></li>
@@ -1072,7 +1072,7 @@ function printStudentHandbookMenu()
                 <span>
                 </span>
                 </a></li>
-            <li class="dropdown">
+            <li class="dropdown" style="display: list-item;">
                 <ul>
                     <li><a href="/handbook/finding-quality-program.php?country=general">Finding a Quality Program</a></li>
                     <li><a href="/handbook/select-the-right-program.php?country=general">Selecting the Right Program for You</a></li>
@@ -1089,7 +1089,7 @@ function printStudentHandbookMenu()
                 <span>
                 </span>
                 </a></li>
-            <li class="dropdown">
+            <li class="dropdown" style="display: list-item;">
                 <ul>
                     <li><a href="/handbook/pre-departure-planning.php?country=general">Pre-Departure Planning</a></li>
                     <li><a href="/handbook/how-foreign-laws-apply-to-you.php?country=general">How Foreign Law Apply to You</a></li>
@@ -1107,7 +1107,7 @@ function printStudentHandbookMenu()
                 <span>
                 </span>
                 </a></li>
-            <li class="dropdown">
+            <li class="dropdown" style="display: list-item;">
                 <ul>
                     <li><a href="/handbook/medical-care-and-insurance.php?country=general">Medical Care and Insurance</a></li>
                     <li><a href="/handbook/basic-health-and-safety.php?country=general">Basic Health and Safety</a></li>
@@ -1125,7 +1125,7 @@ function printStudentHandbookMenu()
                 <span>
                 </span>
                 </a></li>
-            <li class="dropdown">
+            <li class="dropdown" style="display: list-item;">
                 <ul>
                     <li><a href="/handbook/airport-procedures.php?country=general">Airport Safety, Duties, and Customs</a></li>
                     <li><a href="/handbook/reverse-culture-shock.php?country=general">Reverse Culture Shock</a></li>
@@ -1140,7 +1140,7 @@ function printStudentHandbookMenu()
                 <span>
                 </span>
                 </a></li>
-            <li class="dropdown">
+            <li class="dropdown" style="display: list-item;">
                 <div class="submenu_title">Resources Tools</div>
                 <ul>
                     <li><a href="/handbook/questions.php?country=general">Questions</a></li>
