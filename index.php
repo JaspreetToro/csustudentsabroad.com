@@ -121,13 +121,15 @@ global $banner;
             <div id="sponsors">
                 
                 
-                </div>
+             </div>
                 <div id="study_abroad_resources" style="padding-top: 50px;">
                     <div id="student_handbook_title_container">
                         <div id="student_handbook_title">Study Abroad <br />
-                            Student Handbook</div>
+                            Student Handbook
+                        </div>
                     </div>
-                    <div class="student_handbook_menu"> <?php printStudentHandbookMenu()?> </div>
+                    <div class="student_handbook_menu"> <?php printStudentHandbookMenu()?> 
+                	</div>
                 </div>
                 <div id="quicklinks_container">
                     <div id="quicklinks_title_container">
