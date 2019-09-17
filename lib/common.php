@@ -1053,10 +1053,8 @@ function printStudentHandbookMenu()
     <li class="menu">
         <ul>
             <li class="button"><a href="#" class="dropdown_button" id="select_active">Understanding Study Abroad
-                <span>
-                </span>
                 </a></li>
-            <li class="dropdown" style="display: list-item;">
+            <li class="dropdown" style="display:list-item;">
                 <ul>
                     <li><a href="/handbook/introduction.php?country=General">Introduction</a></li>
                     <li><a href="/handbook/why-study-abroad.php?country=general">Why Study Abroad?</a></li>

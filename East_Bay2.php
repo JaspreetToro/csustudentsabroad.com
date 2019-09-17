@@ -283,15 +283,25 @@ function printBody()
 
                     </div>
 
-                  <div id="study_abroad_resources" style="padding-top: 50px;">
-                        <div id="student_handbook_title_container">
-                            <div id="student_handbook_title">Study Abroad <br />
-                                Student Handbook
-                            </div>
-                        </div>
-                        <div class="student_handbook_menu"> <?php printStudentHandbookMenu()?> 
-                        </div>
-                    </div>
+                  <div class="dropdown">
+  <button id="myBtn" class="dropbtn">Dropdown</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </div>
+</div>
+
+<script>
+// Get the button, and when the user clicks on it, execute myFunction
+document.getElementById("myBtn").onclick = function() {myFunction()};
+
+/* myFunction toggles between adding and removing the show class, which is used to hide and show the dropdown content */
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+</script>
+
                     <div id="program_search_sm">
 
                         <div id="program_search_top" title="STUDY ABROAD PROGRAM SEARCH">
